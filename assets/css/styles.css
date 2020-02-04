@@ -41,16 +41,19 @@ a {
   -webkit-transition: all 0.3s;
   -o-transition: all 0.3s;
   transition: all 0.3s;
-  text-decoration: none;
+  text-decoration: underline;
+  font-weight: bold;
+  color: #ff8a00;
 }
 
 a:hover {
+  color: #000000;
   text-decoration: none;
 }
 
 a:focus {
   text-decoration: none;
-  color: #707070;
+  color: #ff8a00;
   outline: 0;
 }
 
