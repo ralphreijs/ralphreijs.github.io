@@ -563,7 +563,7 @@ img {
 
 .portfolio-wrap .grid-item {
   width: 100%;
-  padding: 10px;
+  padding: 10px; 
 }
 
 .portfolio-wrap .grid-item--width2 {
@@ -573,3 +573,4 @@ img {
 /* ========== Testimonal CSS ========== */
 
 
+// TEST
