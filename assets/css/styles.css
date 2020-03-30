@@ -568,6 +568,8 @@ img {
 
 .portfolio-wrap .grid-item--width2 {
   /*width: 50%;*/ 
+  left: 0px;
+  top: 0px;
 }
 
 /* ========== Testimonal CSS ========== */
