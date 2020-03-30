@@ -496,7 +496,7 @@ img {
 
 /* ========== Portfolio CSS ========== */
 .portfolio-wrap .portfolio-item .portfolio-thumb {
-  position: relative;
+  /*position: relative;*/
 }
 
 .portfolio-wrap .portfolio-item .portfolio-thumb img {
@@ -538,8 +538,8 @@ img {
   color: #fff;
   font-size: 18px;
   margin-left: 15px;
-  width: 42px;
-  height: 42px;
+  /*width: 42px;*/
+  /*height: 42px;*/
   border: 1px solid #eee;
   line-height: 36px;
   margin-bottom: 20px;
@@ -573,4 +573,3 @@ img {
 /* ========== Testimonal CSS ========== */
 
 
-// TEST
