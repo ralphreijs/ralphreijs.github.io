@@ -496,7 +496,7 @@ img {
 
 /* ========== Portfolio CSS ========== */
 .portfolio-wrap .portfolio-item .portfolio-thumb {
-  /*position: relative;*/
+  position: relative;
 }
 
 .portfolio-wrap .portfolio-item .portfolio-thumb img {
@@ -538,8 +538,8 @@ img {
   color: #fff;
   font-size: 18px;
   margin-left: 15px;
-  /*width: 42px;*/
-  /*height: 42px;*/
+  width: 42px;
+  height: 42px;
   border: 1px solid #eee;
   line-height: 36px;
   margin-bottom: 20px;
@@ -562,14 +562,12 @@ img {
 }
 
 .portfolio-wrap .grid-item {
-  width: 100%;
-  padding: 10px; 
+  width: 25%;
+  padding: 10px;
 }
 
 .portfolio-wrap .grid-item--width2 {
   /*width: 50%;*/ 
-  left: 0px;
-  top: 0px;
 }
 
 /* ========== Testimonal CSS ========== */
