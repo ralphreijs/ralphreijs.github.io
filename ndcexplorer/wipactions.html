@@ -1,0 +1,1032 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>NDC Explorer | Active Actions</title>
+
+    <!-- Bootstrap -->
+    <link href="../vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link href="../vendors/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <!-- NProgress -->
+    <link href="../vendors/nprogress/nprogress.css" rel="stylesheet">
+    <!-- iCheck -->
+    <link href="../vendors/iCheck/skins/flat/green.css" rel="stylesheet">
+    <!-- Datatables -->
+    <link href="../vendors/datatables.net-bs/css/dataTables.bootstrap.min.css" rel="stylesheet">
+    <link href="../vendors/datatables.net-buttons-bs/css/buttons.bootstrap.min.css" rel="stylesheet">
+    <link href="../vendors/datatables.net-fixedheader-bs/css/fixedHeader.bootstrap.min.css" rel="stylesheet">
+    <link href="../vendors/datatables.net-responsive-bs/css/responsive.bootstrap.min.css" rel="stylesheet">
+    <link href="../vendors/datatables.net-scroller-bs/css/scroller.bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom Theme Style -->
+    <link href="../build/css/custom.min.css" rel="stylesheet">
+  </head>
+
+  <body class="nav-md">
+    <div class="container body">
+      <div class="main_container">
+        <div class="col-md-3 left_col">
+          <div class="left_col scroll-view">
+            <div class="navbar nav_title" style="border: 0;">
+              <a href="index.html" class="site_title"><img src=images/ncsd.png width=50 height=50></img> <span>NDC Explorer</span></a>
+            </div>
+
+            <div class="clearfix"></div>
+
+            <!-- menu profile quick info -->
+            <div class="profile clearfix">
+              <div class="profile_pic">
+                <img src="images/img.jpg" alt="..." class="img-circle profile_img">
+              </div>
+              <div class="profile_info">
+                <span>Welcome,</span>
+                <h2>Sey Peou</h2>
+              </div>
+            </div>
+            <!-- /menu profile quick info -->
+
+            <br />
+
+            <!-- sidebar menu -->
+            <div id="sidebar-menu" class="main_menu_side hidden-print main_menu">
+              <div class="menu_section">
+                <h3>General</h3>
+                <ul class="nav side-menu">
+                  <li><a><i class="fa fa-tachometer"></i> Dashboards <span class="fa fa-chevron-down"></span></a>
+                    <ul class="nav child_menu">
+                      <li><a href="mitigation.html">Mitigation</a></li>
+                      <li><a href="adaptation.html">Adaptation</a></li>
+                      <li><a href="greenhouse.html">Greenhouse Gases</a></li>
+                    </ul>
+                  </li>
+                  <li><a><i class="fa fa-table"></i> Action Items <span class="fa fa-chevron-down"></span></a>
+                    <ul class="nav child_menu">
+                      <li><a href="mitigationactions.html">Mitigation Actions</a></li>
+                      <li><a href="adaptationactions.html">Adaptation Actions</a></li>
+                      <li><a href="allactions.html">All Actions</a></li>
+                      <li><a href="myactions.html">My Actions</a></li>
+                      <li><a href="wipactions.html">Active Actions</a></li>
+                      <li><a href="completedactions.html">Completed Actions</a></li>
+                    </ul>
+                  </li>
+                </ul>
+              </div>
+
+            </div>
+            <!-- /sidebar menu -->
+
+
+
+            <!-- /menu footer buttons -->
+            <div class="sidebar-footer hidden-small">
+              <a data-toggle="tooltip" data-placement="top" title="Settings">
+                <span class="glyphicon glyphicon-cog" aria-hidden="true"></span>
+              </a>
+              <a data-toggle="tooltip" data-placement="top" title="FullScreen">
+                <span class="glyphicon glyphicon-fullscreen" aria-hidden="true"></span>
+              </a>
+              <a data-toggle="tooltip" data-placement="top" title="Lock">
+                <span class="glyphicon glyphicon-eye-close" aria-hidden="true"></span>
+              </a>
+              <a data-toggle="tooltip" data-placement="top" title="Logout" href="login.html">
+                <span class="glyphicon glyphicon-off" aria-hidden="true"></span>
+              </a>
+            </div>
+            <!-- /menu footer buttons -->
+          </div>
+        </div>
+
+        <!-- top navigation -->
+        <div class="top_nav">
+          <div class="nav_menu">
+            <nav>
+              <div class="nav toggle">
+                <a id="menu_toggle"><i class="fa fa-bars"></i></a>
+              </div>
+
+              <ul class="nav navbar-nav navbar-right">
+                <li class="">
+                  <a href="javascript:;" class="user-profile dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                    <img src="images/img.jpg" alt="">Sey Peou
+                    <span class=" fa fa-angle-down"></span>
+                  </a>
+                  <ul class="dropdown-menu dropdown-usermenu pull-right">
+                    <li><a href="javascript:;"> Profile</a></li>
+                    <li>
+                      <a href="javascript:;">
+                        <span class="badge bg-red pull-right">50%</span>
+                        <span>Settings</span>
+                      </a>
+                    </li>
+                    <li><a href="javascript:;">Help</a></li>
+                    <li><a href="login.html"><i class="fa fa-sign-out pull-right"></i> Log Out</a></li>
+                  </ul>
+                </li>
+
+                <li role="presentation" class="dropdown">
+                  <a href="javascript:;" class="dropdown-toggle info-number" data-toggle="dropdown" aria-expanded="false">
+                    <i class="fa fa-envelope-o"></i>
+                    <span class="badge bg-green">6</span>
+                  </a>
+                  <ul id="menu1" class="dropdown-menu list-unstyled msg_list" role="menu">
+                    <li>
+                      <a>
+                        <span class="image"><img src="images/img.jpg" alt="Profile Image" /></span>
+                        <span>
+                          <span>Sey Peou</span>
+                          <span class="time">3 mins ago</span>
+                        </span>
+                        <span class="message">
+                          Update on Adaptation Action #55
+                        </span>
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        <span class="image"><img src="images/img.jpg" alt="Profile Image" /></span>
+                        <span>
+                          <span>Sey Peou</span>
+                          <span class="time">3 mins ago</span>
+                        </span>
+                        <span class="message">
+                          Update on Mitigation Action #24
+                        </span>
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        <span class="image"><img src="images/img.jpg" alt="Profile Image" /></span>
+                        <span>
+                          <span>Sey Peou</span>
+                          <span class="time">3 mins ago</span>
+                        </span>
+                        <span class="message">
+                          Update on Adaptation Action #72
+                        </span>
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        <span class="image"><img src="images/img.jpg" alt="Profile Image" /></span>
+                        <span>
+                          <span>Sey Peou</span>
+                          <span class="time">3 mins ago</span>
+                        </span>
+                        <span class="message">
+                          Update on Mitigation Action #43
+                        </span>
+                      </a>
+                    </li>
+                    <li>
+                      <div class="text-center">
+                        <a>
+                          <strong>See All Alerts</strong>
+                          <i class="fa fa-angle-right"></i>
+                        </a>
+                      </div>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+        <!-- /top navigation -->
+
+        <!-- page content -->
+        <div class="right_col" role="main">
+          <div class="">
+            <div class="page-title">
+              <div class="title_left">
+                <h1>Active Actions</h1>
+              </div>
+
+              <div class="title_right">
+                <div class="col-md-5 col-sm-5 col-xs-12 form-group pull-right top_search">
+                  <div class="input-group">
+                    <input type="text" class="form-control" placeholder="Search for...">
+                    <span class="input-group-btn">
+                      <button class="btn btn-default" type="button">Go!</button>
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="clearfix"></div>
+
+            <div class="row">
+              <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="x_panel">
+                  <div class="x_title">
+                    <h2>All Actions </h2>
+                    <ul class="nav navbar-right panel_toolbox">
+                      <li><a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
+                      </li>
+                      <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><i class="fa fa-wrench"></i></a>
+                        <ul class="dropdown-menu" role="menu">
+                          <li><a href="#">Settings 1</a>
+                          </li>
+                          <li><a href="#">Settings 2</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li><a class="close-link"><i class="fa fa-close"></i></a>
+                      </li>
+                    </ul>
+                    <div class="clearfix"></div>
+                  </div>
+                  <div class="x_content">
+
+                    <table id="datatable" class="table table-striped table-bordered">
+                      <thead>
+                        <tr>
+                          <th>Number</th>
+                          <th>Type</th>
+                          <th>Sector</th>
+                          <th>Action</th>
+                          <th>Status</th>
+                        </tr>
+                      </thead>
+
+
+                      <tbody>
+
+
+                        <tr>
+                          <td>1</td>
+                          <td>Adaptation</td>
+                          <td>Agriculture</td>
+                          <td><a href="adaptationaction.html">Towards an Agroecological transition in the uplands of Battambang...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>1</td>
+                          <td>Mitigation</td>
+                          <td>Industry</td>
+                          <td><a href="mitigationaction.html">MISTI focuses on technical aspect of waste management inside the factories; Improve process only)…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>2</td>
+                          <td>Adaptation</td>
+                          <td>Agriculture</td>
+                          <td><a href="adaptationaction.html">"(Program 1: Improvement of Agricultural Productivity and Diversification and Agri-Business) Developm..."</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>2</td>
+                          <td>Mitigation</td>
+                          <td>Industry</td>
+                          <td><a href="mitigationaction.html">Improvement of process performance of EE by establishment of energy management in buildings/industri…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>3</td>
+                          <td>Mitigation</td>
+                          <td>Industry</td>
+                          <td><a href="mitigationaction.html">Efficiency energy and pollution management in latex and rubber wood processing…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>3</td>
+                          <td>Adaptation</td>
+                          <td>Agriculture</td>
+                          <td><a href="adaptationaction.html">Development of Horticulture and other food crops for increase production, improved quality-safety; h...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>4</td>
+                          <td>Mitigation</td>
+                          <td>Waste</td>
+                          <td><a href="mitigationaction.html">Development of strategies for waste management including hazardous waste management …</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>5</td>
+                          <td>Mitigation</td>
+                          <td>Waste</td>
+                          <td><a href="mitigationaction.html">New sanitary landfills with LFG extraction and LFG extraction at the Dangkor Landfill…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>5</td>
+                          <td>Adaptation</td>
+                          <td>Agriculture</td>
+                          <td><a href="adaptationaction.html">Improvement of support services and capacity building to crop production resilient to climate change...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>6</td>
+                          <td>Adaptation</td>
+                          <td>Agriculture</td>
+                          <td><a href="adaptationaction.html">Building climate change resilience on cassava production and processing...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>7</td>
+                          <td>Mitigation</td>
+                          <td>Waste</td>
+                          <td><a href="mitigationaction.html">Production of Refuse-Derived Fuel (RDF ) from either a) fresh MSW or b) …</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>8</td>
+                          <td>Mitigation</td>
+                          <td>Waste</td>
+                          <td><a href="mitigationaction.html">Implementation of National 3R strategy …</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>8</td>
+                          <td>Adaptation</td>
+                          <td>Agriculture</td>
+                          <td><a href="adaptationaction.html">Development of new technologies and increased yields by using new crop varieties which adapt to clim...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>9</td>
+                          <td>Adaptation</td>
+                          <td>Agriculture</td>
+                          <td><a href="adaptationaction.html">Development of rubber clone varieties suitable for AEZ and resilient to climate change...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>10</td>
+                          <td>Mitigation</td>
+                          <td>Energy</td>
+                          <td><a href="mitigationaction.html">Applicationof of electrical equipments labelling & MEPS…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>10</td>
+                          <td>Adaptation</td>
+                          <td>Agriculture</td>
+                          <td><a href="adaptationaction.html">Enhancing institutional and capacity development on climate change impact, vulnerability assessment,...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>12</td>
+                          <td>Adaptation</td>
+                          <td>Agriculture</td>
+                          <td><a href="adaptationaction.html">Promotion of research capacities on animal genetic, animal breeding, and animal feed is strengthened...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>13</td>
+                          <td>Adaptation</td>
+                          <td>Agriculture</td>
+                          <td><a href="adaptationaction.html">Strengthening capacities for risk prevention and reduction, effective emergency preparedness and res...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>14</td>
+                          <td>Adaptation</td>
+                          <td>Agriculture</td>
+                          <td><a href="adaptationaction.html">"(Program 3: Fishery Management and Aquaculture Development) Promoting aquaculture production syste..."</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>15</td>
+                          <td>Adaptation</td>
+                          <td>Agriculture</td>
+                          <td><a href="adaptationaction.html">Promoting climate resilience in the capture fisheries sector...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>16</td>
+                          <td>Adaptation</td>
+                          <td>Agriculture</td>
+                          <td><a href="adaptationaction.html">Scaled up climate‐resilient agricultural production through increased access to solar irrigation sys...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>17</td>
+                          <td>Adaptation</td>
+                          <td>Agriculture</td>
+                          <td><a href="adaptationaction.html">Developing a training manual and providing training on approaches for development of climate-smart a...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>18</td>
+                          <td>Adaptation</td>
+                          <td>Coastal Zones</td>
+                          <td><a href="adaptationaction.html">Protection, risk mitigation, and resilience building from marine pollution particularly caused by...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>21</td>
+                          <td>Adaptation</td>
+                          <td>Education</td>
+                          <td><a href="adaptationaction.html">Upgrading curriculum to include climate change for non-formal education...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>22</td>
+                          <td>Adaptation</td>
+                          <td>Education</td>
+                          <td><a href="adaptationaction.html">Build centres of excellence for delivering climate change courses and research among Universities...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>23</td>
+                          <td>Adaptation</td>
+                          <td>Education</td>
+                          <td><a href="adaptationaction.html">Conduct training for education officials on climate change e.g. as a required component of teacher t...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>24</td>
+                          <td>Adaptation</td>
+                          <td>Energy</td>
+                          <td><a href="adaptationaction.html">Conduct climate risk analysis for the existing electricity infrastructures and provide recommendatio...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>26</td>
+                          <td>Adaptation</td>
+                          <td>Gender</td>
+                          <td><a href="adaptationaction.html">Strengthen institutional capacities at national and sub-national levels to integrate gender responsi...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>28</td>
+                          <td>Adaptation</td>
+                          <td>Gender</td>
+                          <td><a href="adaptationaction.html">Enhance monitoring and evaluation systems of sectoral ministries to track gender outcomes in climate...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>31</td>
+                          <td>Adaptation</td>
+                          <td>Gender</td>
+                          <td><a href="adaptationaction.html">Market supply chain of rural women entrepreneurs resilient to climate change...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>32</td>
+                          <td>Adaptation</td>
+                          <td>Governance</td>
+                          <td><a href="adaptationaction.html">Local government and Climate Change-III (LGCC3)...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>33</td>
+                          <td>Adaptation</td>
+                          <td>Governance</td>
+                          <td><a href="adaptationaction.html">Reducing vulnerability of local communities though sub-national climate governance reform (focusing ...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>35</td>
+                          <td>Adaptation</td>
+                          <td>Human health</td>
+                          <td><a href="adaptationaction.html">Enhance climate resilience in health service delivery...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>36</td>
+                          <td>Adaptation</td>
+                          <td>Human health</td>
+                          <td><a href="adaptationaction.html">Strengthen and provide capacity building of technical guidelines for diagnosis, detection, control, ...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>37</td>
+                          <td>Adaptation</td>
+                          <td>Human health</td>
+                          <td><a href="adaptationaction.html">Conduct water sanitation and hygiene (WASH) assessment on climate change and develop planning for  ...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>38</td>
+                          <td>Adaptation</td>
+                          <td>Human health</td>
+                          <td><a href="adaptationaction.html">Strengthen institutional capacities to effectively integrate climate risks and adaptation options in...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>39</td>
+                          <td>Adaptation</td>
+                          <td>Industry</td>
+                          <td><a href="adaptationaction.html">Heat stress adaptation for industrial production ...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>41</td>
+                          <td>Adaptation</td>
+                          <td>Information</td>
+                          <td><a href="adaptationaction.html">Training and enhancing human capacity on climate change in information sector ...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>42</td>
+                          <td>Adaptation</td>
+                          <td>Information</td>
+                          <td><a href="adaptationaction.html">Urge private Media organizations to participate in covering/broadcasting the climate change topics a...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>43</td>
+                          <td>Adaptation</td>
+                          <td>Information</td>
+                          <td><a href="adaptationaction.html">Urge and encourage to reduce (or ban) all forms of commercial advertisement that has negative impact...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>45</td>
+                          <td>Adaptation</td>
+                          <td>Infrastructure - Buildings</td>
+                          <td><a href="adaptationaction.html">Develop resilient infrastructure of school buildings in response to climate change...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>46</td>
+                          <td>Adaptation</td>
+                          <td>Infrastructure - Buildings</td>
+                          <td><a href="adaptationaction.html">Implement climate change and disaster resilient construction and infrastructure standards including ...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>47</td>
+                          <td>Adaptation</td>
+                          <td>Infrastructure - Land use planning</td>
+                          <td><a href="adaptationaction.html">(DLUP) Prepare spatial planning (city/district/municipality) guidelines at all levels for climate ch...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>48</td>
+                          <td>Adaptation</td>
+                          <td>Infrastructure - Land use planning</td>
+                          <td><a href="adaptationaction.html">Integrating climate change response measures to the policy of social land concession (SLC) and its p...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>49</td>
+                          <td>Adaptation</td>
+                          <td>Infrastructure - Land use planning</td>
+                          <td><a href="adaptationaction.html">Prepare Modality of standardized green spaces for urban planning or new sub-cities to address vulner...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>50</td>
+                          <td>Adaptation</td>
+                          <td>Infrastructure - Land use planning</td>
+                          <td><a href="adaptationaction.html">Vulnerability Assessment towards the development of climate change strategic plans to respond to the...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>52</td>
+                          <td>Adaptation</td>
+                          <td>Infrastructure - Land use planning</td>
+                          <td><a href="adaptationaction.html">Promote proper low-cost shelters for low income households resilient to climate change, practically ...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>53</td>
+                          <td>Adaptation</td>
+                          <td>Infrastructure - Land use planning</td>
+                          <td><a href="adaptationaction.html">Development of building code with mainstreaming climate change into building designs...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>55</td>
+                          <td>Adaptation</td>
+                          <td>Infrastructure - Land use planning</td>
+                          <td><a href="adaptationaction.html">Strengthening Climate Resilient City...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>56</td>
+                          <td>Adaptation</td>
+                          <td>Infrastructure - Roads</td>
+                          <td><a href="adaptationaction.html">Develop national road construction and maintenance design standards for national and provincial road...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>57</td>
+                          <td>Adaptation</td>
+                          <td>Infrastructure - Roads</td>
+                          <td><a href="adaptationaction.html">Repair and rehabilitate existing road infrastructure and ensure effective operation and maintenance ...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>59</td>
+                          <td>Adaptation</td>
+                          <td>Knowledge sharing</td>
+                          <td><a href="adaptationaction.html">News coverage and program production for awareness raising on climate change and its impacts...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>60</td>
+                          <td>Adaptation</td>
+                          <td>Livelihoods, poverty and biodiversity</td>
+                          <td><a href="adaptationaction.html">Develop and annually update national and subnational multi-hazard and climate risk assessments, incl...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>61</td>
+                          <td>Adaptation</td>
+                          <td>Livelihoods, poverty and biodiversity</td>
+                          <td><a href="adaptationaction.html">National end-to-end Early Warning Systems with focus on effective dissemination to populations at ri...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>62</td>
+                          <td>Adaptation</td>
+                          <td>Livelihoods, poverty and biodiversity</td>
+                          <td><a href="adaptationaction.html">Implement community–based disaster and climate risk management programs...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>63</td>
+                          <td>Adaptation</td>
+                          <td>Livelihoods, poverty and biodiversity</td>
+                          <td><a href="adaptationaction.html">Building resilience of  biodiversity conservation and restoration to adapt to climate change...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>64</td>
+                          <td>Adaptation</td>
+                          <td>Livelihoods, poverty and biodiversity</td>
+                          <td><a href="adaptationaction.html">Integrated Village Development ...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>65</td>
+                          <td>Adaptation</td>
+                          <td>Livelihoods, poverty and biodiversity</td>
+                          <td><a href="adaptationaction.html">Strengthen flood resiliency capacity of communities around Tonle Sap (access to clean water, off gri...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>67</td>
+                          <td>Adaptation</td>
+                          <td>Policy and planning</td>
+                          <td><a href="adaptationaction.html">Building climate resilience for district and commune governance through policy and strategic develop...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>68</td>
+                          <td>Adaptation</td>
+                          <td>Policy and planning</td>
+                          <td><a href="adaptationaction.html">Mainstreaming climate change into Education Strategic Plan 2019-2023 Strategic Plan and SDG4 Roadmap...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>69</td>
+                          <td>Adaptation</td>
+                          <td>Policy and planning</td>
+                          <td><a href="adaptationaction.html">Strengthen the cooperation with local and International development agencies, NGOs and relevant inst...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>70</td>
+                          <td>Adaptation</td>
+                          <td>Policy and planning</td>
+                          <td><a href="adaptationaction.html">Development of climate change national/capital/ provincial development plans including an M&E system...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>71</td>
+                          <td>Adaptation</td>
+                          <td>Policy and planning</td>
+                          <td><a href="adaptationaction.html">Development of a climate change public investment program for the national/capital/ provincial level...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>72</td>
+                          <td>Adaptation</td>
+                          <td>Policy and planning</td>
+                          <td><a href="adaptationaction.html">Building adaptive and resilient capacity for MRD officers at national and sub-national level for mai...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>73</td>
+                          <td>Adaptation</td>
+                          <td>Policy and planning</td>
+                          <td><a href="adaptationaction.html">Build adaptive capacity on climate change for Village leaders (Village Development Committees, VDCs)...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>75</td>
+                          <td>Adaptation</td>
+                          <td>Tourism</td>
+                          <td><a href="adaptationaction.html">Raising public awareness on climate change innovation at all levels...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>76</td>
+                          <td>Adaptation</td>
+                          <td>Tourism</td>
+                          <td><a href="adaptationaction.html">Practicing smart agriculture in tourism sector...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>77</td>
+                          <td>Adaptation</td>
+                          <td>Water resources</td>
+                          <td><a href="adaptationaction.html">Establish an automated nation-wide hydromet monitoring network and data transmission program, includ...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>79</td>
+                          <td>Adaptation</td>
+                          <td>Water resources</td>
+                          <td><a href="adaptationaction.html">Establish a National Climate and Flood Warning system, including a service centre and flood emergenc...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>80</td>
+                          <td>Adaptation</td>
+                          <td>Water resources</td>
+                          <td><a href="adaptationaction.html">Integrated Groundwater Management in Cambodia...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>82</td>
+                          <td>Adaptation</td>
+                          <td>Water resources</td>
+                          <td><a href="adaptationaction.html">Resilient and Adaptive rural water supply and sanitation construction...</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>11</td>
+                          <td>Mitigation</td>
+                          <td>Energy</td>
+                          <td><a href="mitigationaction.html">Public awareness campaigns, DTEBP-EE info centres…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>13</td>
+                          <td>Mitigation</td>
+                          <td>Energy</td>
+                          <td><a href="mitigationaction.html">Introduction of efficient electrical industrial motors and transformer…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>14</td>
+                          <td>Mitigation</td>
+                          <td>Energy</td>
+                          <td><a href="mitigationaction.html">Improve sustainability of charcoal production through enforcement of regulations…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>15</td>
+                          <td>Mitigation</td>
+                          <td>Energy</td>
+                          <td><a href="mitigationaction.html">REDD+ Scenario  developed by the REDD+ team( 0.05% annual reduction of forest cover lost)…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>17</td>
+                          <td>Mitigation</td>
+                          <td>Energy</td>
+                          <td><a href="mitigationaction.html">Diversification of household and community energy generation sources to reduce reliance on biomass a…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>18</td>
+                          <td>Mitigation</td>
+                          <td>Energy</td>
+                          <td><a href="mitigationaction.html">Reducing GHG emission though off grid street lightening of rural municipality…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>19</td>
+                          <td>Mitigation</td>
+                          <td>Energy</td>
+                          <td><a href="mitigationaction.html">Toward Battambang city to green city…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>21</td>
+                          <td>Mitigation</td>
+                          <td>Energy</td>
+                          <td><a href="mitigationaction.html">Reducing GHG emission though off grid street lightening of rural municipality…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>22</td>
+                          <td>Mitigation</td>
+                          <td>Energy</td>
+                          <td><a href="mitigationaction.html">Cooling of Public Sector Buildings…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>23</td>
+                          <td>Mitigation</td>
+                          <td>Energy</td>
+                          <td><a href="mitigationaction.html">Promote sustainable energy practices in manufacturing…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>25</td>
+                          <td>Mitigation</td>
+                          <td>Transport</td>
+                          <td><a href="mitigationaction.html">Enhance maintenance and inspection of vehicle…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>27</td>
+                          <td>Mitigation</td>
+                          <td>Transport</td>
+                          <td><a href="mitigationaction.html">Establish green belts along major roads for climate change mitigation…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>28</td>
+                          <td>Mitigation</td>
+                          <td>Transport</td>
+                          <td><a href="mitigationaction.html">Shift long distance freight movement from trucks to train…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>30</td>
+                          <td>Mitigation</td>
+                          <td>Agriculture</td>
+                          <td><a href="mitigationaction.html">Organic input agriculture and bio-slurry; and deep placement fertilizer technology…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>31</td>
+                          <td>Mitigation</td>
+                          <td>Agriculture</td>
+                          <td><a href="mitigationaction.html">Promote fodder production to improve high  nutrient rich and high-quality forage feed value agricult…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>32</td>
+                          <td>Mitigation</td>
+                          <td>Agriculture</td>
+                          <td><a href="mitigationaction.html">Promote manure Management through compost making process to reduce carbon emission…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>34</td>
+                          <td>Mitigation</td>
+                          <td>Agriculture</td>
+                          <td><a href="mitigationaction.html">Seedlings distribute to public and local community…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>37</td>
+                          <td>Mitigation</td>
+                          <td>Forestry</td>
+                          <td><a href="mitigationaction.html">REDD+ Scenario  developed by the REDD+ team( 0.05% annual reduction of forest cover lost)…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+
+                      </tbody>
+                    </table>
+                  </div>
+
+                  
+                </div>
+              </div>
+
+					
+            </div>
+          </div>
+        </div>
+        <!-- /page content -->
+
+        <!-- footer content -->
+        <footer>
+          <div class="pull-right">
+            NDC Explorer by <a href="https://ralphreijs.github.io">Ralph Reijs</a>
+          </div>
+          <div class="clearfix"></div>
+        </footer>
+        <!-- /footer content -->
+      </div>
+    </div>
+
+    <!-- jQuery -->
+    <script src="../vendors/jquery/dist/jquery.min.js"></script>
+    <!-- Bootstrap -->
+    <script src="../vendors/bootstrap/dist/js/bootstrap.min.js"></script>
+    <!-- FastClick -->
+    <script src="../vendors/fastclick/lib/fastclick.js"></script>
+    <!-- NProgress -->
+    <script src="../vendors/nprogress/nprogress.js"></script>
+    <!-- iCheck -->
+    <script src="../vendors/iCheck/icheck.min.js"></script>
+    <!-- Datatables -->
+    <script src="../vendors/datatables.net/js/jquery.dataTables.min.js"></script>
+    <script src="../vendors/datatables.net-bs/js/dataTables.bootstrap.min.js"></script>
+    <script src="../vendors/datatables.net-buttons/js/dataTables.buttons.min.js"></script>
+    <script src="../vendors/datatables.net-buttons-bs/js/buttons.bootstrap.min.js"></script>
+    <script src="../vendors/datatables.net-buttons/js/buttons.flash.min.js"></script>
+    <script src="../vendors/datatables.net-buttons/js/buttons.html5.min.js"></script>
+    <script src="../vendors/datatables.net-buttons/js/buttons.print.min.js"></script>
+    <script src="../vendors/datatables.net-fixedheader/js/dataTables.fixedHeader.min.js"></script>
+    <script src="../vendors/datatables.net-keytable/js/dataTables.keyTable.min.js"></script>
+    <script src="../vendors/datatables.net-responsive/js/dataTables.responsive.min.js"></script>
+    <script src="../vendors/datatables.net-responsive-bs/js/responsive.bootstrap.js"></script>
+    <script src="../vendors/datatables.net-scroller/js/dataTables.scroller.min.js"></script>
+    <script src="../vendors/jszip/dist/jszip.min.js"></script>
+    <script src="../vendors/pdfmake/build/pdfmake.min.js"></script>
+    <script src="../vendors/pdfmake/build/vfs_fonts.js"></script>
+
+    <!-- Custom Theme Scripts -->
+    <script src="../build/js/custom.min.js"></script>
+
+  </body>
+</html>

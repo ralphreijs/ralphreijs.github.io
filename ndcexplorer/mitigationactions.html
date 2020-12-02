@@ -1,0 +1,583 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>NDC Explorer | Mitigation Actions</title>
+
+    <!-- Bootstrap -->
+    <link href="../vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link href="../vendors/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <!-- NProgress -->
+    <link href="../vendors/nprogress/nprogress.css" rel="stylesheet">
+    <!-- iCheck -->
+    <link href="../vendors/iCheck/skins/flat/green.css" rel="stylesheet">
+    <!-- Datatables -->
+    <link href="../vendors/datatables.net-bs/css/dataTables.bootstrap.min.css" rel="stylesheet">
+    <link href="../vendors/datatables.net-buttons-bs/css/buttons.bootstrap.min.css" rel="stylesheet">
+    <link href="../vendors/datatables.net-fixedheader-bs/css/fixedHeader.bootstrap.min.css" rel="stylesheet">
+    <link href="../vendors/datatables.net-responsive-bs/css/responsive.bootstrap.min.css" rel="stylesheet">
+    <link href="../vendors/datatables.net-scroller-bs/css/scroller.bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom Theme Style -->
+    <link href="../build/css/custom.min.css" rel="stylesheet">
+  </head>
+
+  <body class="nav-md">
+    <div class="container body">
+      <div class="main_container">
+        <div class="col-md-3 left_col">
+          <div class="left_col scroll-view">
+            <div class="navbar nav_title" style="border: 0;">
+              <a href="index.html" class="site_title"><img src=images/ncsd.png width=50 height=50></img> <span>NDC Explorer</span></a>
+            </div>
+
+            <div class="clearfix"></div>
+
+            <!-- menu profile quick info -->
+            <div class="profile clearfix">
+              <div class="profile_pic">
+                <img src="images/img.jpg" alt="..." class="img-circle profile_img">
+              </div>
+              <div class="profile_info">
+                <span>Welcome,</span>
+                <h2>Sey Peou</h2>
+              </div>
+            </div>
+            <!-- /menu profile quick info -->
+
+            <br />
+
+            <!-- sidebar menu -->
+            <div id="sidebar-menu" class="main_menu_side hidden-print main_menu">
+              <div class="menu_section">
+                <h3>General</h3>
+                <ul class="nav side-menu">
+                  <li><a><i class="fa fa-tachometer"></i> Dashboards <span class="fa fa-chevron-down"></span></a>
+                    <ul class="nav child_menu">
+                      <li><a href="mitigation.html">Mitigation</a></li>
+                      <li><a href="adaptation.html">Adaptation</a></li>
+                      <li><a href="greenhouse.html">Greenhouse Gases</a></li>
+                    </ul>
+                  </li>
+                  <li><a><i class="fa fa-table"></i> Action Items <span class="fa fa-chevron-down"></span></a>
+                    <ul class="nav child_menu">
+                      <li><a href="mitigationactions.html">Mitigation Actions</a></li>
+                      <li><a href="adaptationactions.html">Adaptation Actions</a></li>
+                      <li><a href="allactions.html">All Actions</a></li>
+                      <li><a href="myactions.html">My Actions</a></li>
+                      <li><a href="wipactions.html">Active Actions</a></li>
+                      <li><a href="completedactions.html">Completed Actions</a></li>
+                    </ul>
+                  </li>
+                </ul>
+              </div>
+
+            </div>
+            <!-- /sidebar menu -->
+
+
+
+            <!-- /menu footer buttons -->
+            <div class="sidebar-footer hidden-small">
+              <a data-toggle="tooltip" data-placement="top" title="Settings">
+                <span class="glyphicon glyphicon-cog" aria-hidden="true"></span>
+              </a>
+              <a data-toggle="tooltip" data-placement="top" title="FullScreen">
+                <span class="glyphicon glyphicon-fullscreen" aria-hidden="true"></span>
+              </a>
+              <a data-toggle="tooltip" data-placement="top" title="Lock">
+                <span class="glyphicon glyphicon-eye-close" aria-hidden="true"></span>
+              </a>
+              <a data-toggle="tooltip" data-placement="top" title="Logout" href="login.html">
+                <span class="glyphicon glyphicon-off" aria-hidden="true"></span>
+              </a>
+            </div>
+            <!-- /menu footer buttons -->
+          </div>
+        </div>
+
+        <!-- top navigation -->
+        <div class="top_nav">
+          <div class="nav_menu">
+            <nav>
+              <div class="nav toggle">
+                <a id="menu_toggle"><i class="fa fa-bars"></i></a>
+              </div>
+
+              <ul class="nav navbar-nav navbar-right">
+                <li class="">
+                  <a href="javascript:;" class="user-profile dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                    <img src="images/img.jpg" alt="">Sey Peou
+                    <span class=" fa fa-angle-down"></span>
+                  </a>
+                  <ul class="dropdown-menu dropdown-usermenu pull-right">
+                    <li><a href="javascript:;"> Profile</a></li>
+                    <li>
+                      <a href="javascript:;">
+                        <span class="badge bg-red pull-right">50%</span>
+                        <span>Settings</span>
+                      </a>
+                    </li>
+                    <li><a href="javascript:;">Help</a></li>
+                    <li><a href="login.html"><i class="fa fa-sign-out pull-right"></i> Log Out</a></li>
+                  </ul>
+                </li>
+
+                <li role="presentation" class="dropdown">
+                  <a href="javascript:;" class="dropdown-toggle info-number" data-toggle="dropdown" aria-expanded="false">
+                    <i class="fa fa-envelope-o"></i>
+                    <span class="badge bg-green">6</span>
+                  </a>
+                  <ul id="menu1" class="dropdown-menu list-unstyled msg_list" role="menu">
+                    <li>
+                      <a>
+                        <span class="image"><img src="images/img.jpg" alt="Profile Image" /></span>
+                        <span>
+                          <span>Sey Peou</span>
+                          <span class="time">3 mins ago</span>
+                        </span>
+                        <span class="message">
+                          Update on Adaptation Action #55
+                        </span>
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        <span class="image"><img src="images/img.jpg" alt="Profile Image" /></span>
+                        <span>
+                          <span>Sey Peou</span>
+                          <span class="time">3 mins ago</span>
+                        </span>
+                        <span class="message">
+                          Update on Mitigation Action #24
+                        </span>
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        <span class="image"><img src="images/img.jpg" alt="Profile Image" /></span>
+                        <span>
+                          <span>Sey Peou</span>
+                          <span class="time">3 mins ago</span>
+                        </span>
+                        <span class="message">
+                          Update on Adaptation Action #72
+                        </span>
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        <span class="image"><img src="images/img.jpg" alt="Profile Image" /></span>
+                        <span>
+                          <span>Sey Peou</span>
+                          <span class="time">3 mins ago</span>
+                        </span>
+                        <span class="message">
+                          Update on Mitigation Action #43
+                        </span>
+                      </a>
+                    </li>
+                    <li>
+                      <div class="text-center">
+                        <a>
+                          <strong>See All Alerts</strong>
+                          <i class="fa fa-angle-right"></i>
+                        </a>
+                      </div>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+        <!-- /top navigation -->
+
+        <!-- page content -->
+        <div class="right_col" role="main">
+          <div class="">
+            <div class="page-title">
+              <div class="title_left">
+                <h1>Mitigation Actions</h1>
+              </div>
+
+              <div class="title_right">
+                <div class="col-md-5 col-sm-5 col-xs-12 form-group pull-right top_search">
+                  <div class="input-group">
+                    <input type="text" class="form-control" placeholder="Search for...">
+                    <span class="input-group-btn">
+                      <button class="btn btn-default" type="button">Go!</button>
+                    </span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="clearfix"></div>
+
+            <div class="row">
+              <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="x_panel">
+                  <div class="x_title">
+                    <h2>All Actions </h2>
+                    <ul class="nav navbar-right panel_toolbox">
+                      <li><a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
+                      </li>
+                      <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><i class="fa fa-wrench"></i></a>
+                        <ul class="dropdown-menu" role="menu">
+                          <li><a href="#">Settings 1</a>
+                          </li>
+                          <li><a href="#">Settings 2</a>
+                          </li>
+                        </ul>
+                      </li>
+                      <li><a class="close-link"><i class="fa fa-close"></i></a>
+                      </li>
+                    </ul>
+                    <div class="clearfix"></div>
+                  </div>
+                  <div class="x_content">
+
+                    <table id="datatable" class="table table-striped table-bordered">
+                      <thead>
+                        <tr>
+                          <th>Number</th>
+                          <th>Sector</th>
+                          <th>Action</th>
+                          <th>Status</th>
+                        </tr>
+                      </thead>
+
+
+                      <tbody>
+
+                        <tr>
+                          <td>1</td>
+                          <td>Industry</td>
+                          <td><a href="mitigationaction.html">MISTI focuses on technical aspect of waste management inside the factories; Improve process only)…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>2</td>
+                          <td>Industry</td>
+                          <td><a href="mitigationaction.html">Improvement of process performance of EE by establishment of energy management in buildings/industri…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>3</td>
+                          <td>Industry</td>
+                          <td><a href="mitigationaction.html">Efficiency energy and pollution management in latex and rubber wood processing…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>4</td>
+                          <td>Waste</td>
+                          <td><a href="mitigationaction.html">Development of strategies for waste management including hazardous waste management …</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>5</td>
+                          <td>Waste</td>
+                          <td><a href="mitigationaction.html">New sanitary landfills with LFG extraction and LFG extraction at the Dangkor Landfill…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>6</td>
+                          <td>Waste</td>
+                          <td><a href="mitigationaction.html">Composting of biodegradable organic fraction of MSW supplemented with separation of organic waste (a…</a></td>
+                          <td>Completed</td>
+                        </tr>
+
+                        <tr>
+                          <td>7</td>
+                          <td>Waste</td>
+                          <td><a href="mitigationaction.html">Production of Refuse-Derived Fuel (RDF ) from either a) fresh MSW or b) …</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>8</td>
+                          <td>Waste</td>
+                          <td><a href="mitigationaction.html">Implementation of National 3R strategy …</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>9</td>
+                          <td>Waste</td>
+                          <td><a href="mitigationaction.html">Centralized recycling facility for industrial waste from the garment sector…</a></td>
+                          <td>Completed</td>
+                        </tr>
+
+                        <tr>
+                          <td>10</td>
+                          <td>Energy</td>
+                          <td><a href="mitigationaction.html">Applicationof of electrical equipments labelling & MEPS…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>11</td>
+                          <td>Energy</td>
+                          <td><a href="mitigationaction.html">Public awareness campaigns, DTEBP-EE info centres…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>12</td>
+                          <td>Energy</td>
+                          <td><a href="mitigationaction.html">Building codes and enforcement/certification for new buildings and those undergoing major renovation…</a></td>
+                          <td>Completed</td>
+                        </tr>
+
+                        <tr>
+                          <td>13</td>
+                          <td>Energy</td>
+                          <td><a href="mitigationaction.html">Introduction of efficient electrical industrial motors and transformer…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>14</td>
+                          <td>Energy</td>
+                          <td><a href="mitigationaction.html">Improve sustainability of charcoal production through enforcement of regulations…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>15</td>
+                          <td>Energy</td>
+                          <td><a href="mitigationaction.html">REDD+ Scenario  developed by the REDD+ team( 0.05% annual reduction of forest cover lost)…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>16</td>
+                          <td>Energy</td>
+                          <td><a href="mitigationaction.html">Incorporate Renewable Energy Resources (Solar, Wind, Hydro, biomass) into Energy Mix…</a></td>
+                          <td>Completed</td>
+                        </tr>
+
+                        <tr>
+                          <td>17</td>
+                          <td>Energy</td>
+                          <td><a href="mitigationaction.html">Diversification of household and community energy generation sources to reduce reliance on biomass a…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>18</td>
+                          <td>Energy</td>
+                          <td><a href="mitigationaction.html">Reducing GHG emission though off grid street lightening of rural municipality…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>19</td>
+                          <td>Energy</td>
+                          <td><a href="mitigationaction.html">Toward Battambang city to green city…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>20</td>
+                          <td>Energy</td>
+                          <td><a href="mitigationaction.html">Eco-payment based on changing behavior on fire wood use of community in Angkor and Kulen Conservatio…</a></td>
+                          <td>Completed</td>
+                        </tr>
+
+                        <tr>
+                          <td>21</td>
+                          <td>Energy</td>
+                          <td><a href="mitigationaction.html">Reducing GHG emission though off grid street lightening of rural municipality…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>22</td>
+                          <td>Energy</td>
+                          <td><a href="mitigationaction.html">Cooling of Public Sector Buildings…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>23</td>
+                          <td>Energy</td>
+                          <td><a href="mitigationaction.html">Promote sustainable energy practices in manufacturing…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>24</td>
+                          <td>Transport</td>
+                          <td><a href="mitigationaction.html">Promote integrated public transport systems in main cities …</a></td>
+                          <td>Completed</td>
+                        </tr>
+
+                        <tr>
+                          <td>25</td>
+                          <td>Transport</td>
+                          <td><a href="mitigationaction.html">Enhance maintenance and inspection of vehicle…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>26</td>
+                          <td>Transport</td>
+                          <td><a href="mitigationaction.html">E-mobility</a></td>
+                          <td>Completed</td>
+                        </tr>
+
+                        <tr>
+                          <td>27</td>
+                          <td>Transport</td>
+                          <td><a href="mitigationaction.html">Establish green belts along major roads for climate change mitigation…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>28</td>
+                          <td>Transport</td>
+                          <td><a href="mitigationaction.html">Shift long distance freight movement from trucks to train…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>29</td>
+                          <td>Agriculture</td>
+                          <td><a href="mitigationaction.html">Increasing the​ effectiveness and sustainability of agricultural land management techniques (Conserv…</a></td>
+                          <td>Completed</td>
+                        </tr>
+
+                        <tr>
+                          <td>30</td>
+                          <td>Agriculture</td>
+                          <td><a href="mitigationaction.html">Organic input agriculture and bio-slurry; and deep placement fertilizer technology…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>31</td>
+                          <td>Agriculture</td>
+                          <td><a href="mitigationaction.html">Promote fodder production to improve high  nutrient rich and high-quality forage feed value agricult…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>32</td>
+                          <td>Agriculture</td>
+                          <td><a href="mitigationaction.html">Promote manure Management through compost making process to reduce carbon emission…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>33</td>
+                          <td>Agriculture</td>
+                          <td><a href="mitigationaction.html">Bio-digesters construction (85% reduction compared to 2000)(Small size (2-3-4m3); Medium size(6-8-10…</a></td>
+                          <td>Completed</td>
+                        </tr>
+
+                        <tr>
+                          <td>34</td>
+                          <td>Agriculture</td>
+                          <td><a href="mitigationaction.html">Seedlings distribute to public and local community…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>35</td>
+                          <td>Forestry</td>
+                          <td><a href="mitigationaction.html">Increase forest cover to 60% of national land area from 57% by 2030…</a></td>
+                          <td>Completed</td>
+                        </tr>
+
+                        <tr>
+                          <td>36</td>
+                          <td>Forestry</td>
+                          <td><a href="mitigationaction.html">REDD+</a></td>
+                          <td>Completed</td>
+                        </tr>
+
+                        <tr>
+                          <td>37</td>
+                          <td>Forestry</td>
+                          <td><a href="mitigationaction.html">REDD+ Scenario  developed by the REDD+ team( 0.05% annual reduction of forest cover lost)…</a></td>
+                          <td>Work in Progress</td>
+                        </tr>
+
+                        <tr>
+                          <td>38</td>
+                          <td>Forestry</td>
+                          <td><a href="mitigationaction.html">INDC emission reduction (4.7 tCO2eq/ha/year)…</a></td>
+                          <td>Completed</td>
+                        </tr>
+
+
+                      </tbody>
+                    </table>
+                  </div>
+                  
+                </div>
+              </div>
+
+					
+            </div>
+          </div>
+        </div>
+        <!-- /page content -->
+
+        <!-- footer content -->
+        <footer>
+          <div class="pull-right">
+            NDC Explorer by <a href="https://ralphreijs.github.io">Ralph Reijs</a>
+          </div>
+          <div class="clearfix"></div>
+        </footer>
+        <!-- /footer content -->
+      </div>
+    </div>
+
+    <!-- jQuery -->
+    <script src="../vendors/jquery/dist/jquery.min.js"></script>
+    <!-- Bootstrap -->
+    <script src="../vendors/bootstrap/dist/js/bootstrap.min.js"></script>
+    <!-- FastClick -->
+    <script src="../vendors/fastclick/lib/fastclick.js"></script>
+    <!-- NProgress -->
+    <script src="../vendors/nprogress/nprogress.js"></script>
+    <!-- iCheck -->
+    <script src="../vendors/iCheck/icheck.min.js"></script>
+    <!-- Datatables -->
+    <script src="../vendors/datatables.net/js/jquery.dataTables.min.js"></script>
+    <script src="../vendors/datatables.net-bs/js/dataTables.bootstrap.min.js"></script>
+    <script src="../vendors/datatables.net-buttons/js/dataTables.buttons.min.js"></script>
+    <script src="../vendors/datatables.net-buttons-bs/js/buttons.bootstrap.min.js"></script>
+    <script src="../vendors/datatables.net-buttons/js/buttons.flash.min.js"></script>
+    <script src="../vendors/datatables.net-buttons/js/buttons.html5.min.js"></script>
+    <script src="../vendors/datatables.net-buttons/js/buttons.print.min.js"></script>
+    <script src="../vendors/datatables.net-fixedheader/js/dataTables.fixedHeader.min.js"></script>
+    <script src="../vendors/datatables.net-keytable/js/dataTables.keyTable.min.js"></script>
+    <script src="../vendors/datatables.net-responsive/js/dataTables.responsive.min.js"></script>
+    <script src="../vendors/datatables.net-responsive-bs/js/responsive.bootstrap.js"></script>
+    <script src="../vendors/datatables.net-scroller/js/dataTables.scroller.min.js"></script>
+    <script src="../vendors/jszip/dist/jszip.min.js"></script>
+    <script src="../vendors/pdfmake/build/pdfmake.min.js"></script>
+    <script src="../vendors/pdfmake/build/vfs_fonts.js"></script>
+
+    <!-- Custom Theme Scripts -->
+    <script src="../build/js/custom.min.js"></script>
+
+  </body>
+</html>
