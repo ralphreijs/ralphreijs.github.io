@@ -12,6 +12,9 @@
   <link rel="stylesheet" href="/css/font-awesome-animation.css">
   <!-- Theme style -->
   <link rel="stylesheet" href="/css/adminlte.css">
+
+   <link rel="stylesheet" href="/plugins/toastr/toastr.min.css">
+
 </head>
 <body class="hold-transition sidebar-mini dark-mode layout-footer-fixed">
 <div class="wrapper">
@@ -288,13 +291,13 @@
               </div>
               <div class="card-footer">
                 <br>
-                <table>
+                <table style='width:100%;'>
                   <tr>
                     <td style='border-right: 0.1em solid;'><h5 class="text-sm text-center" style="color:orange;">23+ Years</h5></td>
                     <td style='border-right: 0.1em solid;'><h5 class="text-sm text-center" style="color:orange;">45+</h5></td>
                     <td><h5 class="text-sm text-center" style="color:orange;">10+ Years</h5></td>
                   </tr>
-                  <tr>
+                  <tr style='text-align: center;'>
                     <td style='border-right: 0.1em solid;'><span class="text-sm text-center" style='margin:10px;'>EXPERIENCE</span></td>
                     <td style='border-right: 0.1em solid;'><span class="text-sm text-center" style='margin:10px;'>CLIENTS</span></td>
                     <td><span class="text-sm text-center" style='margin:10px;'>BLOCKCHAIN</span></td>
@@ -329,6 +332,7 @@
               <p class="text-muted text-sm">
                 I'm a CTO with 23+ years professional IT experience and 10+ in Blockchain / Crypto. Passion for security & startups. I'll make you reach your mission goals.  
               </p>
+
               <br><br><br><br>
 
             </div>
@@ -625,10 +629,29 @@
 <!-- ./wrapper -->
 
 <!-- jQuery -->
-<script src="/plugins/jquery/jquery.min.js"></script>
-<!-- Bootstrap 4 -->
-<script src="/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
-<!-- AdminLTE App -->
-<script src="/js/adminlte.min.js"></script>
+  <script src="/plugins/jquery/jquery.min.js"></script>
+  <!-- Bootstrap 4 -->
+  <script src="/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <!-- Toastr -->
+  <script src="../../plugins/toastr/toastr.min.js"></script>
+  <!-- AdminLTE App -->
+  <script src="/js/adminlte.min.js"></script>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function(){
+        $(document).Toasts('create', {
+          class: 'bg-info',
+          autohide: true,
+          delay: 5000,
+          body: 'For the optimal experience, view this website on a desktop computer screen.',
+          title: 'Thanks for your visit!',
+          subtitle: '',
+          icon: 'fas fa-envelope fa-lg',
+        })
+    });
+
+
+  </script>
+
 </body>
 </html>
