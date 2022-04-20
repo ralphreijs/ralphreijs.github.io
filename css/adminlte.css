@@ -52454,7 +52454,7 @@ a.text-muted:hover {
 }
 
 .flex-item {
-  padding: 5px;
+  padding: 0px;
   margin: 10px;
   color: white;
   font-weight: bold;
