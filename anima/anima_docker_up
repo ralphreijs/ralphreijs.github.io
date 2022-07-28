@@ -1,0 +1,40 @@
+#!/usr/bin/env bash
+
+#############################################
+# BRING DOCKER UP AND CREATE CONTAINERS     #
+#############################################
+
+
+FIGLET="figlet -w 150 -f cybermedium"
+
+# number=$(ps aux | grep -v grep | grep -ci Docker)
+
+# if [ $number -gt 0 ]
+#     then
+# 		TEXT="Docker is running..." && if type figlet &> /dev/null; then $FIGLET $TEXT; else echo $TEXT; fi | if type lolcat &> /dev/null; then lolcat; fi
+# 	else 
+# 		TEXT="Starting Docker..." && if type figlet &> /dev/null; then $FIGLET $TEXT; else echo $TEXT; fi | if type lolcat &> /dev/null; then lolcat; fi
+# 		/Applications/Docker.app/Contents/MacOS/Docker &
+# 		sleep 30
+# 		TEXT="Done." && if type figlet &> /dev/null; then $FIGLET $TEXT; else echo $TEXT; fi | if type lolcat &> /dev/null; then lolcat; fi
+# fi
+
+# DIRECTORY=/Applications/Docker.app
+# if [[ -d "$DIRECTORY" ]]
+# then
+#     # echo "$DIRECTORY exists on your filesystem."
+# else 
+#     # echo "$DIRECTORY does not exist on filesystem"
+# fi
+
+cd laradock
+TEXT="Building all Docker containers..." && if type figlet &> /dev/null; then $FIGLET $TEXT; else echo $TEXT; fi | if type lolcat &> /dev/null; then lolcat; fi
+docker-compose build --no-cache php-fpm workspace nginx 
+TEXT="Done." && if type figlet &> /dev/null; then $FIGLET $TEXT; else echo $TEXT; fi | if type lolcat &> /dev/null; then lolcat; fi
+
+TEXT="Starting all Docker containers..." && if type figlet &> /dev/null; then $FIGLET $TEXT; else echo $TEXT; fi | if type lolcat &> /dev/null; then lolcat; fi
+docker-compose up -d php-fpm workspace nginx 
+TEXT="Done." && if type figlet &> /dev/null; then $FIGLET $TEXT; else echo $TEXT; fi | if type lolcat &> /dev/null; then lolcat; fi
+
+echo "You can now go to http://localhost/ to complete the installation."
+python3 -m webbrowser http://localhost/
