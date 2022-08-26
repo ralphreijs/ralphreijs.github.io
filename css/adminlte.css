@@ -52461,4 +52461,6 @@ a.text-muted:hover {
   text-align: left;
 }
 
-
+.popuplink {
+  color: yellow !important;
+}
