@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <!-- THIS WEBSITE IS ABSOLUTELY NOT AN EXAMPLE OF CLEAN CODE, AND DOES NOT REPRESENT MY NORMAL CLEAN CODING STYLE !! -->
+  <!-- MANY THINGS IN THE CODE COULD HAVE BEEN DONE CLEANER AND MORE EFFICIENT. I'LL GET TO THAT ONE DAY -->
+
   <!-- HTML Meta Tags -->
   <title>Ralph Reijs</title>
   <meta charset="utf-8">
@@ -257,11 +260,19 @@
             </a>
           </li>
           <li class="nav-item">
+            <a href="/portfolio.html" class="nav-link">
+              <i class="nav-icon fa fa-palette"></i>
+              <p>
+                Portfolio
+                <span class="right badge badge-danger">New</span>
+              </p>
+            </a>
+          </li>
+          <li class="nav-item">
             <a href="/services.html" class="nav-link">
               <i class="nav-icon fa fa-handshake"></i>
               <p>
                 Services
-                <span class="right badge badge-danger">New</span>
               </p>
             </a>
           </li>
@@ -445,6 +456,109 @@
         <li class='flex-item' style='width:100%; max-width:400px;'>
           <div class="card card-primary" style='max-height: 400px;'>
             <div class="card-header">
+              <h3 class="card-title"><strong><i class="fas fa-palette fa-lg mr-1"></i> Portfolio</strong></h3>
+              <div class="card-tools">
+                <button type="button" class="btn btn-tool" data-card-widget="collapse">
+                  <i class="fas fa-minus"></i>
+                </button>
+                <button type="button" class="btn btn-tool" data-card-widget="remove">
+                  <i class="fas fa-times"></i>
+                </button>
+              </div>
+            </div>
+            <!-- /.card-header -->
+            <div class="card-body">
+                  <ul class="todo-list ui-sortable" data-widget="todo-list">
+
+                    <li>
+                      <a href="webdesign.html" style='color: white; margin: 0px; display: block; width: 100%; height: 100%;'>
+                        <i class="fas fa-pencil" style="width:15px;color:turquoise;margin-left: 10px; margin-right: 10px;"></i>
+                        <span class="text-sm">
+                          Web Design
+                        </span>
+                        <div class="tools">
+                          <i class="fas fa-palette" style="width:15px;color:turquoise;"></i>
+                        </div>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="uiuxdesign.html" style='color: white; margin: 0px; display: block; width: 100%; height: 100%;'>
+                        <i class="fas fa-desktop" style="width:15px;color:turquoise;margin-left: 10px; margin-right: 10px;"></i>
+                        <span class="text-sm">
+                          UI / UX Design
+                        </span>
+                        <div class="tools">
+                          <i class="fas fa-palette" style="width:15px;color:turquoise;"></i>
+                        </div>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="mobiledesign.html" style='color: white; margin: 0px; display: block; width: 100%; height: 100%;'>
+                        <i class="fas fa-mobile" style="width:15px;color:turquoise;margin-left: 13px; margin-right: 7px;"></i>
+                        <span class="text-sm">
+                          Mobile Design
+                        </span>
+                        <div class="tools">
+                          <i class="fas fa-palette" style="width:15px;color:turquoise;"></i>
+                        </div>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="otherdesign.html" style='color: white; margin: 0px; display: block; width: 100%; height: 100%;'>
+                        <i class="fas fa-shirt" style="width:15px;color:turquoise;margin-left: 10px; margin-right: 10px;"></i>
+                        <span class="text-sm">
+                          Logos & Other Designs
+                        </span>
+                        <div class="tools">
+                          <i class="fas fa-palette" style="width:15px;color:turquoise;"></i>
+                        </div>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="development.html" style='color: white; margin: 0px; display: block; width: 100%; height: 100%;'>
+                        <i class="fas fa-code" style="width:15px;color:turquoise;margin-left: 10px; margin-right: 10px;"></i>
+                        <span class="text-sm">
+                          Software Development
+                        </span>
+                        <div class="tools">
+                          <i class="fas fa-palette" style="width:15px;color:turquoise;"></i>
+                        </div>
+                      </a>
+                    </li>
+
+                    <li>
+                      <a href="hardware.html" style='color: white; margin: 0px; display: block; width: 100%; height: 100%;'>
+                        <i class="fas fa-walkie-talkie" style="width:15px;color:turquoise;margin-left: 15px; margin-right: 5px;"></i>
+                        <span class="text-sm">
+                          Hardware Innovation
+                        </span>
+                        <div class="tools">
+                          <i class="fas fa-palette" style="width:15px;color:turquoise;"></i>
+                        </div>
+                      </a>
+                    </li>
+
+                  </ul>
+              <br><br><br><br>
+            </div>
+            <!-- /.card-body -->
+            <div class="card-footer text-center">
+              <a href="/portfolio.html">View Portfolio</a>
+            </div>
+            <!-- /.card-footer -->
+          </div>
+          <!-- /.card -->
+        </li>
+        <!-- /.flex-item -->
+
+
+        <li class='flex-item' style='width:100%; max-width:400px;'>
+          <div class="card card-primary" style='max-height: 400px;'>
+            <div class="card-header">
               <h3 class="card-title"><strong><i class="fas fa-handshake fa-lg mr-1"></i> Services</strong></h3>
               <div class="card-tools">
                 <button type="button" class="btn btn-tool" data-card-widget="collapse">
@@ -507,7 +621,7 @@
                       </div>
                       <i class="fas fa-mobile-screen-button" style="width:15px;color:turquoise;"></i>
                       <span class="text-sm">
-                        UI / UX Design
+                        Design
                       </span>
                       <div class="tools">
                         <i class="fas fa-edit" style='color: turquoise; '></i>
@@ -702,7 +816,7 @@
 
 
         <li class='flex-item' style='width:100%; max-width:400px;'>
-          <div class="card card-primary" style='max-height: 310px;'>
+          <div class="card card-primary" style='max-height: 400px;'>
             <div class="card-header">
               <h3 class="card-title"><strong><i class="fas fa-terminal fa-lg mr-1"></i> Skills</strong></h3>
               <div class="card-tools">
@@ -727,7 +841,13 @@
                 <button type="button" class="btn btn-primary btn-sm" style="margin:3px;margin-right:0px;margin-left:0px;">#vision</button>
                 <button type="button" class="btn btn-primary btn-sm" style="margin:3px;margin-right:0px;margin-left:0px;">#strategy</button>
                 <button type="button" class="btn btn-primary btn-sm" style="margin:3px;margin-right:0px;margin-left:0px;">#productdev</button>
+                <button type="button" class="btn btn-primary btn-sm" style="margin:3px;margin-right:0px;margin-left:0px;">#webdesign</button>
+                <button type="button" class="btn btn-primary btn-sm" style="margin:3px;margin-right:0px;margin-left:0px;">#ui</button>
+                <button type="button" class="btn btn-primary btn-sm" style="margin:3px;margin-right:0px;margin-left:0px;">#ux</button>
+                <button type="button" class="btn btn-primary btn-sm" style="margin:3px;margin-right:0px;margin-left:0px;">#automation</button>
+                <button type="button" class="btn btn-primary btn-sm" style="margin:3px;margin-right:0px;margin-left:0px;">#integration</button>
                 <button type="button" class="btn btn-primary btn-sm" style="margin:3px;margin-right:0px;margin-left:0px;">#marketing</button>
+                <button type="button" class="btn btn-primary btn-sm" style="margin:3px;margin-right:0px;margin-left:0px;">#seo</button>
               </p>
               <br><br><br><br><br>
             </div>
@@ -903,9 +1023,11 @@
                 <li>..is not using a Database?</li>
                 <li>..is all hardcoded?</li>
                 <li>..has no Server-Sided Scripts?</li>
+                <li>..is 1,560,867,963 bytes (1.59 GB)?</li>
+                <li>..contains 8,724 items?</li>
                 <li>..is securely hosted for free on <a href='https://github.com/ralphreijs/ralphreijs.github.io' target=_blank>GitHub</a>? 
-                  <br><br>
-                  <i class="fas fa-heart fa-3x"></i> <i class="fab fa-github fa-3x"></i></li>
+                  <br>
+                  <i class="fas fa-heart fa-3x" style='margin-top:5px;'></i> <i class="fab fa-github fa-3x"></i></li>
               </ul>
 
             </div>
