@@ -6,3 +6,6 @@ assets/css/.DS_Store
 assets/fonts/.DS_Store
 assets/img/.DS_Store
 default.profraw
+jekyll_build
+jekyll_github
+jekyll_serve
