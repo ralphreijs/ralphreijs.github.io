@@ -23,16 +23,10 @@
       "url": "/blog/"
     },{
       
-      "title": "Résumé",
-      "description": "Ralph Reijs - Chief Technology Officer from the Netherlands\n",
-      "content": "\n",
-      "url": "/"
-    },{
-      
       "title": "Home",
       
-      "content": "Welcome and thanks for visiting!\n\nYou’ll find my resumé, projects and background on this website.\n\nFirst Steps\nStart by reading the Documentation.\nSpecifically, the chapters below should be relevant now:\n\n\n  Install — How to install and run Hydejack.\n  Config — Once Jekyll is running you can start with basic configuration.\n\n\nAfter you’ve familiarized yourself with Hydejack, you can delete the following folders and files\ncontaining example content:\n\n├── _featured_categories\n│   └── example.md\n├── _projects\n│   └── *\n├── docs\n├── example\n├── licenses\n├── assets\n│   └── img\n│       ├── blog\n│       ├── docs\n│       └── projects\n├── CHANGELOG.md\n├── forms-by-example.md\n├── LICENSE.md\n└── NOTICE.md\n\n\n",
-      "url": "/index_old/"
+      "content": "\n\nWelcome and thanks for visiting! I’m Ralph, a CTO from the Netherlands.\nYou’ll find my resumé, projects and background on this website.\n\n    \n        \n        Résumé\n    \n\n\nClients\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n\n\nRecent Projects\nI will be adding more project pages and details which are still missing since website migration. Apologies for the inconvenience. \n\n    \n        \n            \n            \n                \n                    \n                \n            \n                Product Development\n            \n            \n                Projects where I served as CPO or CTO\n            \n        \n    \n    \n        \n            \n            \n                \n                    \n                \n            \n                Security &amp; Infrastructure\n            \n            \n                Security, Networking, Pentesting projects\n            \n        \n    \n    \n        \n            \n            \n                \n                    \n                \n            \n                Software Architecture\n            \n            \n                Blockchain, Cloud and Enterprise\n            \n        \n    \n    \n        \n            \n            \n                \n                    \n                \n            \n                Hobbies &amp; Interests\n            \n            \n                Hacking, Crafting, Tinkering, Bitcoin. Nerd things.\n            \n        \n    \n\n\n\n",
+      "url": "/"
     },{
       
       "title": "Install",
@@ -41,22 +35,40 @@
       "url": "/docs/install/"
     },{
       
+      "title": "Hobbies & Interests",
+      "description": "Some of my pastime activities and other fascinations. (I will be adding previous project pages and details which are still missing since website migration)  Click each card for more detail.\n",
+      "content": "\n",
+      "url": "/interests/"
+    },{
+      
       "title": "Posts",
       "description": "This is the list layout for showing blog posts, which shows just the title and groups them by year of publication. Check out the blog layout for comparison.\n",
       "content": "\n",
       "url": "/posts/"
     },{
       
-      "title": "Projects",
-      "description": "How people are using Hydejack in the real world.  This page is built using the projects layout* that you can use yourself to build a portfolio.\n",
+      "title": "Product Development Projects",
+      "description": "On these projects, I was the CPO, CTO or UI/UX Designer and worked on Product Development. (I will be adding previous project pages and details which are still missing since website migration)  Click each card for more detail.\n",
       "content": "\n",
-      "url": "/projects/"
+      "url": "/productdev/"
     },{
       
       "title": "Résumé",
       "description": "Ralph Reijs - Chief Technology Officer from the Netherlands\n",
       "content": "\n",
       "url": "/resume/"
+    },{
+      
+      "title": "Security & Infrastructure Projects",
+      "description": "Security has always been a passion of mine. Networking and Pentesting became a natural extension of my learning. (I will be adding previous project pages and details which are still missing since website migration)  Click each card for more detail.\n",
+      "content": "\n",
+      "url": "/security/"
+    },{
+      
+      "title": "Software Architecture Projects",
+      "description": "Projects as a Senior Solution Architect in Enterprise environments (IT Service Mgmt) and at (Blockchain-) Startups (I will be adding previous project pages and details which are still missing since website migration)  Click each card for more detail.\n",
+      "content": "\n",
+      "url": "/software/"
     },{
       
       "title": "Upgrade",
@@ -119,6 +131,215 @@
       
       "collection": "posts",
       "url": "/blog/example/2021-02-13-whats-new-in-hydejack-9-1/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_ibitcoin.jpg"},
+      "title": "iBitcoin",
+      "date": "2010-06-01 00:00:00 +0200",
+      
+      "content": "I started mining Bitcoin in 2010, and wanted to see my mining statistics on my phone whilst away.\nWe developed an app with Mining Stats, Market Data, Network Data and for a brief time wallet functionality \nvia Exchange API calls. We were in Top 10 Finance apps for weeks until Apple removed our app from the AppStore.\nMuch of the development is informed from my experience of using it myself, creating a tight feedback loop.\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "productdev",
+      "url": "/productdev/ibitcoin/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_leesplankje.jpg"},
+      "title": "Leesplankje",
+      "date": "2010-12-01 00:00:00 +0100",
+      
+      "content": "The concept was based on an old Dutch method for learning how to read, using a wooden board and blocks with letters.\nWe turned that into a digital version, using your fingers to drag letters. And when you touched a letter, you heard the proper pronounciation (in my Mom’s voice 😁).\n\n\n\n\nIt was in the Top 10 Educational Apps (AppStore), and was acquired by Noordhoff (largest Dutch educational publisher).\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "productdev",
+      "url": "/productdev/leesplankje/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_astroweather.jpg"},
+      "title": "AstroWeather",
+      "date": "2011-10-01 00:00:00 +0200",
+      
+      "content": "Back in 2011, there were a number of weather apps for iPhone, but not many that were developed with Astronomers in mind.\nThis app has helped me estimate many nights whether or not to go out with my telescope.\nOut of a personal need and a lack of options, AstroWeather was born and lived for a few years on the AppStore.\n\n\n\n\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "productdev",
+      "url": "/productdev/astroweather/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_mpowa.jpg"},
+      "title": "Mpowa",
+      "date": "2019-10-01 00:00:00 +0200",
+      
+      "content": "A tokenized, zero-point energy ecosystem to provide decentralized electricity to communities and households.\n\n\n\n\n\n\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "productdev",
+      "url": "/productdev/mpowa/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_karakoram.jpg"},
+      "title": "Karakoram",
+      "date": "2020-12-01 00:00:00 +0100",
+      
+      "content": "I was part of the project’s 3rd phase (which was postponed due to the pandemic) in Karakoram Mountains (Pakistan), \nand developed a prototype Early Warning System for Glacial Lake Outburst Floods (GLOFs), based on Mesh Networking \nand low-cost hardware. \n\n\n\n\nA concept mockup of the technical prototype (Ralph Reijs - 2020)\n\n\n\nOutdoor Journal - Oliver Foster (2020)\n\n\n\nPhoto Credit: Tim Taylor (2018)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "productdev",
+      "url": "/productdev/karakoram/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_aum.jpg"},
+      "title": "Applied Universal Mathematics",
+      "date": "2021-04-01 00:00:00 +0200",
+      
+      "content": "Based on Advanced Numbers Theory, together with a team, I designed and developed a Backtester to mathematically \nfind Harmonic Points in any and all data, from finance to sunspots. Heavily redacted due to NDA. \n\n\n\n\nIt all started with my favorite book, written by Anthony Morris.\n\n\n\nHarmonic Points in Historic Financial Data\n\n\n\nHarmonic Points in Historical Public Data\n\n\n\nHarmonic Points in Historical Public Data\n\n\n\nBacktester - Chart Mode\n\n\n\nBacktester - Animated\n\n\n\nBacktester - Closed Trades\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "productdev",
+      "url": "/productdev/aum/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_toxicmaxi.jpg"},
+      "title": "Toxic Maxi",
+      "date": "2023-03-01 00:00:00 +0100",
+      
+      "content": "I started a company that helps individuals achieve self-custody over their Bitcoin, and helps companies \nintegrate Bitcoin (Lightning). The company has not launched yet, it is still a work in progress.\n\n\n\n\nCurrent (temporary) Home Page\n\n\n\nHome Page\n\n\n\nhttps://lightningnetwork.plus/posts/123\n\n\n\nProducts\n\n\n\nProfessional Services\n\n\n\nProduct Page\n\n\n\nProduct Page\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "productdev",
+      "url": "/productdev/toxicmaxi/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_apostilleusa.jpg"},
+      "title": "Apostille USA",
+      "date": "2023-04-01 00:00:00 +0200",
+      
+      "content": "A completely automated &amp; integrated Document Apostille service, drastically removing bureacucracy and reducing processing times. Revolutionary in the industry.\n\n\n\n\nHome Page\n\n\n\nOur Services\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "productdev",
+      "url": "/productdev/apostilleusa/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_security.jpg"},
+      "title": "Hacking",
+      "date": "2010-10-01 00:00:00 +0200",
+      
+      "content": "I’ve been tinkering, crafting and (generally trying to break stuff to learn how it works) since I was a kid.\nWhen I got into computers and electronics (around age 10, in 1990) I was instantly hooked on the challenge of manipulating the behaviour of electronic systems.\n#HackThePlanet!\n\n\n\nA custom-built Jasager (initial project of the Wifi Pineapple) with MITM router\n\n\n\nPlayStation Vita hacking with HENkaku 変革 (2015)\n\n\n\nWiFi Hacking with Wemos D1 Mini (2015)\n\n\n\nAt Hackerspace ‘Technologia Incognita’ (2011)\n\n\n\nLock Picking (2018)\n\n\n\nWiFi Pineapple on OpenWRT / BusyBox (2012)\n\n\n\nOpenWRT on Arduino Yún (2012)\n\n\n\nWiFi PenTesting Kit (2012)\n\n\n\niLantern Concept [300 Programmable LEDs] (2012)\n\n\n\nEthereum War Dialer&lt;/a&gt;\n\n\n\nCopyright Ralph Reijs (2015)\n\n\n\nObserve. Hack. Make.  (2013)\n\n\n\nTechnologia Incognita Hackerspace (2017)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "security",
+      "url": "/security/hacking/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_instatunnel.jpg"},
+      "title": "Instatunnel",
+      "date": "2013-08-01 00:00:00 +0200",
+      
+      "content": "Instatunnel was a concept around PrePaid VPN Bandwidth with zero logging. Each card gave a specific amount of guaranteed snoop-proof bandwidth. The prepaid cards were to be sold at Airports, Hotels, Supermarkets.\n\n\n\n\nPrepaid Cards (2013)\n\n\n\nBeta Portal (2013)\n\n\n\nStatus Page (2013)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "security",
+      "url": "/security/instatunnel/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_cloudlynx.jpg"},
+      "title": "Cloudlynx",
+      "date": "2015-04-01 00:00:00 +0200",
+      
+      "content": "We were the first to have a fully Pharma-compliant cloud network infrastructure with record network speeds. I was redesigning the OpenStack Horizon dashboard with an extremely userfriendly UI/UX in Python and Django.\n\n\n\n\nCloudlynx (2015)\n\n\n\nCloudlynx (2015)\n\n\n\nCloudlynx (2015)\n\n\n\nCloudlynx (2015)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "security",
+      "url": "/security/cloudlynx/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_pillar.jpg"},
+      "title": "Pillar",
+      "date": "2017-07-01 00:00:00 +0200",
+      
+      "content": "Founding Team Member, started as a tech generalist. After some months, we did a succesful ICO and raised $27M in 60h.\nI fell in love with the original idea of the Personal Data Locker and decided I wanted to help build it.\nDuring the ICO / Token Sale I handled the livestream broadcast and technical overlays / integrations. After the first Unconference, I took position as Head of IT Security and Infrastructure.\n\n\n\n\n\nThe original PDL Concept Video (2016)\n\n\n\nThe Launch Video (2017)\n\n\n\nPillar’s second logo (2017)\n\n\n\nPillar Unconference (Slovakia, 2017)\n\n\n\nPillar Community @ Rocket.Chat (2017)\n\n\n\nPillar Unconference (Slovakia, 2017)\n\n\n\nPillar Office (London, 2018)\n\n\n\n New Kids On The Blockchain (Lithuania, 2018)\n\n\n\n New Kids On The Blockchain (Lithuania, 2018)\n\n\n\n Haarlem Pillar Meetup (Netherlands, 2017)\n\n\n\nJeff Berwick / TDV (Lithuania, 2018)\n\n\n\n Jeff Berwick / Luke Rudkowski (Lithuania, 2018)\n\n\n\nCrypto Rally (Lithuania, 2018)\n\n\n\nPillar Haarlem (Netherlands, 2017)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "security",
+      "url": "/security/pillar/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_wardial.jpg"},
+      "title": "WarDial",
+      "date": "2018-08-01 00:00:00 +0200",
+      
+      "content": "Named after ‘War dialing’ from the 80s, this was a little Proof of Concept script to ‘hack’ Ethereum wallets by generating random wallet seeds and checking whether they have a balance.\nIf a wallet with balance higher than 0 ETH was found, an alert would be sent through a Telegram bot.\n\n\n\n\nThe WarDial script being executed (2018)\n\n\n\nThe WarDial script being executed (2018)\n\n\n\n214,000+ wallets had been checked (2018)\n\n\n\nExample of generated wallets (2018)\n\n\n\nTelegram bot for alerts (2018)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "security",
+      "url": "/security/wardial/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_wardial.jpg"},
+      "title": "JuiceR",
+      "date": "2018-08-01 00:00:00 +0200",
+      
+      "content": "Named after ‘War dialing’ from the 80s, this was a little Proof of Concept script to ‘hack’ Ethereum wallets by generating random wallet seeds and checking whether they have a balance.\nIf a wallet with balance higher than 0 ETH was found, an alert would be sent through a Telegram bot.\n\n\n\n\nThe WarDial script being executed (2018)\n\n\n\nThe WarDial script being executed (2018)\n\n\n\n214,000+ wallets had been checked (2018)\n\n\n\nExample of generated wallets (2018)\n\n\n\nTelegram bot for alerts (2018)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "software",
+      "url": "/software/wardial/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_juicer.jpg"},
+      "title": "JuiceR",
+      "date": "2019-08-01 00:00:00 +0200",
+      
+      "content": "A fully automated Tumbling / Mixing platform for the Ethereum blockchain. Worked for both ETH as well ERC20 tokens.\nIt was a very fun project, and it taught me a lot about blockchain development.\nSuccessfully used on Main Net with ETH and millions of tokens\n\n\n\n\nCampaign TX Graph (2018)\n\n\n\nJuiceR Dashboard (2018)\n\n\n\nSeeder Screen (2018)\n\n\n\nCampaign Details (2018)\n\n\n\nWallet Details (2018)\n\n\n\nCampaign Report (2018)\n\n\n\nCampaign Report (2018)\n\n\n\nCampaign Report (2018)\n\n\n\nCampaign Report (2018)\n\n\n\nParity Light (2018)\n\nCampaign Report (2018)\n\n\n\nCampaign TX Graph (2018)\n\n\n\nCampaign TX Graph (2018)\n\n\n\nCampaign TX Graph (2018)\n\n\n\nCampaign TX Graph (2018)\n\n\n\nCampaign TX Graph (2018)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "software",
+      "url": "/software/juicer/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_mpowa.jpg"},
+      "title": "Mpowa",
+      "date": "2019-10-01 00:00:00 +0200",
+      
+      "content": "A tokenized, zero-point energy ecosystem to provide decentralized electricity to communities and households.\n\n\n\n\n\n\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "software",
+      "url": "/software/mpowa/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_karakoram.jpg"},
+      "title": "Karakoram",
+      "date": "2020-12-01 00:00:00 +0100",
+      
+      "content": "I was part of the project’s 3rd phase (which was postponed due to the pandemic) in Karakoram Mountains (Pakistan), \nand developed a prototype Early Warning System for Glacial Lake Outburst Floods (GLOFs), based on Mesh Networking \nand low-cost hardware. \n\n\n\n\nA concept mockup of the technical prototype (Ralph Reijs - 2020)\n\n\n\nOutdoor Journal - Oliver Foster (2020)\n\n\n\nPhoto Credit: Tim Taylor (2018)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "software",
+      "url": "/software/karakoram/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_apostilleusa.jpg"},
+      "title": "Apostille USA",
+      "date": "2023-04-01 00:00:00 +0200",
+      
+      "content": "A completely automated &amp; integrated Document Apostille service, drastically removing bureacucracy and reducing processing times. Revolutionary in the industry.\n\n\n\nHome Page\n\n\nOur Services\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "software",
+      "url": "/software/apostilleusa/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_security.jpg"},
+      "title": "Hacking",
+      "date": "2010-10-01 00:00:00 +0200",
+      
+      "content": "I’ve been tinkering, crafting and (generally trying to break stuff to learn how it works) since I was a kid.\nWhen I got into computers and electronics (around age 10, in 1990) I was instantly hooked on the challenge of manipulating the behaviour of electronic systems.\n#HackThePlanet!\n\n\n\nA custom-built Jasager (initial project of the Wifi Pineapple) with MITM router\n\n\n\nPlayStation Vita hacking with HENkaku 変革 (2015)\n\n\n\nWiFi Hacking with Wemos D1 Mini (2015)\n\n\n\nAt Hackerspace ‘Technologia Incognita’ (2011)\n\n\n\nLock Picking (2018)\n\n\n\nWiFi Pineapple on OpenWRT / BusyBox (2012)\n\n\n\nOpenWRT on Arduino Yún (2012)\n\n\n\nWiFi PenTesting Kit (2012)\n\n\n\niLantern Concept [300 Programmable LEDs] (2012)\n\n\n\nEthereum War Dialer&lt;/a&gt;\n\n\n\nCopyright Ralph Reijs (2015)\n\n\n\nObserve. Hack. Make.  (2013)\n\n\n\nTechnologia Incognita Hackerspace (2017)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "interests",
+      "url": "/interests/hacking/"
     }
   ]
 }
