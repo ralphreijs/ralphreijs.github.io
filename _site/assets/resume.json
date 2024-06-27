@@ -1,0 +1,188 @@
+{
+    "basics":
+    {
+        "name": "Ralph Reijs",
+        "label": "Chief Technology Officer",
+        "picture": "/assets/img/profile_ralph.png",
+        "email": "ralph.simon.reijs@gmail.com",
+        "phone": "+31 655 960 613",
+        "website": "https://ralphreijs.github.io",
+        "summary": "Ralph comes from Haarlem, Netherlands and is a Chief Technology Officer as well as an Advisor at various (blockchain) startups. He solves complex challenges and provides solutions in Product Development, Software Architecture, Infrastructure and Security. He is a cryptocurrency / blockchain specialist with more than 24 years’ experience at the cutting edge of IT with a background in digital infrastructure / IT security. Having been a computer enthusiast since the age of 10, Ralph vividly remembers the BBS days, BlueBoxing, 2600 and Phrack Magazine, and has since built an extensive expertise in Hardware and Software. Ralph loves both thinking in the Big Picture, as well as diving into the nitty gritty.\n",
+        "location":
+        {
+            "address": "",
+            "postalCode": "",
+            "city": "Haarlem",
+            "countryCode": "NL",
+            "region": ""
+        },
+        "profiles": [
+        {
+            "network": "Github",
+            "username": "ralphreijs",
+            "url": "https://github.com/ralphreijs"
+        },
+        {
+            "network": "LinkedIn",
+            "username": "ralphreijs",
+            "url": "https://linkedin.com/in/ralphreijs"
+        },
+        {
+            "network": "YouTube",
+            "username": "@ralphreijs",
+            "url": "https://www.youtube.com/@ralphreijs"
+        }]
+    },
+    "work": [
+    {
+        "company": "Apostille USA",
+        "position": "Chief Technology Officer / Co-Founder",
+        "website": "https://apostille-usa.com",
+        "startDate": "2023-03-01",
+        "endDate": "",
+        "summary": "Apostille USA is a company born out of a desire to improve existing apostille solutions which are generally  slow, cumbersome and occasionally even unreliable. We have developed a fully automated platform for legal  document processing that can handle orders within 24-72h, instead of weeks to months.\n",
+        "highlights": ["Fully automated sales, order, fulfilment processes", "Physical and digital fulfilment, including automated shipping labels", "Revenue since the first month, profit since the 4th month"]
+    },
+    {
+        "company": "Toxic Maxi",
+        "position": "Chief Technology Officer / Founder",
+        "website": "https://toxicmaxi.nl",
+        "startDate": "2023-02-01",
+        "endDate": "",
+        "summary": "Bitcoin Maximalists have been called \"toxic to the crypto-scene\", but since the various collapses of crypto companies, the hashtag #ThankAMaxi has been trending. Toxic Maxi is a company that aims to help individuals achieve self-custody, help companies integrate Bitcoin (-Lightning) solutions, and is developing a Bitcoin LN Point-of-Sales system.\n"
+    },
+    {
+        "company": "Applied Universal Mathematics",
+        "position": "Chief Product Officer",
+        "website": "https://applieduniversalmathematics.com/",
+        "startDate": "2020-12-01",
+        "endDate": "2021-07-01",
+        "summary": "The founder of AUM used his knowledge on Advanced Number Theory to develop a practical platform for  detecting harmonic points and patterns in time-based datasets, ranging from financial/crypto- data, to public crime data, to historic sunspot datas, and anything inbetween. The software was able to identify datapoints to act upon or to avoid.\n",
+        "highlights": ["Practical software implementation of applied universal mathematics and advanced number theory", "Extremely interesting insights through an alternative look at data and facts", "Successful prototype dashboard with backtester functionality"]
+    },
+    {
+        "company": "Mpowa",
+        "position": "Chief Technology Officer / Co-Founder",
+        "website": "https://mpowa.io/",
+        "startDate": "2019-10-01",
+        "endDate": "2020-03-01",
+        "summary": "Mpowa wants to revolutionize energy accessibility and distribution by deploying tokenized zero-point energy devices; allowing anyone with a token wallet to consume energy at decentralized generators.\n",
+        "highlights": ["Participated in the 'Yes!Delft Blockchain & AI Accelerator' of 2019"]
+    },
+    {
+        "company": "Jinbi Token",
+        "position": "Chief Technology Officer",
+        "website": "https://jinbitoken.io/",
+        "startDate": "2018-02-01",
+        "endDate": "2019-12-01",
+        "summary": "Jinbi Token aims to offer a blockchain-based smart contract service that delivers a 'sophisticated,   safe and stable' instrument for physical gold investments and storage. \n",
+        "highlights": ["Blockchain & Security Advisor and Core ICO Team member", "Led company through early-stages and ICO acting as de facto ICO Manager", "<u>Raised $47.5 Million from investors</u>", "Secured funds and infrastructure from 24/7 hacking & phishing attacks during/after ICO"]
+    },
+    {
+        "company": "Stealth Startup",
+        "position": "Head of Product",
+        "website": "",
+        "startDate": "2018-12-01",
+        "endDate": "2019-09-01",
+        "summary": "Created an Automated Ethereum platform for spreading, tumbling, mixing, trade volume and cross-blockchain conversion of ETH + ERC20.  \n",
+        "highlights": ["Successfully used on Main Net with $150 Million worth of ERC20 tokens", "Led the Agile development and UI / UX Design, Architecture, running on a Parity Light Node.", "Campaigns are fully autonomous, with auto-healing for failed transactions"]
+    },
+    {
+        "company": "Pillar Project",
+        "position": "Head of IT Infrastructure & Security",
+        "website": "https://pillarproject.io/",
+        "startDate": "2017-04-01",
+        "endDate": "2019-07-01",
+        "summary": "After having built and joined 25+ startups, I played a crucial role in realising the funding and setting up of a conceptual opensource product that helps take back control over personal data through  cryptography and Identity Management on the Ethereum blockchain. \n",
+        "highlights": ["<u>Raised $27 Million from investors</u> ($200M value at ATH) in a 60h Token Sale", "Secured funds and infrastructure from 24/7 hacking & phishing attacks during/after ICO", "Co-created the London HeadQuarters", "Communicated transparently with 15k investors"]
+    },
+    {
+        "company": "AppCodex",
+        "position": "Chief Technology Officer",
+        "website": "https://appcodex.com/",
+        "startDate": "2007-01-01",
+        "endDate": "2014-05-01",
+        "summary": "Delivered innovative mobile apps & games as solutions to modern challenges, and to replace archaic legacy approaches and connect the offline to the online, by making use of cutting edge technology with intuitive, user-friendly frontend interfaces. Targeted at both Consumers and Enterprise. \n",
+        "highlights": ["Transformed an old teaching method for reading, from old wooden board to intuitive iOS app which achieved 10k downloads in the first month and was acquired by Noordhoff Uitgevers Groep (Netherlands largest educational publisher) in 2008", "Released the first iOS App ever to offer Bitcoin payments / exchange functionality in 2010. It intuitively provided market prices, mining and network statistics/charts, a profit calculator and offered exchange functionality (orders + trades). Achieved 50k downloads in first 2 months."]
+    },
+    {
+        "company": "Freelance",
+        "position": "Senior Solution Architect",
+        "website": "",
+        "startDate": "1997-01-01",
+        "endDate": "2017-03-01",
+        "summary": "Provided cost-reducing solutions in IT Service Management to clients in Finance-, Pharmaceutical-,  Petrochemical- and Information Technology sectors as a freelance contractor. \n",
+        "highlights": [
+            "20+ years of transforming 40+ clients’ functional requirements into functional- / technical designs and implementing solutions through enterprise Software Development Life Cycle processes.", 
+            "Clients included: IBM, Shell, Rabobank, Deutsche Bank, Frankfurt Stock Exchange, Bayer, WorldCom, Thales and Roche.", 
+            "Made data-driven decisions to develop strategies, build products that boosted Customer Satisfaction.", 
+            "Optimised business processes / procedures and drastically reduced workload and cost of Service Delivery by applying ITIL best practices.", 
+            "Implemented impactful API interfaces between enterprise IT Systems on Unix, Linux, AIX to allow real-time communication on incident resolution between vendors and clients."]
+    }],
+    "education": [ 
+    {
+        "institution": "Herbert Vissers College",
+        "area": "Nieuw Vennep, Netherlands",
+        "gpa": "MAVO+HAVO",
+        "startDate": "1993-08-01",
+        "endDate": "1998-05-01"
+    }],
+    "skills": [
+    {
+        "name": "Product Development",
+        "level": "Master",
+        "keywords": ["Concepts", "Prototypes", "Coding", "UI", "UX", "Design", "Web3", "PHP", "Laravel", "HTML5", "CSS3", "JS", "Bash", "Python", "APIs"]
+    },
+    {
+        "name": "Software Architecture",
+        "level": "Master",
+        "keywords": ["Func. Req.", "Tech. Req.", "Integration", "Automation", "Load Balancing", "CDN", "Blockchain", "Decentralization", "Web3", "REST"]
+    },
+    {
+        "name": "Infrastructure & Security",
+        "level": "Master",
+        "keywords": ["Security", "Privacy", "Pentesting", "MITM", "Awareness", "Wireless Networking", "Wireshark"]
+    }],
+    "languages": [
+    {
+        "language": "🇺🇸 English",
+        "fluency": "5/5"
+    },
+    {
+        "language": "🇳🇱 Dutch",
+        "fluency": "5/5"
+    },
+    {
+        "language": "🇩🇪 German",
+        "fluency": "4/5"
+    },
+    {
+        "language": "🇪🇸 Spanish",
+        "fluency": "2/5"
+    },
+    {
+        "language": "🇧🇷 Portuguese",
+        "fluency": "2/5"
+    },
+    {
+        "language": "🇫🇷 French",
+        "fluency": "2/5"
+    }],
+    "interests": [
+    {
+        "name": "Security",
+        "keywords": ["Wireless Networking", "Pentesting", "Social Engineering", "Physical", "OSINT"]
+    },
+    {
+        "name": "Privacy",
+        "keywords": ["Anonymity", "Counter-Surveillance", "Anti-Tracking", "Encryption", "Cryptography", "Decentralization"]
+    },
+    {
+        "name": "Bitcoin",
+        "keywords": ["Blockchain", "Lightning Network", "Cryptography", "Self Custody", "Integration", "Teaching"]
+    },
+    {
+        "name": "Other",
+        "keywords": ["3D Printing", "Astronomy", "Drone Racing", "Arduino", "Raspberry Pi", "HAM Radio", "SDR", "Mathematics", "Innovation", "Prototyping"]
+    }]
+}
