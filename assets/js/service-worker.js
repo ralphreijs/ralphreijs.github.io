@@ -29,7 +29,7 @@ const SHELL_CACHE = "shell-9.2.1--v13--sw/";
 const ASSETS_CACHE = "assets--v13--sw/";
 
 // The cache for regular content, which will be invalidated every time you make a new build.
-const CONTENT_CACHE = "content--2024-09-19T19:44:34+02:00--sw/";
+const CONTENT_CACHE = "content--2024-09-20T11:17:26+02:00--sw/";
 
 // A URL search parameter you can add to external assets to cache them in the service worker.
 const SW_CACHE_SEARCH_PARAM = "sw-cache";
@@ -465,9 +465,6 @@ const STATIC_FILES = [
   /**/"/assets/resume.json",
   /**/"/assets/rs_reijs_resume.pdf",
   /**/"/assets/version.json",
-  /**/"/jekyll_build",
-  /**/"/jekyll_github",
-  /**/"/jekyll_serve",
   /**/"/assets/bower_components/MathJax/.bower.json",
   /**/"/assets/bower_components/html5shiv/.bower.json",
   /**/"/assets/bower_components/katex/.bower.json",
