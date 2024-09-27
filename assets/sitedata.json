@@ -24,8 +24,8 @@
     },{
       
       "title": "Hobbies & Interests",
-      "description": "Some of my pastime activities and other fascinations. (I will be adding previous project pages and details which are still missing since website migration)  Click each card for more detail.\n",
-      "content": "\n",
+      "description": "Some of my pastime activities and other fascinations.\n",
+      "content": "NOTE: Projects and details missing since website migration will be added soon.\n",
       "url": "/interests/"
     },{
       
@@ -54,8 +54,8 @@
     },{
       
       "title": "Software Architecture Projects",
-      "description": "For 20+ years I have worked on projects in corporate environments as a Senior Solution Architect in IT Service Management.In the last 10+ years I have also worked as Chief Technology Officer and Chief Product Officer on various Startups, often in the Blockchain space.  (Some project pages are still missing, I will be adding them, and more details, soon.) \n",
-      "content": "\n",
+      "description": "For 20+ years I have worked on projects in corporate environments as a Senior Solution Architect in IT Service Management.In the last 10+ years I have also worked as Chief Technology Officer and Chief Product Officer on various Startups, often in the Blockchain space.\n",
+      "content": "NOTE: Projects and details missing since website migration will be added soon.\n",
       "url": "/software/"
     }
   ], 
