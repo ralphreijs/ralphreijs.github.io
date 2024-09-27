@@ -71,7 +71,7 @@
       "title": "iBitcoin",
       "date": "2010-06-01 00:00:00 +0200",
       
-      "content": "I started mining Bitcoin in 2010, and wanted to see my mining statistics on my phone whilst away.\nWe developed an app with Mining Stats, Market Data, Network Data and for a brief time wallet functionality \nvia Exchange API calls. We were in Top 10 Finance apps for weeks until Apple removed our app from the AppStore.\nMuch of the development is informed from my experience of using it myself, creating a tight feedback loop.\n",
+      "content": "I started mining Bitcoin in 2010, and wanted to see my mining statistics on my phone whilst away.\nWe developed an app with Mining Stats, Market Data, Network Data and for a brief time wallet functionality \nvia Exchange API calls. We were in Top 10 Finance apps for weeks until Apple removed our app from the AppStore.\nMuch of the functionality came from a personal need for information, steered by using it myself.\n\n\n\niBitcoin - AppCodex (Ralph Reijs, 2010).\n\n\n\niBitcoin - AppCodex (Ralph Reijs, 2010).\n\n\n\niBitcoin - AppCodex (Ralph Reijs, 2010).\n\n\n\niBitcoin - AppCodex (Ralph Reijs, 2010).\n\n\n\niBitcoin - AppCodex (Ralph Reijs, 2010).\n\n\n\niBitcoin - AppCodex (Ralph Reijs, 2010).\n\n\n\niBitcoin - AppCodex (Ralph Reijs, 2010).\n\n\n\niBitcoin - AppCodex (Ralph Reijs, 2010).\n\n\n\niBitcoin - AppCodex (Ralph Reijs, 2010).\n\n\n\niBitcoin - AppCodex (Ralph Reijs, 2010).\n\n\n\niBitcoin - AppCodex (Ralph Reijs, 2010).\n\n\n\niBitcoin - AppCodex (Ralph Reijs, 2010).\n",
       "categories": [],
       "tags": [],
       
@@ -82,7 +82,7 @@
       "title": "Leesplankje",
       "date": "2010-12-01 00:00:00 +0100",
       
-      "content": "The concept was based on an old Dutch method for learning how to read, using a wooden board and blocks with letters.\nWe turned that into a digital version, using your fingers to drag letters. And when you touched a letter, you heard the proper pronounciation (in my Mom’s voice 😁).\n\n\n\n\nIt was in the Top 10 Educational Apps (AppStore), and was acquired by Noordhoff (largest Dutch educational publisher).\n",
+      "content": "\n\nThe concept was based on an old Dutch method for learning how to read, using a wooden board and blocks with letters.\nWe turned that into a digital version, using your fingers to drag letters. And when you touched a letter, you heard the proper pronounciation (in my Mom’s voice 😁).\n\n\n\n\nIt was in the Top 10 Educational Apps (AppStore), and was acquired by Noordhoff (largest Dutch educational publisher).\n",
       "categories": [],
       "tags": [],
       
@@ -104,7 +104,7 @@
       "title": "Mpowa",
       "date": "2019-10-01 00:00:00 +0200",
       
-      "content": "A tokenized, zero-point energy ecosystem to provide decentralized electricity to communities and households.\n\n\n\n\n\n\n",
+      "content": "A tokenized, zero-point energy ecosystem to provide decentralized electricity to communities and households.\n\n\n\nMpowa Logo (Ralph Reijs 2019)\n\n\n\nMpowa Vision (Ralph Reijs 2019)\n\n\n\nMpowa Mission (Ralph Reijs 2019)\n\n\n\nMpowa Energy Units (Ralph Reijs 2019)\n\n\n\nPrototype Functional Requirements (Ralph Reijs 2019)\n\n\n\nSelf-powered Raspberry Pi Prototype (Ralph Reijs 2019)\n\n\n\nOdyssey Hackathon (Ralph Reijs 2020)\n\n\n\nLarger Energy Unit (Ralph Reijs 2019)\n\n\n\nLarger Energy Units in Container (Ralph Reijs 2019)\n\n\n\nLarger Energy Units in Container (Ralph Reijs 2019)\n\n\n\nATX Crypto Miner PSU (Ralph Reijs 2019)\n\n\n\nCrypto Green Bond (Ralph Reijs 2019)\n\n\n\nMpowa Platform Architecture (Ralph Reijs 2019)\n",
       "categories": [],
       "tags": [],
       
@@ -126,7 +126,7 @@
       "title": "Applied Universal Mathematics",
       "date": "2021-04-01 00:00:00 +0200",
       
-      "content": "Based on Advanced Numbers Theory, together with a team, I designed and developed a Backtester to mathematically \nfind Harmonic Points in any and all data, from finance to sunspots. Heavily redacted due to NDA. \n\n\n\n\nIt all started with my favorite book, written by Anthony Morris.\n\n\n\nHarmonic Points in Historic Financial Data\n\n\n\nHarmonic Points in Historical Public Data\n\n\n\nHarmonic Points in Historical Public Data\n\n\n\nBacktester - Chart Mode\n\n\n\nBacktester - Animated\n\n\n\nBacktester - Closed Trades\n",
+      "content": "Based on Advanced Numbers Theory, together with a team, I designed and developed a Backtester to mathematically \nfind Harmonic Points in any and all data, from finance to sunspots. Heavily redacted due to NDA. \n\n\n\n\nIt all started with my favorite book, written by Anthony Morris.\n\n\n\nAn illustration of how beautifully perfect mathematics is. I made this chart to demonstrate the relation between mathematics and geometry when viewed through the Mod 9 perspective  (Ralph Reijs - 2021)\n\n\n\nHarmonic Points in Historic Financial Data\n\n\n\nHarmonic Points in Historical Public Data\n\n\n\nHarmonic Points in Historical Financial Data\n\n\n\nBacktester - Chart Mode\n\n\n\nBacktester - Animated\n\n\n\nBacktester - Closed Trades\n",
       "categories": [],
       "tags": [],
       
@@ -137,7 +137,7 @@
       "title": "Toxic Maxi",
       "date": "2023-03-01 00:00:00 +0100",
       
-      "content": "I started a company that helps individuals achieve self-custody over their Bitcoin, and helps companies \nintegrate Bitcoin (Lightning). The company has not launched yet, it is still a work in progress.\n\n\n\n\nCurrent (temporary) Home Page\n\n\n\nHome Page\n\n\n\nhttps://lightningnetwork.plus/posts/123\n\n\n\nProducts\n\n\n\nProfessional Services\n\n\n\nProduct Page\n\n\n\nProduct Page\n",
+      "content": "Bitcoin is the single, fully self-custodial asset in the world. Therefor it is important to know about it and understand how to use it. \nBitcoin Lightning isn’t another coin, it is a complementary protocol based on the Bitcoin blockchain that works by using cryptographic side-chains to make transactions instant and near-free.\nI started a company that helps individuals achieve self-custody over their Bitcoin, teach them about the use of bitcoin, and helps companies \nintegrate Bitcoin (Lightning). The company has not launched yet, it is still a work in progress.\n\n\n\n\nLaunch Announcement - Home Page\n\n\n\nHome Page\n\n\n\nhttps://lightningnetwork.plus/posts/123\n\n\n\nProducts\n\n\n\nProfessional Services\n\n\n\nProduct Page\n\n\n\nProduct Page\n",
       "categories": [],
       "tags": [],
       
@@ -148,7 +148,7 @@
       "title": "Apostille USA",
       "date": "2023-04-01 00:00:00 +0200",
       
-      "content": "A completely automated &amp; integrated Document Apostille service, drastically removing bureacucracy and reducing processing times. Revolutionary in the industry.\nAll of the following aspects have been automated:\n\n  Order process\n  Payment process\n  Shipping Label creation\n  Fulfillment (physical apostille in 50 states)\n  Delivery\n  Automatic fixing of many exceptions\n\n\n\n\n\n Apostille USA: Place an Order in Less than a Minute! (2024)\n",
+      "content": "An apostille is a crucial document that serves as proof of the authenticity of another document that has been signed by a notary public. This certification is required by international law, and it is issued by a government in accordance with the Hague Convention of 1961. The purpose of an apostille is to ensure that a document can be legally recognized and accepted in foreign countries.\n\nIn some cases, if the country of intended use does not participate in the Hague Convention, documents being sent to that country can still be authenticated or certified. This process can be time-consuming and complicated, and that’s why we developed a completely automated &amp; integrated Document Apostille service, drastically removing bureacucracy and reducing processing times. Revolutionary in the industry.\nAll of the following aspects have been automated:\n\n  Order process\n  Payment process\n  Shipping Label creation\n  Fulfillment (physical apostille in all 50 U.S. states via local partners)\n  Delivery\n  Automatic fixing of 98% of exceptions\n\n\n\n\n\n\n\n Apostille USA: Place an Order in Less than a Minute! (2024)\n",
       "categories": [],
       "tags": [],
       
@@ -258,7 +258,7 @@
       "title": "Mpowa",
       "date": "2019-10-01 00:00:00 +0200",
       
-      "content": "A tokenized, zero-point energy ecosystem to provide decentralized electricity to communities and households.\n\n\n\n\n\n\n",
+      "content": "A tokenized, zero-point energy ecosystem to provide decentralized electricity to communities and households.\n\n\n\nMpowa Logo (Ralph Reijs 2019)\n\n\n\nMpowa Vision (Ralph Reijs 2019)\n\n\n\nMpowa Mission (Ralph Reijs 2019)\n\n\n\nMpowa Energy Units (Ralph Reijs 2019)\n\n\n\nPrototype Functional Requirements (Ralph Reijs 2019)\n\n\n\nSelf-powered Raspberry Pi Prototype (Ralph Reijs 2019)\n\n\n\nOdyssey Hackathon (Ralph Reijs 2020)\n\n\n\nLarger Energy Unit (Ralph Reijs 2019)\n\n\n\nLarger Energy Units in Container (Ralph Reijs 2019)\n\n\n\nLarger Energy Units in Container (Ralph Reijs 2019)\n\n\n\nATX Crypto Miner PSU (Ralph Reijs 2019)\n\n\n\nCrypto Green Bond (Ralph Reijs 2019)\n\n\n\nMpowa Platform Architecture (Ralph Reijs 2019)\n",
       "categories": [],
       "tags": [],
       
@@ -280,7 +280,7 @@
       "title": "Apostille USA",
       "date": "2023-04-01 00:00:00 +0200",
       
-      "content": "A completely automated &amp; integrated Document Apostille service, drastically removing bureacucracy and reducing processing times. Revolutionary in the industry.\n\n\n\nHome Page\n\n\nOur Services\n",
+      "content": "An apostille is a crucial document that serves as proof of the authenticity of another document that has been signed by a notary public. This certification is required by international law, and it is issued by a government in accordance with the Hague Convention of 1961. The purpose of an apostille is to ensure that a document can be legally recognized and accepted in foreign countries.\n\nIn some cases, if the country of intended use does not participate in the Hague Convention, documents being sent to that country can still be authenticated or certified. This process can be time-consuming and complicated, and that’s why we developed a completely automated &amp; integrated Document Apostille service, drastically removing bureacucracy and reducing processing times. Revolutionary in the industry.\nAll of the following aspects have been automated:\n\n  Order process\n  Payment process\n  Shipping Label creation\n  Fulfillment (physical apostille in all 50 U.S. states via local partners)\n  Delivery\n  Automatic fixing of 98% of exceptions\n\n\n\n\n\n\n\n Apostille USA: Place an Order in Less than a Minute! (2024)\n",
       "categories": [],
       "tags": [],
       
