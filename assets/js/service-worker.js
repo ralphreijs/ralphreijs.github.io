@@ -29,7 +29,7 @@ const SHELL_CACHE = "shell-9.2.1--v13--sw/";
 const ASSETS_CACHE = "assets--v13--sw/";
 
 // The cache for regular content, which will be invalidated every time you make a new build.
-const CONTENT_CACHE = "content--2024-09-27T23:47:08+02:00--sw/";
+const CONTENT_CACHE = "content--2024-09-29T13:00:39+02:00--sw/";
 
 // A URL search parameter you can add to external assets to cache them in the service worker.
 const SW_CACHE_SEARCH_PARAM = "sw-cache";
@@ -343,7 +343,6 @@ const STATIC_FILES = [
   /**/"/assets/img/projects/art_wardial.png",
   /**/"/assets/img/projects/art_yesdelft.png",
   /**/"/assets/img/projects/art_ziedesterren.png",
-  /**/"/assets/img/projects/astro_timelapse.mp4",
   /**/"/assets/img/projects/banner_mpowa.png",
   /**/"/assets/img/projects/boxed-bg.jpg",
   /**/"/assets/img/projects/boxed-bg.png",
@@ -504,6 +503,7 @@ const STATIC_FILES = [
   /**/"/assets/img/projects/projects_app_suitsupply_full_06.jpg",
   /**/"/assets/img/projects/projects_app_suitsupply_full_07.jpg",
   /**/"/assets/img/projects/projects_astronomy.jpg",
+  /**/"/assets/img/projects/projects_astronomy_astro_timelapse.mp4",
   /**/"/assets/img/projects/projects_astronomy_full_01.jpg",
   /**/"/assets/img/projects/projects_astronomy_full_02.jpg",
   /**/"/assets/img/projects/projects_astronomy_full_03.jpg",

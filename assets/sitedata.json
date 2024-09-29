@@ -17,9 +17,21 @@
       "url": "/about/"
     },{
       
+      "title": "Enterprise Architecture Projects",
+      "description": "For 20+ years I have worked on projects in corporate environments as a Senior Solution Architect in IT Service Management.\n",
+      "content": "NOTE: Projects and details missing since website migration will be added soon.\n",
+      "url": "/architecture/"
+    },{
+      
+      "title": "Blockchain Projects",
+      "description": "I’ve been very enthousiastic about the possibilities of Blockchain since 2010 (after reading the Bitcoin whitepaper). Now, in 2024, I’m a lot more skeptical about the usecases where it makes sense, but the concept absolutely has its usecases, of which the biggest is Bitcoin.\n",
+      "content": "NOTE: Projects and details missing since website migration will be added soon.\n",
+      "url": "/blockchain/"
+    },{
+      
       "title": "Home",
       
-      "content": "\n\nWelcome and thanks for visiting! I’m Ralph, a Chief Technology Officer from the Netherlands. I advise and manage startups with a strong, senior mentality and 25+ years of experience in bleeding-edge technology. \nFor 20+ years I have worked in 40+ projects at corporate environments as a Senior Solution Architect in IT Service Management. For the last 14+ years I have worked on Startups as well, many of which in the Blockchain scene, as I have been involved with Bitcoin since 2010. \nIn 2017 I was a founding (and core team-) member of Pillar, one of the first cryptocurrency ICOs, where we raised $27M in 60 hours. In 2018 I was a core team member of Jinbi, an ICO where we raised $47M over 6 months.\nCurrently I’m CTO of Apostille USA, a 100% automated platform for Apostille of Legal Documents; which reduces processing time from months to days. Created in March 2023, customers since 1st month, profitable since the 4th month, without external funding.\n\n\n    \n        \n        Résumé\n    \n\n\nClients\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n\n\nRecent Projects\n\n\n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Product Development\n            \n            \n                Projects where I served as CPO or CTO\n            \n        \n    \n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Security &amp; Infrastructure\n            \n            \n                Security, Networking, Pentesting projects\n            \n        \n    \n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Software Architecture\n            \n            \n                Blockchain, Cloud and Enterprise\n            \n        \n    \n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Hobbies &amp; Interests\n            \n            \n                Hacking, Crafting, Tinkering, Bitcoin. Nerd things.\n            \n        \n    \n\n\n\nNOTE: Projects and details missing since website migration will be added soon.\n\n",
+      "content": "\n\nWelcome and thanks for visiting! I’m Ralph, a Chief Technology Officer from the Netherlands. I advise and manage startups with a strong, senior mentality and 25+ years of experience in bleeding-edge technology. \nFor 20+ years I have worked in 40+ projects at corporate environments as a Senior Solution Architect in IT Service Management. For the last 14+ years I have worked on Startups as well, many of which in the Blockchain scene, as I have been involved with Bitcoin since 2010. \nIn 2017 I was a founding (and core team-) member of Pillar, one of the first cryptocurrency ICOs, where we raised $27M in 60 hours. In 2018 I was a core team member of Jinbi, an ICO where we raised $47M over 6 months.\nCurrently I’m CTO of Apostille USA, a 100% automated platform for Apostille of Legal Documents; which reduces processing time from months to days. Created in March 2023, customers since 1st month, profitable since the 4th month, without external funding.\n\n\n    \n        \n        Résumé\n    \n\n\nClients\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n\n\nRecent Projects\n\n\n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Product Development\n            \n            \n                Projects where I served as CPO or CTO\n            \n        \n    \n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Enterprise Architecture\n            \n            \n                IT Service Management Projects\n            \n        \n    \n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Blockchain\n            \n            \n                Blockchain Startups &amp; Projects\n            \n        \n    \n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Security &amp; Infrastructure\n            \n            \n                Security, Networking, Pentesting projects\n            \n        \n    \n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Hobbies &amp; Interests\n            \n            \n                Hacking, Crafting, Tinkering, Bitcoin. Nerd things.\n            \n        \n    \n\n\n\nNOTE: Projects and details missing since website migration will be added soon.\n\n",
       "url": "/"
     },{
       
@@ -48,15 +60,9 @@
     },{
       
       "title": "Security & Infrastructure Projects",
-      "description": "Security has always been a passion of mine. From tinkering with phonebooths in the 90s, to removing manufacturer placed software restrictions from consumer hardware. Networking and Pentesting became a natural extension of my learning. Wireless Network Security and Sub-Ghz signals also fascinate me.\n",
+      "description": "Security has always been a passion of mine. From tinkering with phonebooths in the 90s, to removing manufacturer placed software restrictions from consumer hardware. Networking and Pentesting became a natural extension of my learning. Wireless Networks and Sub-Ghz signals also fascinate me.\n",
       "content": "NOTE: Projects and details missing since website migration will be added soon.\n",
       "url": "/security/"
-    },{
-      
-      "title": "Software Architecture Projects",
-      "description": "For 20+ years I have worked on projects in corporate environments as a Senior Solution Architect in IT Service Management.In the last 10+ years I have also worked as Chief Technology Officer and Chief Product Officer on various Startups, often in the Blockchain space.\n",
-      "content": "NOTE: Projects and details missing since website migration will be added soon.\n",
-      "url": "/software/"
     }
   ], 
   "documents": [
@@ -94,11 +100,33 @@
       "collection": "productdev",
       "url": "/productdev/astroweather/"
     },{
+      "image": {"path":"/assets/img/projects/projects_wardial.jpg"},
+      "title": "Wardial",
+      "date": "2018-08-01 00:00:00 +0200",
+      
+      "content": "Named after ‘War dialing’ from the 80s, this was a little Proof of Concept script to ‘hack’ Ethereum wallets by generating random wallet seeds and checking whether they have a balance. Basically “discovering existing wallets”.\nIf a wallet with balance higher than 0 ETH was found, an alert would be sent through a Telegram bot.\n\n\n\n\nThe WarDial script being executed (2018)\n\n\n\nThe WarDial script being executed (2018)\n\n\n\n214,000+ wallets had been checked (2018)\n\n\n\nExample of generated wallets (2018)\n\n\n\nTelegram bot for alerts (2018)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "productdev",
+      "url": "/productdev/wardial/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_juicer.jpg"},
+      "title": "JuiceR",
+      "date": "2019-08-01 00:00:00 +0200",
+      
+      "content": "A fully automated Tumbling / Mixing platform for the Ethereum blockchain. Worked for both ETH as well ERC20 tokens.\nIt was a very fun project, and it taught me a lot about blockchain development.\nSuccessfully used on Main Net with ETH and millions of tokens\n\n\n\n\nCampaign TX Graph (2018)\n\n\n\nJuiceR Dashboard (2018)\n\n\n\nSeeder Screen (2018)\n\n\n\nCampaign Details (2018)\n\n\n\nWallet Details (2018)\n\n\n\nCampaign Report (2018)\n\n\n\nCampaign Report (2018)\n\n\n\nCampaign Report (2018)\n\n\n\nCampaign Report (2018)\n\n\n\nParity Light (2018)\n\nCampaign Report (2018)\n\n\n\nCampaign TX Graph (2018)\n\n\n\nCampaign TX Graph (2018)\n\n\n\nCampaign TX Graph (2018)\n\n\n\nCampaign TX Graph (2018)\n\n\n\nCampaign TX Graph (2018)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "productdev",
+      "url": "/productdev/juicer/"
+    },{
       "image": {"path":"/assets/img/projects/projects_mpowa.jpg"},
       "title": "Mpowa",
       "date": "2019-10-01 00:00:00 +0200",
       
-      "content": "A tokenized, zero-point energy ecosystem to provide decentralized electricity to communities and households.\n\n\n\nMpowa Logo (Ralph Reijs 2019)\n\n\n\nMpowa Vision (Ralph Reijs 2019)\n\n\n\nMpowa Mission (Ralph Reijs 2019)\n\n\n\nMpowa Energy Units (Ralph Reijs 2019)\n\n\n\nPrototype Functional Requirements (Ralph Reijs 2019)\n\n\n\nSelf-powered Raspberry Pi Prototype (Ralph Reijs 2019)\n\n\n\nOdyssey Hackathon (Ralph Reijs 2020)\n\n\n\nLarger Energy Unit (Ralph Reijs 2019)\n\n\n\nLarger Energy Units in Container (Ralph Reijs 2019)\n\n\n\nLarger Energy Units in Container (Ralph Reijs 2019)\n\n\n\nATX Crypto Miner PSU (Ralph Reijs 2019)\n\n\n\nCrypto Green Bond (Ralph Reijs 2019)\n\n\n\nMpowa Platform Architecture (Ralph Reijs 2019)\n",
+      "content": "A tokenized, zero-point energy ecosystem to provide decentralized electricity to communities and households.\n\n\n\nMpowa Vision (Ralph Reijs 2019)\n\n\n\nMpowa Mission (Ralph Reijs 2019)\n\n\n\nMpowa Energy Units (Ralph Reijs 2019)\n\n\n\nPrototype Functional Requirements (Ralph Reijs 2019)\n\n\n\nSelf-powered Raspberry Pi Prototype (Ralph Reijs 2019)\n\n\n\nOdyssey Hackathon (Ralph Reijs 2020)\n\n\n\nLarger Energy Unit (Ralph Reijs 2019)\n\n\n\nLarger Energy Units in Container (Ralph Reijs 2019)\n\n\n\nLarger Energy Units in Container (Ralph Reijs 2019)\n\n\n\nATX Crypto Miner PSU (Ralph Reijs 2019)\n\n\n\nCrypto Green Bond (Ralph Reijs 2019)\n\n\n\nMpowa Platform Architecture (Ralph Reijs 2019)\n",
       "categories": [],
       "tags": [],
       
@@ -120,7 +148,7 @@
       "title": "Applied Universal Mathematics",
       "date": "2021-04-01 00:00:00 +0200",
       
-      "content": "Based on Advanced Numbers Theory, together with a team, I designed and developed a Backtester to mathematically \nfind Harmonic Points in any and all data, from finance to sunspots. Heavily redacted due to NDA. \n\n\n\n\nIt all started with my favorite book, written by Anthony Morris.\n\n\n\nAn illustration of how beautifully perfect mathematics is. I made this chart to demonstrate the relation between mathematics and geometry when viewed through the Mod 9 perspective  (Ralph Reijs - 2021)\n\n\n\nHarmonic Points in Historic Financial Data\n\n\n\nHarmonic Points in Historical Public Data\n\n\n\nHarmonic Points in Historical Financial Data\n\n\n\nBacktester - Chart Mode\n\n\n\nBacktester - Animated\n\n\n\nBacktester - Closed Trades\n",
+      "content": "Based on Advanced Numbers Theory, together with a team, I designed and developed a Backtester to mathematically \nfind Harmonic Points in any and all data, from finance to sunspots. Heavily redacted due to NDA. \n\n\n\n\nIt all started with my favorite book, written by Anthony Morris.\n\n\n\nAn illustration of how beautifully perfect mathematics is. I made this chart to demonstrate the relation between mathematics and geometry when viewed through the Mod 9 perspective  (Ralph Reijs - 2021)\n\n\n\nAlpha7 software. Harmonic Points in Historic Financial Data\n\n\n\nAlpha7 software. Harmonic Points in Historical Public Data\n\n\n\nAlpha7 software. Harmonic Points in Historical Financial Data\n\n\n\nAlpha7 software. Backtester - Chart Mode\n\n\n\nAlpha7 software. Backtester - Animated\n\n\n\nAlpha7 software. Backtester - Closed Trades\n",
       "categories": [],
       "tags": [],
       
@@ -153,7 +181,7 @@
       "title": "Hacking",
       "date": "2010-10-01 00:00:00 +0200",
       
-      "content": "I’ve been tinkering, crafting and (generally trying to break stuff to learn how it works) since I was a kid.\nWhen I got into computers and electronics (around age 10, in 1990) I was instantly hooked on the challenge of manipulating the behaviour of electronic systems.\n#HackThePlanet!\n\n\n\nA custom-built Jasager (initial project of the Wifi Pineapple) with MITM router\n\n\n\nPlayStation Vita hacking with HENkaku 変革 (2015)\n\n\n\nWiFi Hacking with Wemos D1 Mini (2015)\n\n\n\nAt Hackerspace ‘Technologia Incognita’ (2011)\n\n\n\nLock Picking (2018)\n\n\n\nWiFi Pineapple on OpenWRT / BusyBox (2012)\n\n\n\nOpenWRT on Arduino Yún (2012)\n\n\n\nWiFi PenTesting Kit (2012)\n\n\n\niLantern Concept [300 Programmable LEDs] (2012)\n\n\n\nEthereum War Dialer&lt;/a&gt;\n\n\n\nCopyright Ralph Reijs (2015)\n\n\n\nObserve. Hack. Make.  (2013)\n\n\n\nTechnologia Incognita Hackerspace (2017)\n",
+      "content": "I’ve been tinkering, crafting and (generally trying to break stuff to learn how it works) since I was a kid.\nWhen I got into computers and electronics (around age 10, in 1990) I was instantly hooked on the challenge of manipulating the behaviour of electronic systems.\nI never have enough Weekend Projects 😁 #HackThePlanet!\n\n\n\nA custom-built Jasager (initial project of the Wifi Pineapple) with MITM router\n\n\n\nPlayStation Vita hacking with HENkaku 変革 (2015)\n\n\n\nWiFi Hacking with Wemos D1 Mini (2015)\n\n\n\nAt Hackerspace ‘Technologia Incognita’ (2011)\n\n\n\nLock Picking (2018)\n\n\n\nWiFi Pineapple on OpenWRT / BusyBox (2012)\n\n\n\nOpenWRT on Arduino Yún (2012)\n\n\n\nWiFi PenTesting Kit (2012)\n\n\n\niLantern Concept [300 Programmable LEDs] (2012)\n\n\n\nEthereum War Dialer\n\n\n\nRalph Reijs (2015)\n\n\n\nObserve. Hack. Make.  (2013)\n\n\n\nTechnologia Incognita Hackerspace (2017)\n\n\n\nFlipper Zero in a 3D Printed case (2023)\n",
       "categories": [],
       "tags": [],
       
@@ -164,7 +192,7 @@
       "title": "Instatunnel",
       "date": "2013-08-01 00:00:00 +0200",
       
-      "content": "Instatunnel was a concept around PrePaid VPN Bandwidth with zero logging. Each card gave a specific amount of guaranteed snoop-proof bandwidth. The prepaid cards were to be sold at Airports, Hotels, Supermarkets.\n\n\n\n\nPrepaid Cards (2013)\n\n\n\nBeta Portal (2013)\n\n\n\nStatus Page (2013)\n",
+      "content": "Instatunnel was a concept around PrePaid VPN Bandwidth with zero logging. Each card gave a specific amount of guaranteed snoop-proof bandwidth. The prepaid cards were to be sold at Airports, Hotels, Supermarkets. After cleaning the scratch-code on the back, the code could be redeemed on an activation portal, after which the VPN would connect.\n\n\n\n\nPrepaid Cards (2013)\n\n\n\nBeta Portal (2013)\n\n\n\nStatus Page (2013)\n",
       "categories": [],
       "tags": [],
       
@@ -175,7 +203,7 @@
       "title": "Cloudlynx",
       "date": "2015-04-01 00:00:00 +0200",
       
-      "content": "We were the first to have a fully Pharma-compliant cloud network infrastructure with record network speeds. I was redesigning the OpenStack Horizon dashboard with an extremely userfriendly UI/UX in Python and Django.\n\n\n\n\nCloudlynx (2015)\n\n\n\nCloudlynx (2015)\n\n\n\nCloudlynx (2015)\n\n\n\nCloudlynx (2015)\n",
+      "content": "We were the first to have a fully Pharma-compliant cloud network infrastructure with record network speeds. I was redesigning the OpenStack Horizon dashboard with an extremely userfriendly UI/UX in Python and Django.\n\n\n\n\nCloudlynx - Upgrade Instance (2015)\n\n\n\nCloudlynx - Networks (2015)\n\n\n\nCloudlynx - Launch Instance (2015)\n\n\n\nCloudlynx Network Ninja T-Shirt (2015)\n",
       "categories": [],
       "tags": [],
       
@@ -186,45 +214,12 @@
       "title": "Pillar",
       "date": "2017-07-01 00:00:00 +0200",
       
-      "content": "Founding Team Member, started as a tech generalist. After some months, we did a succesful ICO and raised $27M in 60h.\nI fell in love with the original idea of the Personal Data Locker and decided I wanted to help build it.\nDuring the ICO / Token Sale I handled the livestream broadcast and technical overlays / integrations. After the first Unconference, I took position as Head of IT Security and Infrastructure.\n\n\n\n\n\n The original PDL Concept Video (2016)\n\n\n\n The Launch Video (2017)\n\n\n\nPillar’s second logo (2017)\n\n\n\n Pillar Unconference (Slovakia, 2017)\n\n\n\nPillar Community @ Rocket.Chat (2017)\n\n\n\nPillar Unconference (Slovakia, 2017)\n\n\n\nPillar Office (London, 2018)\n\n\n\n New Kids On The Blockchain (Lithuania, 2018)\n\n\n\n New Kids On The Blockchain (Lithuania, 2018)\n\n\n\n Haarlem Pillar Meetup (Netherlands, 2017)\n\n\n\nJeff Berwick / The Dollar Vigilante (Lithuania, 2018)\n\n\n\n Jeff Berwick / Luke Rudkowski (Lithuania, 2018)\n\n\n\nCrypto Rally (Lithuania, 2018)\n\n\n\nPillar Haarlem (Netherlands, 2017)\n",
+      "content": "Founding Team Member, started as a tech generalist. After some months, we did a successful ICO and raised $27M in 60h. \nI fell in love with the original idea of the Personal Data Locker and decided I wanted to help build it.\nDuring the ICO / Token Sale I handled the livestream broadcast and technical overlays / integrations. After the first Unconference I went to London to build our headquarters, and took position as Head of IT Security and Infrastructure.\n\n\n\n\n\n The original PDL Concept Video (2016)\n\n\n\n The Launch Video (2017)\n\n\n\nPillar’s second logo (2017)\n\n\n\n Pillar Unconference (Slovakia, 2017)\n\n\n\nPillar Community @ Rocket.Chat (2017)\n\n\n\nPillar Unconference (Slovakia, 2017)\n\n\n\nPillar Office (London, 2018)\n\n\n\n New Kids On The Blockchain (Lithuania, 2018)\n\n\n\n New Kids On The Blockchain (Lithuania, 2018)\n\n\n\n Haarlem Pillar Meetup (Netherlands, 2017)\n\n\n\nJeff Berwick / The Dollar Vigilante (Lithuania, 2018)\n\n\n\n Jeff Berwick / Luke Rudkowski (Lithuania, 2018)\n\n\n\nCrypto Rally (Lithuania, 2018)\n\n\n\nPillar Haarlem (Netherlands, 2017)\n",
       "categories": [],
       "tags": [],
       
       "collection": "security",
       "url": "/security/pillar/"
-    },{
-      "image": {"path":"/assets/img/projects/projects_jinbi.jpg"},
-      "title": "Jinbi",
-      "date": "2018-06-01 00:00:00 +0200",
-      
-      "content": "Jinbi brings gold production (from ore to coin) to the blockchain. I was a a core team member and part of the ICO in 2018, where I secured the website and tokens for the months during the tokensale. We raised $47M in roughly 6 months. After the ICO, I took position of CTO.\n\n\n\n Explaining Jinbi (2018)\n\n\n\nJinbi = 金币 Gold Coin in Mandarin (2018)\n\n\n\nGolden Dragon / Tiger Coins (2022)\n\n\n\nPress About Us (2018)\n\n\n\n8 Key Stages of Jinbi (2018)\n",
-      "categories": [],
-      "tags": [],
-      
-      "collection": "security",
-      "url": "/security/jinbi/"
-    },{
-      "image": {"path":"/assets/img/projects/projects_wardial.jpg"},
-      "title": "WarDial",
-      "date": "2018-08-01 00:00:00 +0200",
-      
-      "content": "Named after ‘War dialing’ from the 80s, this was a little Proof of Concept script to ‘hack’ Ethereum wallets by generating random wallet seeds and checking whether they have a balance.\nIf a wallet with balance higher than 0 ETH was found, an alert would be sent through a Telegram bot.\n\n\n\n\nThe WarDial script being executed (2018)\n\n\n\nThe WarDial script being executed (2018)\n\n\n\n214,000+ wallets had been checked (2018)\n\n\n\nExample of generated wallets (2018)\n\n\n\nTelegram bot for alerts (2018)\n",
-      "categories": [],
-      "tags": [],
-      
-      "collection": "security",
-      "url": "/security/wardial/"
-    },{
-      "image": {"path":"/assets/img/projects/projects_itsm.jpg"},
-      "title": "IT Service Management",
-      "date": "1998-01-01 00:00:00 +0100",
-      
-      "content": "\n\nFor more than 20 years, I have worked at large international organisations as a Senior Solution Architect for IT Service Management software. My clients are usually based in Europe, North America and the Middle East. Banks, Insurance companies, Pharmaceutical companies, Petrochemical companies, usually organisations with a 100.000 employees or more.\n\nMy Resonsibilities:\n\n  Stakeholder Meetings\n  Consolidation and discovery of functional and technical requirements\n  Advisory to the Board / Process Owners\n  Design of technical solution\n  User Interface design\n  Implementation of solutions according to company policy and SDLC\n  Infrastructure analysis and stress-tests\n  Security analysis &amp; penetration tests\n  Administrator and End-User Documentation\n  Business Reporting\n  Automation &amp; Integration\n  Support and Training of employees / end-users\n\n\nITIL Processes:\n\n  Service Management\n  Incident Management\n  Problem Management\n  Change Management\n  Release Management\n  Request Management\n  Asset Management\n  Knowledge Management\n  Configuration Management\n  Service Level Management\n\n\nClients\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n\n\n\n\nI started in 1998 with Peregrine Systems ServiceCenter 3. The software was originally called PNMS (Problem Network Management System) for MVS / 3270 systems, and the GUI was based on “lines” as to maintain backward compatibility with text-based UIs.\n\n\n\nPeregrine Systems ServiceCenter v6 (2002)\n\nIn 2005, HP acquired Peregrine Systems and made their various software products a part of the HP OpenView portfolio. ServiceCenter was then called ServiceManager, and it received a number of big updates that gave it less of a text-based GUI feeling.\n\n\n\nHP ServiceManager v7 (2007)\n\nFrom around 2011, the ServiceNow platform (created by the former CTO of Peregrine Systems) had taken of a large share of the corporate IT Service Management market, and many corporations were making the switch.\n\n\n\nServiceNow (2015)\n",
-      "categories": [],
-      "tags": [],
-      
-      "collection": "software",
-      "url": "/software/itsm/"
     },{
       "image": {"path":"/assets/img/projects/projects_wardial.jpg"},
       "title": "Wardial",
@@ -234,8 +229,8 @@
       "categories": [],
       "tags": [],
       
-      "collection": "software",
-      "url": "/software/wardial/"
+      "collection": "security",
+      "url": "/security/wardial/"
     },{
       "image": {"path":"/assets/img/projects/projects_juicer.jpg"},
       "title": "JuiceR",
@@ -245,52 +240,129 @@
       "categories": [],
       "tags": [],
       
-      "collection": "software",
-      "url": "/software/juicer/"
+      "collection": "security",
+      "url": "/security/juicer/"
     },{
-      "image": {"path":"/assets/img/projects/projects_mpowa.jpg"},
-      "title": "Mpowa",
-      "date": "2019-10-01 00:00:00 +0200",
+      "image": {"path":"/assets/img/projects/projects_itsm.jpg"},
+      "title": "IT Service Management",
+      "date": "1998-01-01 00:00:00 +0100",
       
-      "content": "A tokenized, zero-point energy ecosystem to provide decentralized electricity to communities and households.\n\n\n\nMpowa Logo (Ralph Reijs 2019)\n\n\n\nMpowa Vision (Ralph Reijs 2019)\n\n\n\nMpowa Mission (Ralph Reijs 2019)\n\n\n\nMpowa Energy Units (Ralph Reijs 2019)\n\n\n\nPrototype Functional Requirements (Ralph Reijs 2019)\n\n\n\nSelf-powered Raspberry Pi Prototype (Ralph Reijs 2019)\n\n\n\nOdyssey Hackathon (Ralph Reijs 2020)\n\n\n\nLarger Energy Unit (Ralph Reijs 2019)\n\n\n\nLarger Energy Units in Container (Ralph Reijs 2019)\n\n\n\nLarger Energy Units in Container (Ralph Reijs 2019)\n\n\n\nATX Crypto Miner PSU (Ralph Reijs 2019)\n\n\n\nCrypto Green Bond (Ralph Reijs 2019)\n\n\n\nMpowa Platform Architecture (Ralph Reijs 2019)\n",
+      "content": "\n\nFor more than 20 years, I have worked at large international organisations as a Senior Solution Architect for IT Service Management software. My clients are usually based in Europe, North America and the Middle East. Banks, Insurance companies, Pharmaceutical companies, Petrochemical companies, usually organisations with a 100.000 employees or more.\n\nMy Resonsibilities:\n\n  Stakeholder Meetings\n  Consolidation and discovery of functional and technical requirements\n  Advisory to the Board / Process Owners\n  Design of technical solution\n  User Interface design\n  Implementation of solutions according to company policy and SDLC\n  Infrastructure analysis and stress-tests\n  Security analysis &amp; penetration tests\n  Administrator and End-User Documentation\n  Business Reporting\n  Automation &amp; Integration\n  Support and Training of employees / end-users\n\n\nITIL Processes:\n\n  Service Management\n  Incident Management\n  Problem Management\n  Change Management\n  Release Management\n  Request Management\n  Asset Management\n  Knowledge Management\n  Configuration Management\n  Service Level Management\n\n\nClients\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n\n\n\n\nI started in 1998 with Peregrine Systems ServiceCenter 3. The software was originally called PNMS (Problem Network Management System) for MVS / 3270 systems, and the GUI was based on “lines” as to maintain backward compatibility with text-based UIs.\n\n\n\nPeregrine Systems ServiceCenter v6 (2002)\n\nIn 2005, HP acquired Peregrine Systems and made their various software products a part of the HP OpenView portfolio. ServiceCenter was then called ServiceManager, and it received a number of big updates that gave it less of a text-based GUI feeling.\n\n\n\nHP ServiceManager v7 (2007)\n\nFrom around 2011, the ServiceNow platform (created by the former CTO of Peregrine Systems) had taken of a large share of the corporate IT Service Management market, and many corporations were making the switch.\n\n\n\nServiceNow (2015)\n",
       "categories": [],
       "tags": [],
       
-      "collection": "software",
-      "url": "/software/mpowa/"
-    },{
-      "image": {"path":"/assets/img/projects/projects_karakoram.jpg"},
-      "title": "Karakoram",
-      "date": "2020-12-01 00:00:00 +0100",
-      
-      "content": "I was part of the project’s 3rd phase (which was postponed due to the pandemic) in Karakoram Mountains (Pakistan), \nand developed a prototype Early Warning System for Glacial Lake Outburst Floods (GLOFs), based on Mesh Networking \nand low-cost hardware. \n\n\n\n\nA concept mockup of the technical prototype (Ralph Reijs - 2020)\n\n\n\nOutdoor Journal - Oliver Foster (2020)\n\n\n\nPhoto Credit: Tim Taylor (2018)\n",
-      "categories": [],
-      "tags": [],
-      
-      "collection": "software",
-      "url": "/software/karakoram/"
-    },{
-      "image": {"path":"/assets/img/projects/projects_apostilleusa.jpg"},
-      "title": "Apostille USA",
-      "date": "2023-04-01 00:00:00 +0200",
-      
-      "content": "An apostille is a crucial document that serves as proof of the authenticity of another document that has been signed by a notary public. This certification is required by international law, and it is issued by a government in accordance with the Hague Convention of 1961. The purpose of an apostille is to ensure that a document can be legally recognized and accepted in foreign countries.\n\nIn some cases, if the country of intended use does not participate in the Hague Convention, documents being sent to that country can still be authenticated or certified. This process can be time-consuming and complicated, and that’s why we developed a completely automated &amp; integrated Document Apostille service, drastically removing bureacucracy and reducing processing times. Revolutionary in the industry.\nAll of the following aspects have been automated:\n\n  Order process\n  Payment process\n  Shipping Label creation\n  Fulfillment (physical apostille in all 50 U.S. states via local partners)\n  Delivery\n  Automatic fixing of 98% of exceptions\n\n\n\n\n\n\n\n Apostille USA: Place an Order in Less than a Minute! (2024)\n\n\n\n\n\n The Ultimate Guide to Apostille FBI Background Checks: Everything You Need to Know ! (2024)\n",
-      "categories": [],
-      "tags": [],
-      
-      "collection": "software",
-      "url": "/software/apostilleusa/"
+      "collection": "architecture",
+      "url": "/architecture/itsm/"
     },{
       "image": {"path":"/assets/img/projects/projects_security.jpg"},
       "title": "Hacking",
       "date": "2010-10-01 00:00:00 +0200",
       
-      "content": "I’ve been tinkering, crafting and (generally trying to break stuff to learn how it works) since I was a kid.\nWhen I got into computers and electronics (around age 10, in 1990) I was instantly hooked on the challenge of manipulating the behaviour of electronic systems.\n#HackThePlanet!\n\n\n\nA custom-built Jasager (initial project of the Wifi Pineapple) with MITM router\n\n\n\nPlayStation Vita hacking with HENkaku 変革 (2015)\n\n\n\nWiFi Hacking with Wemos D1 Mini (2015)\n\n\n\nAt Hackerspace ‘Technologia Incognita’ (2011)\n\n\n\nLock Picking (2018)\n\n\n\nWiFi Pineapple on OpenWRT / BusyBox (2012)\n\n\n\nOpenWRT on Arduino Yún (2012)\n\n\n\nWiFi PenTesting Kit (2012)\n\n\n\niLantern Concept [300 Programmable LEDs] (2012)\n\n\n\nEthereum War Dialer&lt;/a&gt;\n\n\n\nCopyright Ralph Reijs (2015)\n\n\n\nObserve. Hack. Make.  (2013)\n\n\n\nTechnologia Incognita Hackerspace (2017)\n",
+      "content": "I’ve been tinkering, crafting and (generally trying to break stuff to learn how it works) since I was a kid.\nWhen I got into computers and electronics (around age 10, in 1990) I was instantly hooked on the challenge of manipulating the behaviour of electronic systems.\nI never have enough Weekend Projects 😁 #HackThePlanet!\n\n\n\nA custom-built Jasager (initial project of the Wifi Pineapple) with MITM router\n\n\n\nPlayStation Vita hacking with HENkaku 変革 (2015)\n\n\n\nWiFi Hacking with Wemos D1 Mini (2015)\n\n\n\nAt Hackerspace ‘Technologia Incognita’ (2011)\n\n\n\nLock Picking (2018)\n\n\n\nWiFi Pineapple on OpenWRT / BusyBox (2012)\n\n\n\nOpenWRT on Arduino Yún (2012)\n\n\n\nWiFi PenTesting Kit (2012)\n\n\n\niLantern Concept [300 Programmable LEDs] (2012)\n\n\n\nEthereum War Dialer\n\n\n\nRalph Reijs (2015)\n\n\n\nObserve. Hack. Make.  (2013)\n\n\n\nTechnologia Incognita Hackerspace (2017)\n\n\n\nFlipper Zero in a 3D Printed case (2023)\n",
       "categories": [],
       "tags": [],
       
       "collection": "interests",
       "url": "/interests/hacking/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_astronomy.jpg"},
+      "title": "Astronomy",
+      "date": "2011-06-01 00:00:00 +0200",
+      
+      "content": "I have seen amazing objects with my own eyes that are lightyears away 🥰 \n\n\n  \n  Your browser does not support the video tag. \n\n\n\n\n\nOne of the many nights I spent looking at the sky (2011)\n\n\n\nIn northern Germany (2011)\n\n\n\nThe Moon by Ralph Reijs (2011)\n\n\n\nSolar Astronomy: Observing the Sun with the Coronado PST (2011)\n\n\n\nSolar Astronomy: Observing the Sun with the Coronado PST (2011)\n\n\n\nSunspots with the Coronado PST (2013)\n\n\n\nCoronal Mass Ejections (2013)\n\n\n\nAmateur Astronomy at Knardijk (2011)\n\n\n\nSaturn (2012)\n\n\n\nOrion Nebula, M42 (2014)\n\n\n\nMessier 51, Whirlpool Galaxy (2012)\n\n\n\nJupiter (High Magnitude, 2012)\n\n\n\nJupiter (Wide Field, 2012)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "interests",
+      "url": "/interests/astronomy/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_drones.jpg"},
+      "title": "Drones",
+      "date": "2011-06-01 00:00:00 +0200",
+      
+      "content": "I’ve been building Racing Drones since 2013, all with opensource software and hardware. Only since 2017 have I started using commercial consumer drones. So many beautiful places I have visited and flown FPV at 🥰 \nI always dreamt of flying, and when building an FPV Drone became a realistic option, I jumped in and studied all I could, for 3 months. After that, I started building one drone after the other. Many of them FPV Racing Drones. These days I race less, but love Aerial Photography / Video. I’m still flying FPV in 2024.\n\n\n\nWorking on a DJI F330 X-Frame (2013)\n\n\n\n Debugging Flight Stabilization @ Haarlem, Netherlands (2013)\n\n\n\nFlying at Tel Aviv, Israel (2014)\n\n\n\n Testing and tuning of home-built drone @  Pratteln, Switzerland (2015)\n\n\n\n Testing and tuning of home-built FPV Racing drones and RC Helicopters @ Haarlem, Netherlands (2015)\n\n\n\nImmersionRC Vortex FPV Goggles Menu @ Haarlem, Netherlands (2015)\n\n\n\nFPV training with the ImmersionRC Vortex FPV Racing drone @ Haarlem, Netherlands (2015)\n\n\n\nFPV training with the ImmersionRC Vortex FPV Racing drone @ Haarlem, Netherlands (2015)\n\n\n\n Indoor FPV @ Parking Garage @ Haarlem, Netherlands (2015)\n\n\n\n Flying @ Landgoed Elswout, Netherlands (2015)\n\n\n\n Flying @ Landgoed Elswout, Netherlands (2015)\n\n\n\nWorking on a  Tilt Racing Drone (2015)\n\n\n\n FPV Flying @ Molen de Veer, Haarlem (2015)\n\n\n\nFlying at La Dôle, near Lac Léman, Switzerland (2015)\n\n\n\n FPV Flying @ Racetrack, Zandvoort, Netherlands (2015)\n\n\n\n FPV Flying @ Ruins of Castle Brederode, Haarlem, Netherlands (2015)\n\n\n\n At the Oerkap City Beach, Center of Haarlem, Netherlands (2017)\n\n\n\nFPV Race ‘The Proving Grounds 2’ (2017)\n\n\n\nPillar Unconference Vilnius, Lithuania (2018)\n\n\n\nCamogli, Liguria, Italy (2018)\n\n\n\nLiguria, Italy (2018)\n\n\n\nSan Fruttuoso, Liguria, Italy (2018)\n\n\n\nSan Fruttuoso, Liguria, Italy (2018)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "interests",
+      "url": "/interests/drones/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_ibitcoin.jpg"},
+      "title": "iBitcoin",
+      "date": "2010-06-01 00:00:00 +0200",
+      
+      "content": "I started mining Bitcoin in 2010, and wanted to see my mining statistics on my phone whilst away.\nWe developed an app with Mining Stats, Market Data, Network Data and for a brief time wallet functionality \nvia Exchange API calls. We were in Top 10 Finance apps for weeks until Apple removed our app from the AppStore.\nMuch of the functionality came from a personal need for information, steered by using it myself.\n\n\n\niBitcoin - AppCodex (Ralph Reijs, 2010).\n\n\n\niBitcoin - AppCodex (Ralph Reijs, 2010).\n\n\n\niBitcoin - AppCodex (Ralph Reijs, 2010).\n\n\n\niBitcoin - AppCodex (Ralph Reijs, 2010).\n\n\n\niBitcoin - AppCodex (Ralph Reijs, 2010).\n\n\n\niBitcoin - AppCodex (Ralph Reijs, 2010).\n\n\n\niBitcoin - AppCodex (Ralph Reijs, 2010).\n\n\n\niBitcoin - AppCodex (Ralph Reijs, 2010).\n\n\n\niBitcoin - AppCodex (Ralph Reijs, 2010).\n\n\n\niBitcoin - AppCodex (Ralph Reijs, 2010).\n\n\n\niBitcoin - AppCodex (Ralph Reijs, 2010).\n\n\n\niBitcoin - AppCodex (Ralph Reijs, 2010).\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "blockchain",
+      "url": "/blockchain/ibitcoin/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_pillar.jpg"},
+      "title": "Pillar",
+      "date": "2017-07-01 00:00:00 +0200",
+      
+      "content": "Founding Team Member, started as a tech generalist. After some months, we did a successful ICO and raised $27M in 60h. \nI fell in love with the original idea of the Personal Data Locker and decided I wanted to help build it.\nDuring the ICO / Token Sale I handled the livestream broadcast and technical overlays / integrations. After the first Unconference I went to London to build our headquarters, and took position as Head of IT Security and Infrastructure.\n\n\n\n\n\n The original PDL Concept Video (2016)\n\n\n\n The Launch Video (2017)\n\n\n\nPillar’s second logo (2017)\n\n\n\n Pillar Unconference (Slovakia, 2017)\n\n\n\nPillar Community @ Rocket.Chat (2017)\n\n\n\nPillar Unconference (Slovakia, 2017)\n\n\n\nPillar Office (London, 2018)\n\n\n\n New Kids On The Blockchain (Lithuania, 2018)\n\n\n\n New Kids On The Blockchain (Lithuania, 2018)\n\n\n\n Haarlem Pillar Meetup (Netherlands, 2017)\n\n\n\nJeff Berwick / The Dollar Vigilante (Lithuania, 2018)\n\n\n\n Jeff Berwick / Luke Rudkowski (Lithuania, 2018)\n\n\n\nCrypto Rally (Lithuania, 2018)\n\n\n\nPillar Haarlem (Netherlands, 2017)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "blockchain",
+      "url": "/blockchain/pillar/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_jinbi.jpg"},
+      "title": "Jinbi",
+      "date": "2018-06-01 00:00:00 +0200",
+      
+      "content": "Jinbi brings gold production (from ore to coin) to the blockchain. I was a a core team member and part of the ICO in 2018, where I secured the website and tokens for the months during the tokensale. We raised $47M in roughly 6 months. After the ICO, I took position of CTO.\n\n\n\n Explaining Jinbi (2018)\n\n\n\nJinbi = 金币 Gold Coin in Mandarin (2018)\n\n\n\nGolden Dragon / Tiger Coins (2022)\n\n\n\nPress About Us (2018)\n\n\n\n8 Key Stages of Jinbi (2018)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "blockchain",
+      "url": "/blockchain/jinbi/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_wardial.jpg"},
+      "title": "Wardial",
+      "date": "2018-08-01 00:00:00 +0200",
+      
+      "content": "Named after ‘War dialing’ from the 80s, this was a little Proof of Concept script to ‘hack’ Ethereum wallets by generating random wallet seeds and checking whether they have a balance. Basically “discovering existing wallets”.\nIf a wallet with balance higher than 0 ETH was found, an alert would be sent through a Telegram bot.\n\n\n\n\nThe WarDial script being executed (2018)\n\n\n\nThe WarDial script being executed (2018)\n\n\n\n214,000+ wallets had been checked (2018)\n\n\n\nExample of generated wallets (2018)\n\n\n\nTelegram bot for alerts (2018)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "blockchain",
+      "url": "/blockchain/wardial/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_juicer.jpg"},
+      "title": "JuiceR",
+      "date": "2019-08-01 00:00:00 +0200",
+      
+      "content": "A fully automated Tumbling / Mixing platform for the Ethereum blockchain. Worked for both ETH as well ERC20 tokens.\nIt was a very fun project, and it taught me a lot about blockchain development.\nSuccessfully used on Main Net with ETH and millions of tokens\n\n\n\n\nCampaign TX Graph (2018)\n\n\n\nJuiceR Dashboard (2018)\n\n\n\nSeeder Screen (2018)\n\n\n\nCampaign Details (2018)\n\n\n\nWallet Details (2018)\n\n\n\nCampaign Report (2018)\n\n\n\nCampaign Report (2018)\n\n\n\nCampaign Report (2018)\n\n\n\nCampaign Report (2018)\n\n\n\nParity Light (2018)\n\nCampaign Report (2018)\n\n\n\nCampaign TX Graph (2018)\n\n\n\nCampaign TX Graph (2018)\n\n\n\nCampaign TX Graph (2018)\n\n\n\nCampaign TX Graph (2018)\n\n\n\nCampaign TX Graph (2018)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "blockchain",
+      "url": "/blockchain/juicer/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_mpowa.jpg"},
+      "title": "Mpowa",
+      "date": "2019-10-01 00:00:00 +0200",
+      
+      "content": "A tokenized, zero-point energy ecosystem to provide decentralized electricity to communities and households.\n\n\n\nMpowa Vision (Ralph Reijs 2019)\n\n\n\nMpowa Mission (Ralph Reijs 2019)\n\n\n\nMpowa Energy Units (Ralph Reijs 2019)\n\n\n\nPrototype Functional Requirements (Ralph Reijs 2019)\n\n\n\nSelf-powered Raspberry Pi Prototype (Ralph Reijs 2019)\n\n\n\nOdyssey Hackathon (Ralph Reijs 2020)\n\n\n\nLarger Energy Unit (Ralph Reijs 2019)\n\n\n\nLarger Energy Units in Container (Ralph Reijs 2019)\n\n\n\nLarger Energy Units in Container (Ralph Reijs 2019)\n\n\n\nATX Crypto Miner PSU (Ralph Reijs 2019)\n\n\n\nCrypto Green Bond (Ralph Reijs 2019)\n\n\n\nMpowa Platform Architecture (Ralph Reijs 2019)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "blockchain",
+      "url": "/blockchain/mpowa/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_toxicmaxi.jpg"},
+      "title": "Toxic Maxi",
+      "date": "2023-03-01 00:00:00 +0100",
+      
+      "content": "Bitcoin is the single, fully self-custodial asset in the world. Therefor it is important to know about it and understand how to use it. \nBitcoin Lightning isn’t another coin, it is a complementary protocol based on the Bitcoin blockchain that works by using cryptographic side-chains to make transactions instant and near-free.\nI started a company that helps individuals achieve self-custody over their Bitcoin, teach them about the use of bitcoin, and helps companies \nintegrate Bitcoin (Lightning). The company has not launched yet, it is still a work in progress.\n\n\n\n\nLaunch Announcement - Home Page\n\n\n\nHome Page\n\n\n\nhttps://lightningnetwork.plus/posts/123\n\n\n\nProducts\n\n\n\nProfessional Services\n\n\n\nProduct Page\n\n\n\nProduct Page\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "blockchain",
+      "url": "/blockchain/toxicmaxi/"
     }
   ]
 }
