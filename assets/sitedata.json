@@ -287,6 +287,17 @@
       "collection": "interests",
       "url": "/interests/drones/"
     },{
+      "image": {"path":"/assets/img/projects/projects_3dprinting.jpg"},
+      "title": "3D Printing",
+      "date": "2023-02-01 00:00:00 +0100",
+      
+      "content": "In 2022 I started a project called Toxic Maxi, with the intention to educate people about Bitcoin and Bitcoin Lightning. In that context I started 3D Printing for the purpose of creating small cases for hardware-wallets, etc. A wonderful adventure that has taught me a great deal of things about manufacturing and design in 3D.\n\n\n\nFirst 3D prints (2023)\n\n\n\nPrinting 24 whistles of 110dB (2023)\n\n\n\nA pile of printed 110dB whistles (2023)\n\n\n\nA steep learning curve. A lot of issues along the way. (2023)\n\n\n\nAnd many lessons about fine details that could be printed better (2023)\n\n\n\nAnd many ideas about things that could be better with the help of a little custom designed print. Such as this drying rack raiser (2023)\n\n\n\nThe Blockmit, an wonderful tool for making cheap but durable cold wallet, or backups of your seed phrase (2023)\n\n\n\nThe SeedSigner  (Orange Pill case), a low-cost, offline / Air-Gapped, transaction signer for Bitcoin (2023)\n\n\n\nThe SeedSigner (Open Pill case), a low-cost, offline / Air-Gapped, transaction signer for Bitcoin (2023)\n\n\n\nSome duo-color Bitcoin keychains (2023)\n\n\n\nA 3D Printed Eiffeltower (2023)\n\n\n\nA lot of SeedSigners. A low-cost, offline / Air-Gapped, transaction signer for Bitcoin (2023)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "interests",
+      "url": "/interests/3dprinting/"
+    },{
       "image": {"path":"/assets/img/projects/projects_ibitcoin.jpg"},
       "title": "iBitcoin",
       "date": "2010-06-01 00:00:00 +0200",
