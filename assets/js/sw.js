@@ -29,7 +29,7 @@ const SHELL_CACHE = "shell-9.2.1--v13--sw/";
 const ASSETS_CACHE = "assets--v13--sw/";
 
 // The cache for regular content, which will be invalidated every time you make a new build.
-const CONTENT_CACHE = "content--2024-09-29T20:58:53+02:00--sw/";
+const CONTENT_CACHE = "content--2024-09-30T12:19:06+02:00--sw/";
 
 // A URL search parameter you can add to external assets to cache them in the service worker.
 const SW_CACHE_SEARCH_PARAM = "sw-cache";
@@ -544,6 +544,7 @@ const STATIC_FILES = [
   /**/"/assets/img/projects/projects_aum_full_09.jpg",
   /**/"/assets/img/projects/projects_aum_full_10.jpg",
   /**/"/assets/img/projects/projects_aum_multiplication_geometry.jpg",
+  /**/"/assets/img/projects/projects_backlinkassassin.png",
   /**/"/assets/img/projects/projects_backlinkassassin_full_01.jpg",
   /**/"/assets/img/projects/projects_backlinkassassin_full_02.jpg",
   /**/"/assets/img/projects/projects_backlinkassassin_full_03.jpg",
@@ -568,6 +569,7 @@ const STATIC_FILES = [
   /**/"/assets/img/projects/projects_backlinkassassin_full_22.jpg",
   /**/"/assets/img/projects/projects_backlinkassassin_full_23.jpg",
   /**/"/assets/img/projects/projects_backlinkassassin_full_24.jpg",
+  /**/"/assets/img/projects/projects_backlinkassassin_full_25.jpg",
   /**/"/assets/img/projects/projects_bcnl_full_01.jpg",
   /**/"/assets/img/projects/projects_bcnl_full_02.jpg",
   /**/"/assets/img/projects/projects_bcnl_full_03.jpg",
