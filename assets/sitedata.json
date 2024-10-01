@@ -123,6 +123,28 @@
       "collection": "productdev",
       "url": "/productdev/ingressbootcamp/"
     },{
+      "image": {"path":"/assets/img/projects/projects_legalcounselor.jpg"},
+      "title": "The Legal Counselor",
+      "date": "2012-10-01 00:00:00 +0200",
+      
+      "content": "Client in Qatar had bilingual (Arabic / English) PocketPC and Windows applications and asked me to imagine an iPad version of his products. \n\n\n\nThe product in Arabic, on Windows 95 (2004)\n\n\n\nEnglish + Arabic apps, on PocketPC (2004)\n\n\n\nMy iPad Mockup Screen #1 (2012)\n\n\n\nMy iPad Mockup Screen #2 (2012)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "productdev",
+      "url": "/productdev/legalcounselor/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_resnl_full_01.jpg"},
+      "title": "Resistance Netherlands",
+      "date": "2013-12-01 00:00:00 +0100",
+      
+      "content": "In Niantic Labs AR GPS game ‘Ingress’, there are 2 teams and the point is to work together as a team at all time. \nI developed recruiting-methods, training-material, merchandise, organized events and helped build the national and local communitities grow.\n\n\n\nThe Ingress Resistance Netherlands (Ralph Reijs, 2013)\n\n\n\nThe Ingress Resistance Netherlands (Ralph Reijs, 2013)\n\n\n\nThe Ingress Resistance Netherlands (Ralph Reijs, 2013)\n\n\n\nThe Ingress Resistance Netherlands (Ralph Reijs, 2013)\n\n\n\nThe Ingress Resistance Netherlands (Ralph Reijs, 2013)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "productdev",
+      "url": "/productdev/resnl/"
+    },{
       "image": {"path":"/assets/img/projects/projects_glyphhacker_full_01.jpg"},
       "title": "GlyphHacker",
       "date": "2016-06-01 00:00:00 +0200",
@@ -529,6 +551,17 @@
       
       "collection": "mobile",
       "url": "/mobile/astroweather/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_legalcounselor.jpg"},
+      "title": "The Legal Counselor",
+      "date": "2012-10-01 00:00:00 +0200",
+      
+      "content": "Client in Qatar had bilingual (Arabic / English) PocketPC and Windows applications and asked me to imagine an iPad version of his products. \n\n\n\nThe product in Arabic, on Windows 95 (2004)\n\n\n\nEnglish + Arabic apps, on PocketPC (2004)\n\n\n\nMy iPad Mockup Screen #1 (2012)\n\n\n\nMy iPad Mockup Screen #2 (2012)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "mobile",
+      "url": "/mobile/legalcounselor/"
     },{
       "image": {"path":"/assets/img/projects/projects_ipst_full_01.jpg"},
       "title": "Ingress Portal Submission Tracker",
