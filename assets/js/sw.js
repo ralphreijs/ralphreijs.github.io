@@ -29,7 +29,7 @@ const SHELL_CACHE = "shell-9.2.1--v13--sw/";
 const ASSETS_CACHE = "assets--v13--sw/";
 
 // The cache for regular content, which will be invalidated every time you make a new build.
-const CONTENT_CACHE = "content--2024-10-01T14:33:27+02:00--sw/";
+const CONTENT_CACHE = "content--2024-10-01T16:29:23+02:00--sw/";
 
 // A URL search parameter you can add to external assets to cache them in the service worker.
 const SW_CACHE_SEARCH_PARAM = "sw-cache";
@@ -662,7 +662,6 @@ const STATIC_FILES = [
   /**/"/assets/img/projects/projects_drones_full_51.jpg",
   /**/"/assets/img/projects/projects_drones_full_52.jpg",
   /**/"/assets/img/projects/projects_drones_full_53.jpg",
-  /**/"/assets/img/projects/projects_ebook_ingressbootcamp.jpg",
   /**/"/assets/img/projects/projects_farmacy.jpg",
   /**/"/assets/img/projects/projects_farmacy_full_01.jpg",
   /**/"/assets/img/projects/projects_farmacy_full_02.jpg",
@@ -752,6 +751,7 @@ const STATIC_FILES = [
   /**/"/assets/img/projects/projects_hacking_full_60.jpg",
   /**/"/assets/img/projects/projects_hacking_full_61.jpg",
   /**/"/assets/img/projects/projects_ibitcoin.jpg",
+  /**/"/assets/img/projects/projects_ingressbootcamp.jpg",
   /**/"/assets/img/projects/projects_ingressbootcamp_full_01.jpg",
   /**/"/assets/img/projects/projects_ingressbootcamp_full_02.jpg",
   /**/"/assets/img/projects/projects_ingressbootcamp_full_03.jpg",
@@ -1082,6 +1082,7 @@ const STATIC_FILES = [
   /**/"/assets/img/sidebar-bg.jpg",
   /**/"/assets/img/sidebar_bitcoin.jpg",
   /**/"/assets/img/swipe.svg",
+  /**/"/assets/ingressbootcamp_v1.5_en_US.pdf",
   /**/"/assets/js/0-hydejack-9.2.1.worker.js",
   /**/"/assets/js/LEGACY-0-hydejack-9.2.1.worker.js",
   /**/"/assets/js/LEGACY-clap-button-hydejack-9.2.1.js",
@@ -1486,7 +1487,6 @@ const STATIC_FILES = [
   /**/"/assets/img/projects/projects_drones_full_51.webp",
   /**/"/assets/img/projects/projects_drones_full_52.webp",
   /**/"/assets/img/projects/projects_drones_full_53.webp",
-  /**/"/assets/img/projects/projects_ebook_ingressbootcamp.webp",
   /**/"/assets/img/projects/projects_farmacy.webp",
   /**/"/assets/img/projects/projects_farmacy_full_01.webp",
   /**/"/assets/img/projects/projects_farmacy_full_02.webp",

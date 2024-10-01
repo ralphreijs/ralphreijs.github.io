@@ -112,6 +112,17 @@
       "collection": "productdev",
       "url": "/productdev/astroweather/"
     },{
+      "image": {"path":"/assets/img/projects/projects_ingressbootcamp.jpg"},
+      "title": "Ingress Bootcamp",
+      "date": "2011-10-01 00:00:00 +0200",
+      
+      "content": "I learned about the (then very unknown) Augmented Reality GPS game Ingress by Niantic Labs, through friends and learned its mechanics on the street. Since there were a lot of complex game mechanics to learn, I wrote a “missing manual” and it quickly became the defacto reading material for new players.\n\nNOTE: Last version ever released: v1.52.1 (2014).\n\n\n\n\n\nIngress Bootcamp - Ralph Reijs (2013)\n\n\n\nIngress Bootcamp - Ralph Reijs (2013)\n\n\n\nIngress Bootcamp - Ralph Reijs (2013)\n\n\n\nIngress Bootcamp - Ralph Reijs (2013)\n\n\n\nIngress Bootcamp - Ralph Reijs (2013)\n\n\n\nIngress Bootcamp - Ralph Reijs (2013)\n\n\n\nIngress Bootcamp - Ralph Reijs (2013)\n\n\n\nIngress Bootcamp - Ralph Reijs (2013)\n\n\n\nIngress Bootcamp - Ralph Reijs (2013)\n\n\n\nIngress Bootcamp - Ralph Reijs (2013)\n\n\n\nIngress Bootcamp - Ralph Reijs (2013)\n\n\n\nIngress Bootcamp - Ralph Reijs (2013)\n\n\n\nIngress Bootcamp - Ralph Reijs (2013)\n\n\n\nIngress Bootcamp - Ralph Reijs (2013)\n\n\n\nIngress Bootcamp - Ralph Reijs (2013)\n\n\n\nIngress Bootcamp - Ralph Reijs (2013)\n\n\n\nIngress Bootcamp - Ralph Reijs (2013)\n\n\n\nIngress Bootcamp - Ralph Reijs (2013)\n\n\n\nIngress Bootcamp - Ralph Reijs (2013)\n\n\n\nIngress Bootcamp - Ralph Reijs (2013)\n\n\n\nIngress Bootcamp - Ralph Reijs (2013)\n\n\n\nIngress Bootcamp - Ralph Reijs (2013)\n\n\n\nIngress Bootcamp - Ralph Reijs (2013)\n\n\n\nIngress Bootcamp - Ralph Reijs (2013)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "productdev",
+      "url": "/productdev/ingressbootcamp/"
+    },{
       "image": {"path":"/assets/img/projects/projects_glyphhacker_full_01.jpg"},
       "title": "GlyphHacker",
       "date": "2016-06-01 00:00:00 +0200",
