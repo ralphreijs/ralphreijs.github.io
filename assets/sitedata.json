@@ -178,6 +178,17 @@
       "collection": "productdev",
       "url": "/productdev/mpowa/"
     },{
+      "image": {"path":"/assets/img/projects/projects_phibo.jpg"},
+      "title": "Phibo",
+      "date": "2020-10-01 00:00:00 +0200",
+      
+      "content": "A client had found a way to predict / calculate any Prime Number, meaning many security systems are to be considered “weak” or “broken”. I was asked to brainstorm about possibilities for products using new technology using non-prime-numbers. \n\nPhibo Explained\n\n\nPhibo Explained (2020)\n\nPhibo Potentials\n\n\nPhibo Potentials (2020)\n\nPhibo Prototype\n\n\nPhibo Prototype (2020)\n\nPhibo Future\n\n\nPhibo Future (2020)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "productdev",
+      "url": "/productdev/phibo/"
+    },{
       "image": {"path":"/assets/img/projects/projects_karakoram.jpg"},
       "title": "Karakoram",
       "date": "2020-12-01 00:00:00 +0100",
@@ -464,6 +475,17 @@
       "collection": "blockchain",
       "url": "/blockchain/toxicmaxi/"
     },{
+      "image": {"path":"/assets/img/projects/projects_mobile_idomotics.jpg"},
+      "title": "iDomotics",
+      "date": "2010-03-01 00:00:00 +0100",
+      
+      "content": "\n  Home Automation before it was cool. Controlled Lights, HVAC, Security, Cams, Coffee Machine.\n\n\nYears before there were ready-to-use consumer solutions for automating your home, I developed an App to control my custom built Home Automation system.\nThe hardware was running the Z-Wave Protocol, the router and all appliances / switches / sensors. The software was developed on Xcode / iOS, and communicated with the Home Automation Router.\n\n\n\niDomotics - Mobile App (Ralph Reijs - 2010)\n\n\n\niDomotics - Mobile App (Ralph Reijs - 2010)\n\n\n\niDomotics - Mobile App (Ralph Reijs - 2010)\n\n\n\niDomotics - Mobile App (Ralph Reijs - 2010)\n\n\n\niDomotics - Mobile App (Ralph Reijs - 2010)\n\n\n\niDomotics - Mobile App (Ralph Reijs - 2010)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "mobile",
+      "url": "/mobile/idomotics/"
+    },{
       "image": {"path":"/assets/img/projects/projects_ibitcoin.jpg"},
       "title": "iBitcoin",
       "date": "2010-06-01 00:00:00 +0200",
@@ -496,6 +518,17 @@
       
       "collection": "mobile",
       "url": "/mobile/astroweather/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_ipst_full_01.jpg"},
+      "title": "Ingress Portal Submission Tracker",
+      "date": "2014-03-01 00:00:00 +0100",
+      
+      "content": "I did a UI/UX redesign of an app called’ Ingress Portal Submission Tracker’ that helped players of the AR GPS game ‘Ingress’ keep track of submitted locations.\n\n\n\nIngress Portal Submission Tracker - Mobile App (Ralph Reijs - 2014)\n\n\n\nIngress Portal Submission Tracker - Mobile App (Ralph Reijs - 2014)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "mobile",
+      "url": "/mobile/ipst/"
     },{
       "image": {"path":"/assets/img/projects/projects_climateadvisers_full_01.jpg"},
       "title": "Climate Advisers",
