@@ -486,6 +486,17 @@
       "collection": "mobile",
       "url": "/mobile/idomotics/"
     },{
+      "image": {"path":"/assets/img/projects/projects_mobile_suitsupply.jpg"},
+      "title": "Suit Supply",
+      "date": "2010-05-01 00:00:00 +0200",
+      
+      "content": "All competing companies for the project just had PowerPoints, but we instead showcased a fully working (mostly hardcoded) proof of concept app we built in 2 days. We would have won the tender if it had not been for the fact that we were a 2-man company.\n\n\n\nSuit Supply - Mobile App mockup (Ralph Reijs - 2010)\n\n\n\nSuit Supply - Mobile App mockup (Ralph Reijs - 2010)\n\n\n\nSuit Supply - Mobile App mockup (Ralph Reijs - 2010)\n\n\n\nSuit Supply - Mobile App mockup (Ralph Reijs - 2010)\n\n\n\nSuit Supply - Mobile App mockup (Ralph Reijs - 2010)\n\n\n\nSuit Supply - Mobile App mockup (Ralph Reijs - 2010)\n\n\n\nSuit Supply - Mobile App mockup (Ralph Reijs - 2010)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "mobile",
+      "url": "/mobile/suitsupply/"
+    },{
       "image": {"path":"/assets/img/projects/projects_ibitcoin.jpg"},
       "title": "iBitcoin",
       "date": "2010-06-01 00:00:00 +0200",
