@@ -156,6 +156,17 @@
       "collection": "productdev",
       "url": "/productdev/glyphhacker/"
     },{
+      "image": {"path":"/assets/img/projects/projects_rotorswag_full_04.jpg"},
+      "title": "Rotor Swag",
+      "date": "2016-07-01 00:00:00 +0200",
+      
+      "content": "‘Drone Racer’ (Ralph Reijs, 2016)\n\nRed Bubble is a company that allows you to sell your designs, printed on T-Shirts, Mugs, Phone Cases, etc. In 2016, I made a bunch of designs related to Drone Racing and put them in a shop called RotorSwag.\n\n\n\n‘Racing Drone’ (2016) - RotorSwag (Ralph Reijs, 2016)\n\n\n\n‘Drone Racer’ (2016) - RotorSwag (Ralph Reijs, 2016)\n\n\n\n‘Air Gate’ (2016) - RotorSwag (Ralph Reijs, 2016)\n\n\n\n‘Drone Racer’ (2016) - RotorSwag (Ralph Reijs, 2016)\n\n\n\n‘First Person View (Forest)’ (2016) - RotorSwag (Ralph Reijs, 2016)\n\n\n\n‘First Person View (Parking Garage #1)’ (2016) - RotorSwag (Ralph Reijs, 2016)\n\n\n\n‘First Person View (Parking Garage #2)’ (2016) - RotorSwag (Ralph Reijs, 2016)\n\n\n\n‘Look Above!’ (2016) - RotorSwag (Ralph Reijs, 2016)\n\n\n\n‘FPV Racing University’ (2016) - RotorSwag (Ralph Reijs, 2016)\n\n\n\n‘FPV Racing University’ (2016) - RotorSwag (Ralph Reijs, 2016)\n\n\n\n‘Hardcore FPV Racer’ (2016) - RotorSwag (Ralph Reijs, 2016)\n\n\n\n‘Starfield’ (2016) - RotorSwag (Ralph Reijs, 2016)\n\n\n\n‘Blueprint’ (2016) - RotorSwag (Ralph Reijs, 2016)\n\n\n\n‘Dictionary’ (2016) - RotorSwag (Ralph Reijs, 2016)\n\n\n\n‘Drone or Die’ (2016) - RotorSwag (Ralph Reijs, 2016)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "productdev",
+      "url": "/productdev/rotorswag/"
+    },{
       "image": {"path":"/assets/img/projects/projects_backlinkassassin.png"},
       "title": "Backlink Assassin",
       "date": "2016-10-01 00:00:00 +0200",
