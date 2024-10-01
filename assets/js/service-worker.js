@@ -29,7 +29,7 @@ const SHELL_CACHE = "shell-9.2.1--v13--sw/";
 const ASSETS_CACHE = "assets--v13--sw/";
 
 // The cache for regular content, which will be invalidated every time you make a new build.
-const CONTENT_CACHE = "content--2024-09-30T21:40:57+02:00--sw/";
+const CONTENT_CACHE = "content--2024-10-01T10:19:28+02:00--sw/";
 
 // A URL search parameter you can add to external assets to cache them in the service worker.
 const SW_CACHE_SEARCH_PARAM = "sw-cache";
@@ -454,8 +454,11 @@ const STATIC_FILES = [
   /**/"/assets/img/projects/projects_app_appcodex_full_02.jpg",
   /**/"/assets/img/projects/projects_app_astroweather_full_01.jpg",
   /**/"/assets/img/projects/projects_app_astroweather_full_02.jpg",
+  /**/"/assets/img/projects/projects_app_astroweather_full_02.png",
   /**/"/assets/img/projects/projects_app_astroweather_full_03.jpg",
+  /**/"/assets/img/projects/projects_app_astroweather_full_03.png",
   /**/"/assets/img/projects/projects_app_astroweather_full_04.jpg",
+  /**/"/assets/img/projects/projects_app_astroweather_full_04.png",
   /**/"/assets/img/projects/projects_app_haarlem_full_01.jpg",
   /**/"/assets/img/projects/projects_app_hostingondemand_full_01.jpg",
   /**/"/assets/img/projects/projects_app_hostingondemand_full_02.jpg",
@@ -1129,6 +1132,8 @@ const STATIC_FILES = [
   /**/"/assets/version.json",
   /**/"/package-lock.json",
   /**/"/package.json",
+  /**/"/projects_app_astroweather_full_02.afphoto",
+  /**/"/projects_app_astroweather_full_04.afphoto",
   /**/"/assets/bower_components/MathJax/.bower.json",
   /**/"/assets/bower_components/html5shiv/.bower.json",
   /**/"/assets/bower_components/katex/.bower.json",
@@ -1279,7 +1284,10 @@ const STATIC_FILES = [
   /**/"/assets/img/projects/projects_app_appcodex_full_02.webp",
   /**/"/assets/img/projects/projects_app_astroweather_full_01.webp",
   /**/"/assets/img/projects/projects_app_astroweather_full_02.webp",
+  /**/"/assets/img/projects/projects_app_astroweather_full_02.webp",
   /**/"/assets/img/projects/projects_app_astroweather_full_03.webp",
+  /**/"/assets/img/projects/projects_app_astroweather_full_03.webp",
+  /**/"/assets/img/projects/projects_app_astroweather_full_04.webp",
   /**/"/assets/img/projects/projects_app_astroweather_full_04.webp",
   /**/"/assets/img/projects/projects_app_haarlem_full_01.webp",
   /**/"/assets/img/projects/projects_app_hostingondemand_full_01.webp",
