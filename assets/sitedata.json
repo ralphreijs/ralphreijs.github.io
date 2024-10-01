@@ -31,7 +31,7 @@
       
       "title": "Home",
       
-      "content": "\n\nWelcome and thanks for visiting! I’m Ralph, a Chief Technology Officer from the Netherlands. I advise and manage startups with a strong, senior mentality and 25+ years of experience in bleeding-edge technology. \nFor 20+ years I have worked in 40+ projects at corporate environments as a Senior Solution Architect in IT Service Management. For the last 14+ years I have worked on Startups as well, many of which in the Blockchain scene, as I have been involved with Bitcoin since 2010. \nIn 2017 I was a founding (and core team-) member of Pillar, one of the first cryptocurrency ICOs, where we raised $27M in 60 hours. In 2018 I was a core team member of Jinbi, an ICO where we raised $47M over 6 months.\nCurrently I’m CTO of Apostille USA, a 100% automated platform for Apostille of Legal Documents; which reduces processing time from months to days. Created in March 2023, customers since 1st month, profitable since the 4th month, without external funding.\n\n\n    \n        \n        Résumé\n    \n\n\nClients\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n\n\nPrevious Projects\n\n\n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Product Development\n            \n            \n                Projects where I served as CPO or CTO\n            \n        \n    \n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Enterprise Architecture\n            \n            \n                IT Service Management Projects\n            \n        \n    \n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Blockchain\n            \n            \n                Blockchain Startups &amp; Projects\n            \n        \n    \n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Security &amp; Infrastructure\n            \n            \n                Security, Networking, Pentesting projects\n            \n        \n    \n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Mobile Apps\n            \n            \n                Mobile Appplication development projects\n            \n        \n    \n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Hobbies &amp; Interests\n            \n            \n                Hacking, Tinkering, Drones, 3D Printing, Bitcoin. Nerd things.\n            \n        \n    \n\n\n\nNOTE: Projects and details missing since website migration will be added soon.\n\n",
+      "content": "\n\nWelcome and thanks for visiting! I’m Ralph, a Chief Technology Officer from the Netherlands. I advise and manage startups with a strong, senior mentality and 25+ years of experience in bleeding-edge technology. \nFor 20+ years I have worked in 40+ projects at corporate environments as a Senior Solution Architect in IT Service Management. For the last 14+ years I have worked on Startups as well, many of which in the Blockchain scene, as I have been involved with Bitcoin since 2010. \nIn 2017 I was a founding (and core team-) member of Pillar, one of the first cryptocurrency ICOs, where we raised $27M in 60 hours. In 2018 I was a core team member of Jinbi, an ICO where we raised $47M over 6 months.\nCurrently I’m CTO of Apostille USA, a 100% automated platform for Apostille of Legal Documents; which reduces processing time from months to days. Created in March 2023, customers since 1st month, profitable since the 4th month, without external funding.\n\n\n    \n        \n        Résumé\n    \n\n\nClients\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n\n\nPrevious Projects\n\n\n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Product Development\n            \n            \n                Projects where I served as CPO or CTO\n            \n        \n    \n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Enterprise Architecture\n            \n            \n                IT Service Management Projects\n            \n        \n    \n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Blockchain\n            \n            \n                Blockchain Startups &amp; Projects\n            \n        \n    \n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Security &amp; Infrastructure\n            \n            \n                Security, Networking, Pentesting projects\n            \n        \n    \n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Mobile Apps\n            \n            \n                Mobile Appplication development projects\n            \n        \n    \n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Websites\n            \n            \n                Website design &amp; development projects\n            \n        \n    \n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Hobbies &amp; Interests\n            \n            \n                Hacking, Tinkering, Drones, 3D Printing, Bitcoin. Nerd things.\n            \n        \n    \n\n\n\nNOTE: Projects and details missing since website migration will be added soon.\n\n",
       "url": "/"
     },{
       
@@ -69,6 +69,12 @@
       "description": "Security has always been a passion of mine. From tinkering with phonebooths in the 90s, to removing manufacturer placed software restrictions from consumer hardware. Networking and Pentesting became a natural extension of my learning. Wireless Networks and Sub-Ghz signals also fascinate me.\n",
       "content": "NOTE: Projects and details missing since website migration will be added soon.\n",
       "url": "/security/"
+    },{
+      
+      "title": "Website Design / Development Projects",
+      "description": "Projects where I was tasked with designing / developing the website for a client.\n",
+      "content": "NOTE: Projects and details missing since website migration will be added soon.\n",
+      "url": "/websites/"
     }
   ], 
   "documents": [
@@ -88,7 +94,7 @@
       "title": "Leesplankje",
       "date": "2010-12-01 00:00:00 +0100",
       
-      "content": "\n\nThe concept was based on an old Dutch method for learning how to read, using a wooden board and blocks with letters.\nWe turned that into a digital version, using your fingers to drag letters. And when you touched a letter, you heard the proper pronounciation (in my Mom’s voice 😁).\n\n\n\n\nLeesplankje for iPad Mockup (2010)\n\nUI / UX Screenshots\n\n\n\nThe loading screen and first word (“zus”) - Leesplankje for iPad (2010)\n\n\n\nLeesplankje for iPad - Complete the word by dragging letter pieces (2010)\n\nTutorial\n\n\n\nLearn how to read with Leesplankje. Choose your difficulty (Easy, Medium, Hard) - Leesplankje for iPad (2010)\n\n\n\nRotate the iPad to see what the words should look like, turn sound on to hear the words - Leesplankje for iPad (2010)\n\n\n\nDrag the letters to the empty placeholders. Tap the image to hear the word again. Leesplankje for iPad (2010)\n\nAppStore Statistics\n\n\n\nDay 1 of Sales - Leesplankje for iPhone &amp; iPad (2010)\n\n\n\nLeesplankje was #2 in the Top Educational Apps for iPhone (AppStore), and was acquired by Noordhoff (largest Dutch educational publisher).\n\n\n\nPosition #2 in Top Paid iPad Apps, #9 in Top Paid iPhone Apps - Leesplankje (2010)\n\n\n\nPosition #2 in the Top Paid Apps - Leesplankje for iPad (2010)\n\n\n\nPosition #1 in the Top Educational Apps - Leesplankje for iPad (2010)\n\nReviews\n\n\n\niPhoneclub Review of Leesplankje (2010)\n\n\n\niPadPlanet Review of Leesplankje (2010)\n\n\n\nLeesplankje on AppTrackr (2010)\n",
+      "content": "\n\nThe concept was based on an old Dutch method for learning how to read, using a wooden board and blocks with letters.\nWe turned that into a digital version, using your fingers to drag letters. And when you touched a letter, you heard the proper pronounciation (in my Mom’s voice 😁).\n\n\n\n\nLeesplankje for iPad Mockup (2010)\n\nUI / UX Screenshots\n\n\n\nThe loading screen and first word (“zus”) - Leesplankje for iPad (2010)\n\n\n\nLeesplankje for iPad - Complete the word by dragging letter pieces (2010)\n\nTutorial\n\n\n\nLearn how to read with Leesplankje. Choose your difficulty (Easy, Medium, Hard) - Leesplankje for iPad (2010)\n\n\n\nRotate the iPad to see what the words should look like, turn sound on to hear the words - Leesplankje for iPad (2010)\n\n\n\nDrag the letters to the empty placeholders. Tap the image to hear the word again. Leesplankje for iPad (2010)\n\nAppStore Statistics\n\n\n\nDay 1 of Sales - Leesplankje for iPhone &amp; iPad (2010)\n\n\n\nLeesplankje was #2 in the Top Educational Apps for iPhone (AppStore), and was acquired by Noordhoff (largest Dutch educational publisher).\n\n\n\nPosition #2 in Top Paid iPad Apps, #9 in Top Paid iPhone Apps - Leesplankje (2010)\n\n\n\nPosition #2 in the Top Paid Apps - Leesplankje for iPad (2010)\n\n\n\nPosition #1 in the Top Educational Apps - Leesplankje for iPad (2010)\n\nReviews\n\n\n\niPhoneclub Review of Leesplankje for iPhone (2010)\n\n\n\niPadPlanet Review of Leesplankje for iPad (2010)\n\n\n\nLeesplankje on AppTrackr (2010)\n",
       "categories": [],
       "tags": [],
       
@@ -337,6 +343,17 @@
       "collection": "blockchain",
       "url": "/blockchain/ibitcoin/"
     },{
+      "image": {"path":"/assets/img/projects/projects_cryptochip_full_01.jpg"},
+      "title": "CryptoChip",
+      "date": "2017-06-01 00:00:00 +0200",
+      
+      "content": "I ran into CryptoChip on LinkedIn and the founder was in need of some help. I volunteered to do his Pitch Deck for them.Here are some of the  slides (slightly censored for commercial IP).\n\n\n\nCryptoChip Pitch Deck (2017)\n\n\n\nCryptoChip Pitch Deck (2017)\n\n\n\nCryptoChip Pitch Deck (2017)\n\n\n\nCryptoChip Pitch Deck (2017)\n\n\n\nCryptoChip Pitch Deck (2017)\n\n\n\nCryptoChip Pitch Deck (2017)\n\n\n\nCryptoChip Pitch Deck (2017)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "blockchain",
+      "url": "/blockchain/cryptochip/"
+    },{
       "image": {"path":"/assets/img/projects/projects_pillar.jpg"},
       "title": "Pillar",
       "date": "2017-07-01 00:00:00 +0200",
@@ -392,6 +409,17 @@
       "collection": "blockchain",
       "url": "/blockchain/mpowa/"
     },{
+      "image": {"path":"/assets/img/projects/projects_bcnl_full_01.jpg"},
+      "title": "BCNL",
+      "date": "2020-08-01 00:00:00 +0200",
+      
+      "content": "\n\nBlockchain Netherlands Foundation website (2020)\n\n\n\nBlockchain Netherlands Foundation website (2020)\n\n\n\nBlockchain Netherlands Foundation website (2020)\n\n\n\nBlockchain Netherlands Foundation website (2020)\n\n\n\nBlockchain Netherlands Foundation website (2020)\n\n\n\nBlockchain Netherlands Foundation website (2020)\n\n\n\nBlockchain Netherlands Foundation website (2020)\n\n\n\nBlockchain Netherlands Foundation website (2020)\n\n\n\nBlockchain Netherlands Foundation website (2020)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "blockchain",
+      "url": "/blockchain/bcnl/"
+    },{
       "image": {"path":"/assets/img/projects/art_farmacy.png"},
       "title": "The FARMacy",
       "date": "2022-10-01 00:00:00 +0200",
@@ -429,7 +457,7 @@
       "title": "Leesplankje",
       "date": "2010-12-01 00:00:00 +0100",
       
-      "content": "\n\nThe concept was based on an old Dutch method for learning how to read, using a wooden board and blocks with letters.\nWe turned that into a digital version, using your fingers to drag letters. And when you touched a letter, you heard the proper pronounciation (in my Mom’s voice 😁).\n\n\n\n\nLeesplankje for iPad Mockup (2010)\n\nUI / UX Screenshots\n\n\n\nThe loading screen and first word (“zus”) - Leesplankje for iPad (2010)\n\n\n\nLeesplankje for iPad - Complete the word by dragging letter pieces (2010)\n\nTutorial\n\n\n\nLearn how to read with Leesplankje. Choose your difficulty (Easy, Medium, Hard) - Leesplankje for iPad (2010)\n\n\n\nRotate the iPad to see what the words should look like, turn sound on to hear the words - Leesplankje for iPad (2010)\n\n\n\nDrag the letters to the empty placeholders. Tap the image to hear the word again. Leesplankje for iPad (2010)\n\nAppStore Statistics\n\n\n\nDay 1 of Sales - Leesplankje for iPhone &amp; iPad (2010)\n\n\n\nLeesplankje was #2 in the Top Educational Apps for iPhone (AppStore), and was acquired by Noordhoff (largest Dutch educational publisher).\n\n\n\nPosition #2 in Top Paid iPad Apps, #9 in Top Paid iPhone Apps - Leesplankje (2010)\n\n\n\nPosition #2 in the Top Paid Apps - Leesplankje for iPad (2010)\n\n\n\nPosition #1 in the Top Educational Apps - Leesplankje for iPad (2010)\n\nReviews\n\n\n\niPhoneclub Review of Leesplankje (2010)\n\n\n\niPadPlanet Review of Leesplankje (2010)\n\n\n\nLeesplankje on AppTrackr (2010)\n",
+      "content": "\n\nThe concept was based on an old Dutch method for learning how to read, using a wooden board and blocks with letters.\nWe turned that into a digital version, using your fingers to drag letters. And when you touched a letter, you heard the proper pronounciation (in my Mom’s voice 😁).\n\n\n\n\nLeesplankje for iPad Mockup (2010)\n\nUI / UX Screenshots\n\n\n\nThe loading screen and first word (“zus”) - Leesplankje for iPad (2010)\n\n\n\nLeesplankje for iPad - Complete the word by dragging letter pieces (2010)\n\nTutorial\n\n\n\nLearn how to read with Leesplankje. Choose your difficulty (Easy, Medium, Hard) - Leesplankje for iPad (2010)\n\n\n\nRotate the iPad to see what the words should look like, turn sound on to hear the words - Leesplankje for iPad (2010)\n\n\n\nDrag the letters to the empty placeholders. Tap the image to hear the word again. Leesplankje for iPad (2010)\n\nAppStore Statistics\n\n\n\nDay 1 of Sales - Leesplankje for iPhone &amp; iPad (2010)\n\n\n\nLeesplankje was #2 in the Top Educational Apps for iPhone (AppStore), and was acquired by Noordhoff (largest Dutch educational publisher).\n\n\n\nPosition #2 in Top Paid iPad Apps, #9 in Top Paid iPhone Apps - Leesplankje (2010)\n\n\n\nPosition #2 in the Top Paid Apps - Leesplankje for iPad (2010)\n\n\n\nPosition #1 in the Top Educational Apps - Leesplankje for iPad (2010)\n\nReviews\n\n\n\niPhoneclub Review of Leesplankje for iPhone (2010)\n\n\n\niPadPlanet Review of Leesplankje for iPad (2010)\n\n\n\nLeesplankje on AppTrackr (2010)\n",
       "categories": [],
       "tags": [],
       
@@ -446,6 +474,72 @@
       
       "collection": "mobile",
       "url": "/mobile/astroweather/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_climateadvisers_full_01.jpg"},
+      "title": "Climate Advisers",
+      "date": "2020-05-01 00:00:00 +0200",
+      
+      "content": "\n\nClimate Advisers website (2020)\n\n\n\n\n\nClimate Advisers website (2020)\n\n\n\n\n\nClimate Advisers website (2020)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "websites",
+      "url": "/websites/climateadvisers/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_bcnl_full_01.jpg"},
+      "title": "BCNL",
+      "date": "2020-08-01 00:00:00 +0200",
+      
+      "content": "\n\nBlockchain Netherlands Foundation website (2020)\n\n\n\nBlockchain Netherlands Foundation website (2020)\n\n\n\nBlockchain Netherlands Foundation website (2020)\n\n\n\nBlockchain Netherlands Foundation website (2020)\n\n\n\nBlockchain Netherlands Foundation website (2020)\n\n\n\nBlockchain Netherlands Foundation website (2020)\n\n\n\nBlockchain Netherlands Foundation website (2020)\n\n\n\nBlockchain Netherlands Foundation website (2020)\n\n\n\nBlockchain Netherlands Foundation website (2020)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "websites",
+      "url": "/websites/bcnl/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_cfp_full_01.jpg"},
+      "title": "CFP",
+      "date": "2020-10-01 00:00:00 +0200",
+      
+      "content": "\n\nClimate Finance Pathfinder website (2020)\n\n\n\n\n\nClimate Finance Pathfinder website (2020)\n\n\n\n\n\nClimate Finance Pathfinder website (2020)\n\n\n\n\n\nClimate Finance Pathfinder website (2020)\n\n\n\n\n\nClimate Finance Pathfinder website (2020)\n\n\n\n\n\nClimate Finance Pathfinder website (2020)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "websites",
+      "url": "/websites/cfp/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_agrodroneai_full_01.jpg"},
+      "title": "AgroDrone AI",
+      "date": "2022-08-01 00:00:00 +0200",
+      
+      "content": "\n\nAgroDrone AI website (2022)\n\n\n\nAgroDrone AI website (2022)\n\n\n\nAgroDrone AI website (2022)\n\n\n\nAgroDrone AI website (2022)\n\n\n\nAgroDrone AI website (2022)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "websites",
+      "url": "/websites/agrodroneai/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_toxicmaxi.jpg"},
+      "title": "Toxic Maxi",
+      "date": "2023-03-01 00:00:00 +0100",
+      
+      "content": "Bitcoin is the single, fully self-custodial asset in the world. Therefor it is important to know about it and understand how to use it. \nBitcoin Lightning isn’t another coin, it is a complementary protocol based on the Bitcoin blockchain that works by using cryptographic side-chains to make transactions instant and near-free.\nI started a company that helps individuals achieve self-custody over their Bitcoin, teach them about the use of bitcoin, and helps companies \nintegrate Bitcoin (Lightning). The company has not launched yet, it is still a work in progress.\n\n\n\n\nLaunch Announcement - Home Page\n\n\n\nHome Page\n\n\n\nhttps://lightningnetwork.plus/posts/123\n\n\n\nProducts\n\n\n\nProfessional Services\n\n\n\nProduct Page\n\n\n\nProduct Page\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "websites",
+      "url": "/websites/toxicmaxi/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_apostilleusa.jpg"},
+      "title": "Apostille USA",
+      "date": "2023-04-01 00:00:00 +0200",
+      
+      "content": "An apostille is a crucial document that serves as proof of the authenticity of another document that has been signed by a notary public. This certification is required by international law, and it is issued by a government in accordance with the Hague Convention of 1961. The purpose of an apostille is to ensure that a document can be legally recognized and accepted in foreign countries.\n\nIn some cases, if the country of intended use does not participate in the Hague Convention, documents being sent to that country can still be authenticated or certified. This process can be time-consuming and complicated, and that’s why we developed a completely automated &amp; integrated Document Apostille service, drastically removing bureacucracy and reducing processing times. Revolutionary in the industry.\nAll of the following aspects have been automated:\n\n  Order process\n  Payment process\n  Shipping Label creation\n  Fulfillment (physical apostille in all 50 U.S. states via local partners)\n  Delivery\n  Automatic fixing of 98% of exceptions\n\n\n\n\n\n\n\n Apostille USA: Place an Order in Less than a Minute! (2024)\n\n\n\n\n\n The Ultimate Guide to Apostille FBI Background Checks: Everything You Need to Know ! (2024)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "websites",
+      "url": "/websites/apostilleusa/"
     }
   ]
 }
