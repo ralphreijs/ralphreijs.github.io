@@ -607,6 +607,17 @@
       "collection": "mobile",
       "url": "/mobile/ipst/"
     },{
+      "image": {"path":"/assets/img/projects/projects_appcodex.jpg"},
+      "title": "AppCodex",
+      "date": "2008-08-01 00:00:00 +0200",
+      
+      "content": "\n\nAppCodex website (2011)\n\n\n\nAppCodex website (2011)\n\n\n\nAppCodex website (2011)\n\n\n\nAppCodex website (2011)\n\n\n\nAppCodex website (2011)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "websites",
+      "url": "/websites/appcodex/"
+    },{
       "image": {"path":"/assets/img/projects/projects_climateadvisers_full_01.jpg"},
       "title": "Climate Advisers",
       "date": "2020-05-01 00:00:00 +0200",
