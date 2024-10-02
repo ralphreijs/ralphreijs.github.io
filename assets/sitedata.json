@@ -145,6 +145,17 @@
       "collection": "productdev",
       "url": "/productdev/resnl/"
     },{
+      "image": {"path":"/assets/img/projects/projects_tiltdrone_full_06.jpg"},
+      "title": "TiltDrone",
+      "date": "2015-10-01 00:00:00 +0200",
+      
+      "content": "Tilt Drone is a quadcopter with rotating booms, making its acceleration faster than a Lamborghini. I helped Pau Mallol with some of his branding when I was building my Tilt Drone, back in 2015. \n\nHoodie\n\n\n\nTiltDrone Merchandise (Ralph Reijs, 2015)\n\nT-Shirts\n\n\n\nTiltDrone Merchandise (Ralph Reijs, 2015)\n\n\n\nTiltDrone Merchandise (Ralph Reijs, 2015)\n\n\n\nTiltDrone Merchandise (Ralph Reijs, 2015)\n\n\n\nTiltDrone Merchandise (Ralph Reijs, 2015)\n\nStickers\n\n\n\nTiltDrone Merchandise (Ralph Reijs, 2015)\n\n\n\nTiltDrone Merchandise (Ralph Reijs, 2015)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "productdev",
+      "url": "/productdev/tiltdrone/"
+    },{
       "image": {"path":"/assets/img/projects/projects_glyphhacker_full_01.jpg"},
       "title": "GlyphHacker",
       "date": "2016-06-01 00:00:00 +0200",
@@ -617,6 +628,17 @@
       
       "collection": "websites",
       "url": "/websites/cfp/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_torustech_full_01.jpg"},
+      "title": "Torus Tech",
+      "date": "2020-10-01 00:00:00 +0200",
+      
+      "content": "Physicist Nassim Haramein asked me to do the website for his latest technological creation, the Harmonic Flux Resonator, as well as a few other patents and publications that he has on his name. \n\nWebsite Design - Homepage\n\n\n\nTorus Tech by Nassim Haramein (Ralph Reijs, 2020)\n\n\n\n\n\nTorus Tech by Nassim Haramein (Ralph Reijs, 2020)\n\n\n\n\n\nTorus Tech by Nassim Haramein (Ralph Reijs, 2020)\n\n\n\nTechnology Applications &amp; Patents\n\n\n\nTorus Tech by Nassim Haramein (Ralph Reijs, 2020)\n\n\n\n\n\nTorus Tech by Nassim Haramein (Ralph Reijs, 2020)\n\n\n\nPublications\n\n\n\nTorus Tech by Nassim Haramein (Ralph Reijs, 2020)\n\n\n\n\n\nTorus Tech by Nassim Haramein (Ralph Reijs, 2020)\n\n\n\n\n\nTorus Tech by Nassim Haramein (Ralph Reijs, 2020)\n\n\n\n\n\nTorus Tech by Nassim Haramein (Ralph Reijs, 2020)\n\n\n\nHarmonic Flux Resonator\n\n\n  \n  Your browser does not support the video tag. \n\n\nVideo has no sound (© Nassim Haramein)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "websites",
+      "url": "/websites/torustech/"
     },{
       "image": {"path":"/assets/img/projects/projects_agrodroneai_full_01.jpg"},
       "title": "AgroDrone AI",
