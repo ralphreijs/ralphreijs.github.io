@@ -530,6 +530,17 @@
       "collection": "blockchain",
       "url": "/blockchain/toxicmaxi/"
     },{
+      "image": {"path":"/assets/img/projects/projects_mobile_haarlem.jpg"},
+      "title": "Haarlem for iPhone",
+      "date": "2010-03-01 00:00:00 +0100",
+      
+      "content": "Haarlem - Mobile App (Ralph Reijs - 2011)\n\nThis was a very small concept done for Gemeente Haarlem, the local municipalities of Haarlem, Netherlands.\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "mobile",
+      "url": "/mobile/haarlem/"
+    },{
       "image": {"path":"/assets/img/projects/projects_mobile_idomotics.jpg"},
       "title": "iDomotics",
       "date": "2010-03-01 00:00:00 +0100",
@@ -607,7 +618,7 @@
       "collection": "mobile",
       "url": "/mobile/ipst/"
     },{
-      "image": {"path":"/assets/img/projects/projects_appcodex.jpg"},
+      "image": {"path":"/assets/img/projects/projects_website_appcodex.jpg"},
       "title": "AppCodex",
       "date": "2008-08-01 00:00:00 +0200",
       
