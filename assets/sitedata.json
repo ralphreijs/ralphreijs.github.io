@@ -31,7 +31,7 @@
       
       "title": "Home",
       
-      "content": "\n\nWelcome and thanks for visiting! I’m Ralph, a Chief Technology Officer from the Netherlands. I advise and manage startups with a strong, senior mentality and 25+ years of experience in bleeding-edge technology. \nFor 20+ years I have worked in 40+ projects at corporate environments as a Senior Solution Architect in IT Service Management. For the last 14+ years I have worked on Startups as well, many of which in the Blockchain scene, as I have been involved with Bitcoin since 2010. \nIn 2017 I was a founding (and core team-) member of Pillar, one of the first cryptocurrency ICOs, where we raised $27M in 60 hours. In 2018 I was a core team member of Jinbi, an ICO where we raised $47M over 6 months.\nCurrently I’m CTO of Apostille USA, a 100% automated platform for Apostille of Legal Documents; which reduces processing time from months to days. Created in March 2023, customers since 1st month, profitable since the 4th month, without external funding.\n\n\n    \n        \n        Résumé\n    \n\n\nClients\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n\n\nPrevious Projects\n\n\n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Product Development\n            \n            \n                Projects where I served as CPO or CTO\n            \n        \n    \n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Enterprise Architecture\n            \n            \n                IT Service Management Projects\n            \n        \n    \n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Blockchain\n            \n            \n                Blockchain Startups &amp; Projects\n            \n        \n    \n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Security &amp; Infrastructure\n            \n            \n                Security, Networking, Pentesting projects\n            \n        \n    \n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Mobile Apps\n            \n            \n                Mobile Appplication development projects\n            \n        \n    \n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Websites\n            \n            \n                Website design &amp; development projects\n            \n        \n    \n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Personal Interests\n            \n            \n                Hacking, Tinkering, Drones, 3D Printing, Bitcoin. Nerd things.\n            \n        \n    \n\n\n\nNOTE: Projects and details missing since website migration will be added soon.\n\n",
+      "content": "\n\nWelcome and thanks for visiting! I’m Ralph, a Chief Technology Officer from the Netherlands. I advise and manage startups with a strong, senior mentality and 25+ years of experience in bleeding-edge technology. \nFor 20+ years I have worked in 40+ projects at corporate environments as a Senior Solution Architect in IT Service Management. For the last 14+ years I have worked on Startups as well, many of which in the Blockchain scene, as I have been involved with Bitcoin since 2010. \nIn 2017 I was a founding (and core team-) member of Pillar, one of the first cryptocurrency ICOs, where we raised $27M in 60 hours. In 2018 I was a core team member of Jinbi, an ICO where we raised $47M over 6 months.\nCurrently I’m CTO of Apostille USA, a 100% automated platform for Apostille of Legal Documents; which reduces processing time from months to days. Created in March 2023, customers since 1st month, profitable since the 4th month, without external funding.\n\n\n    \n        \n        Résumé\n    \n\n\nClients\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n  \n\n\nMy Previous Projects\n\n\n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Product Development\n            \n            \n                Projects where I served as CPO or CTO\n            \n        \n    \n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Enterprise Architecture\n            \n            \n                IT Service Management Projects\n            \n        \n    \n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Blockchain\n            \n            \n                Blockchain Startups &amp; Projects\n            \n        \n    \n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Security &amp; Infrastructure\n            \n            \n                Security, Networking, Pentesting projects\n            \n        \n    \n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Mobile Apps\n            \n            \n                Mobile Appplication development projects\n            \n        \n    \n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Websites\n            \n            \n                Website design &amp; development projects\n            \n        \n    \n    \n        \n            \n            \n            \n                \n                    \n                \n            \n            \n                Personal Interests\n            \n            \n                Hacking, Tinkering, Drones, 3D Printing, Bitcoin. Nerd things.\n            \n        \n    \n\n\n\nNOTE: Projects and details missing since website migration will be added soon.\n\n",
       "url": "/"
     },{
       
@@ -530,17 +530,6 @@
       "collection": "blockchain",
       "url": "/blockchain/toxicmaxi/"
     },{
-      "image": {"path":"/assets/img/projects/projects_mobile_haarlem.jpg"},
-      "title": "Haarlem for iPhone",
-      "date": "2010-03-01 00:00:00 +0100",
-      
-      "content": "Haarlem - Mobile App (Ralph Reijs - 2011)\n\nThis was a very small concept done for Gemeente Haarlem, the local municipalities of Haarlem, Netherlands.\n",
-      "categories": [],
-      "tags": [],
-      
-      "collection": "mobile",
-      "url": "/mobile/haarlem/"
-    },{
       "image": {"path":"/assets/img/projects/projects_mobile_idomotics.jpg"},
       "title": "iDomotics",
       "date": "2010-03-01 00:00:00 +0100",
@@ -584,6 +573,28 @@
       
       "collection": "mobile",
       "url": "/mobile/leesplankje/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_mobile_haarlem.jpg"},
+      "title": "Haarlem for iPhone",
+      "date": "2011-03-01 00:00:00 +0100",
+      
+      "content": "Haarlem - Mobile App (Ralph Reijs - 2011)\n\nThis was a very small concept done for Gemeente Haarlem, the local municipalities of Haarlem, Netherlands.\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "mobile",
+      "url": "/mobile/haarlem/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_mobile_hostingondemand.jpg"},
+      "title": "Hosting on Demand",
+      "date": "2011-06-01 00:00:00 +0200",
+      
+      "content": "We developed an application for iPhone and iPad that allowed customers to create an account and register domains, get webhosting, etc. Back in 2011 this was a revolutionary concept, and there was nothing like it on the market.\n\n\n\nHosting on Demand - Mobile App (Ralph Reijs - 2011)\n\n\n\nHosting on Demand - Mobile App (Ralph Reijs - 2011)\n\n\n\nHosting on Demand - Mobile App (Ralph Reijs - 2011)\n\n\n\nHosting on Demand - Mobile App (Ralph Reijs - 2011)\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "mobile",
+      "url": "/mobile/hostingondemand/"
     },{
       "image": {"path":"/assets/img/projects/projects_astroweather.jpg"},
       "title": "AstroWeather",
