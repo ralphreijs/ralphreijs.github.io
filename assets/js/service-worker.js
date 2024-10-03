@@ -29,7 +29,7 @@ const SHELL_CACHE = "shell-9.2.1--v13--sw/";
 const ASSETS_CACHE = "assets--v13--sw/";
 
 // The cache for regular content, which will be invalidated every time you make a new build.
-const CONTENT_CACHE = "content--2024-10-03T10:53:42+02:00--sw/";
+const CONTENT_CACHE = "content--2024-10-03T11:28:27+02:00--sw/";
 
 // A URL search parameter you can add to external assets to cache them in the service worker.
 const SW_CACHE_SEARCH_PARAM = "sw-cache";
@@ -661,6 +661,7 @@ const STATIC_FILES = [
   /**/"/assets/img/projects/projects_drones_full_51.jpg",
   /**/"/assets/img/projects/projects_drones_full_52.jpg",
   /**/"/assets/img/projects/projects_drones_full_53.jpg",
+  /**/"/assets/img/projects/projects_drones_full_54.jpg",
   /**/"/assets/img/projects/projects_farmacy.jpg",
   /**/"/assets/img/projects/projects_farmacy_full_01.jpg",
   /**/"/assets/img/projects/projects_farmacy_full_02.jpg",
@@ -1491,6 +1492,7 @@ const STATIC_FILES = [
   /**/"/assets/img/projects/projects_drones_full_51.webp",
   /**/"/assets/img/projects/projects_drones_full_52.webp",
   /**/"/assets/img/projects/projects_drones_full_53.webp",
+  /**/"/assets/img/projects/projects_drones_full_54.webp",
   /**/"/assets/img/projects/projects_farmacy.webp",
   /**/"/assets/img/projects/projects_farmacy_full_01.webp",
   /**/"/assets/img/projects/projects_farmacy_full_02.webp",
