@@ -29,7 +29,7 @@ const SHELL_CACHE = "shell-9.2.1--v13--sw/";
 const ASSETS_CACHE = "assets--v13--sw/";
 
 // The cache for regular content, which will be invalidated every time you make a new build.
-const CONTENT_CACHE = "content--2024-10-03T10:30:37+02:00--sw/";
+const CONTENT_CACHE = "content--2024-10-03T10:48:40+02:00--sw/";
 
 // A URL search parameter you can add to external assets to cache them in the service worker.
 const SW_CACHE_SEARCH_PARAM = "sw-cache";
@@ -400,7 +400,6 @@ const STATIC_FILES = [
   /**/"/assets/img/projects/mpowa_05.jpg",
   /**/"/assets/img/projects/mpowa_500px.jpg",
   /**/"/assets/img/projects/mpowa_psu.png",
-  /**/"/assets/img/projects/profile_ralph.png",
   /**/"/assets/img/projects/projects_3dprinting.jpg",
   /**/"/assets/img/projects/projects_3dprinting_full_01.jpg",
   /**/"/assets/img/projects/projects_3dprinting_full_02.jpg",
@@ -1131,6 +1130,7 @@ const STATIC_FILES = [
   /**/"/assets/js/webcomponents-hydejack-9.2.1.js",
   /**/"/assets/resume.json",
   /**/"/assets/rs_reijs_resume.pdf",
+  /**/"/assets/rs_reijs_resume_x.pdf",
   /**/"/assets/version.json",
   /**/"/package-lock.json",
   /**/"/package.json",
@@ -1177,6 +1177,7 @@ const STATIC_FILES = [
   /**/"/assets/img/projects/art_wardial.webp",
   /**/"/assets/img/projects/art_yesdelft.webp",
   /**/"/assets/img/projects/art_ziedesterren.webp",
+  /**/"/assets/img/projects/banner_mpowa.webp",
   /**/"/assets/img/projects/boxed-bg.webp",
   /**/"/assets/img/projects/boxed-bg.webp",
   /**/"/assets/img/projects/compass.webp",
@@ -1231,7 +1232,6 @@ const STATIC_FILES = [
   /**/"/assets/img/projects/mpowa_05.webp",
   /**/"/assets/img/projects/mpowa_500px.webp",
   /**/"/assets/img/projects/mpowa_psu.webp",
-  /**/"/assets/img/projects/profile_ralph.webp",
   /**/"/assets/img/projects/projects_3dprinting.webp",
   /**/"/assets/img/projects/projects_3dprinting_full_01.webp",
   /**/"/assets/img/projects/projects_3dprinting_full_02.webp",
@@ -1280,6 +1280,7 @@ const STATIC_FILES = [
   /**/"/assets/img/projects/projects_anima_full_10.webp",
   /**/"/assets/img/projects/projects_apostilleusa.webp",
   /**/"/assets/img/projects/projects_apostilleusa_full_01.webp",
+  /**/"/assets/img/projects/projects_apostilleusa_full_02.webp",
   /**/"/assets/img/projects/projects_app_appcodex_full_01.webp",
   /**/"/assets/img/projects/projects_app_appcodex_full_02.webp",
   /**/"/assets/img/projects/projects_app_astroweather_full_01.webp",
@@ -1375,6 +1376,8 @@ const STATIC_FILES = [
   /**/"/assets/img/projects/projects_aum_full_08.webp",
   /**/"/assets/img/projects/projects_aum_full_09.webp",
   /**/"/assets/img/projects/projects_aum_full_10.webp",
+  /**/"/assets/img/projects/projects_aum_multiplication_geometry.webp",
+  /**/"/assets/img/projects/projects_backlinkassassin.webp",
   /**/"/assets/img/projects/projects_backlinkassassin_full_01.webp",
   /**/"/assets/img/projects/projects_backlinkassassin_full_02.webp",
   /**/"/assets/img/projects/projects_backlinkassassin_full_03.webp",
@@ -1399,6 +1402,7 @@ const STATIC_FILES = [
   /**/"/assets/img/projects/projects_backlinkassassin_full_22.webp",
   /**/"/assets/img/projects/projects_backlinkassassin_full_23.webp",
   /**/"/assets/img/projects/projects_backlinkassassin_full_24.webp",
+  /**/"/assets/img/projects/projects_backlinkassassin_full_25.webp",
   /**/"/assets/img/projects/projects_bcnl_full_01.webp",
   /**/"/assets/img/projects/projects_bcnl_full_02.webp",
   /**/"/assets/img/projects/projects_bcnl_full_03.webp",
@@ -1575,7 +1579,9 @@ const STATIC_FILES = [
   /**/"/assets/img/projects/projects_hacking_full_58.webp",
   /**/"/assets/img/projects/projects_hacking_full_59.webp",
   /**/"/assets/img/projects/projects_hacking_full_60.webp",
+  /**/"/assets/img/projects/projects_hacking_full_61.webp",
   /**/"/assets/img/projects/projects_ibitcoin.webp",
+  /**/"/assets/img/projects/projects_ingressbootcamp.webp",
   /**/"/assets/img/projects/projects_ingressbootcamp_full_01.webp",
   /**/"/assets/img/projects/projects_ingressbootcamp_full_02.webp",
   /**/"/assets/img/projects/projects_ingressbootcamp_full_03.webp",
