@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://ralphreijs.github.io/ai/noderunners/</loc>
+<lastmod>2024-10-08T17:15:37+02:00</lastmod>
+</url>
+<url>
 <loc>https://ralphreijs.github.io/architecture/itsm/</loc>
 <lastmod>2024-10-07T11:57:56+02:00</lastmod>
 </url>
@@ -241,6 +245,10 @@
 <lastmod>2024-09-14T07:05:55+02:00</lastmod>
 </url>
 <url>
+<loc>https://ralphreijs.github.io/ai/</loc>
+<lastmod>2024-10-08T16:27:56+02:00</lastmod>
+</url>
+<url>
 <loc>https://ralphreijs.github.io/architecture/</loc>
 <lastmod>2024-10-02T13:24:30+02:00</lastmod>
 </url>
@@ -250,7 +258,7 @@
 </url>
 <url>
 <loc>https://ralphreijs.github.io/</loc>
-<lastmod>2024-10-07T13:05:09+02:00</lastmod>
+<lastmod>2024-10-08T14:48:53+02:00</lastmod>
 </url>
 <url>
 <loc>https://ralphreijs.github.io/interests/</loc>
