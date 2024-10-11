@@ -744,6 +744,50 @@
       
       "collection": "ai",
       "url": "/ai/noderunners/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_cfa.jpg"},
+      "title": "Climate Finance Accelerator",
+      "date": "2023-11-01 00:00:00 +0100",
+      
+      "content": "My fiancée was team lead for the CFA, a large UK Government project on sustainable innovation, and I generated some backgrounds for use in PowerPoint presentations. \n\n\n\nComfyUI workflow for CFA optical illusions\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "ai",
+      "url": "/ai/cfa/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_hiphop.jpg"},
+      "title": "Hiphop Superheroes",
+      "date": "2023-11-01 00:00:00 +0100",
+      
+      "content": "To learn Stable Diffusion and complex workflows, I played around with the concept of 2pac and Notorious B.I.G. in various superhero scenarios. These are some of the results. \n\nPirate 2pac\n\n\n\n\n\n\n\nPirate Biggie\n\n\n  \n  Your browser does not support the video tag. \n\n\n\n\n\n\n\n\n\n\n\nAssassin's Creed\n\n\n\n\n\n\n\nBatman\n\n\n\n\n\nKing Biggie\n\n\n\n\n\n\n\n\n\n\n\nLink from Zelda\n\n\n\n\n\n\n\n\n\nThe Notorious Mario\n\n\n\n\n\nSuper Biggie\n\n\n\nSpider Biggie\n\n\n\n2pac with wings\n\n\n  \n  Your browser does not support the video tag. \n\n\n\n\n  \n  Your browser does not support the video tag. \n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "ai",
+      "url": "/ai/hiphop/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_bellamy.jpg"},
+      "title": "Bellamy",
+      "date": "2023-12-01 00:00:00 +0100",
+      
+      "content": "I used 30 photos of my friend Bellamy’s to train a LoRa model for Stable Diffusion on him. These are some of the results. \n\nFuture Bellamy\n\n\n  \n  Your browser does not support the video tag. \n\n\n\n\n\n\n\n\n  \n  Your browser does not support the video tag. \n\n\n\n\n\n\n\n\n\n\n\n\n\nPainter Bellamy\n\n\n\n\n\n\n\n\n\nPirate Bellamy\n\n\n\n\n\nRockstar Bellamy\n\n\n  \n  Your browser does not support the video tag. \n\n\n\n  \n  Your browser does not support the video tag. \n\n\n\n\n\n\n\n\n\n\nWarrior Bellamy\n\n\n\n\n\n\n\n\n\nVarious Bellamy\n\n\n  \n  Your browser does not support the video tag. \n\n\nCartel Boss Bellamy\n\n\n\nThe Bellamy Brothers\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "ai",
+      "url": "/ai/bellamy/"
+    },{
+      "image": {"path":"/assets/img/projects/projects_rocco.jpg"},
+      "title": "Birthcard",
+      "date": "2024-01-01 00:00:00 +0100",
+      
+      "content": "In the Netherlands, it is a customary tradition to send family and friends a “birthcard” by post, when a baby has been born. I designed this birthcard for a boy, and used Stable Diffusion and ComfyUI with many different workflows, models, LoRas and prompts to come to the final desired style and result. \n\nFinal result\n\n\n\nFront side of the card. (The printed version also contained name, date &amp; place of birth, but have been removed for privacy)\n\n\n\nRear side of the card\n\nBack Side Iterations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFront Side Iterations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "categories": [],
+      "tags": [],
+      
+      "collection": "ai",
+      "url": "/ai/rocco/"
     }
   ]
 }
