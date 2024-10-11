@@ -1,0 +1,4 @@
+#!/bin/bash
+
+./jekyll_build && ./jekyll_github && ./jekyll_serve
+
