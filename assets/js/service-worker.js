@@ -29,7 +29,7 @@ const SHELL_CACHE = "shell-9.2.1--v13--sw/";
 const ASSETS_CACHE = "assets--v13--sw/";
 
 // The cache for regular content, which will be invalidated every time you make a new build.
-const CONTENT_CACHE = "content--2024-10-19T10:52:47+02:00--sw/";
+const CONTENT_CACHE = "content--2024-10-19T11:24:20+02:00--sw/";
 
 // A URL search parameter you can add to external assets to cache them in the service worker.
 const SW_CACHE_SEARCH_PARAM = "sw-cache";
@@ -444,7 +444,11 @@ const STATIC_FILES = [
   /**/"/assets/img/projects/projects_apostilleusa_ai_05.jpg",
   /**/"/assets/img/projects/projects_apostilleusa_ai_06.jpg",
   /**/"/assets/img/projects/projects_apostilleusa_ai_07.jpg",
+  /**/"/assets/img/projects/projects_apostilleusa_ai_08.jpg",
+  /**/"/assets/img/projects/projects_apostilleusa_ai_09.jpg",
+  /**/"/assets/img/projects/projects_apostilleusa_ai_10.jpg",
   /**/"/assets/img/projects/projects_apostilleusa_ai_11.jpg",
+  /**/"/assets/img/projects/projects_apostilleusa_ai_12.jpg",
   /**/"/assets/img/projects/projects_apostilleusa_ai_13.jpg",
   /**/"/assets/img/projects/projects_apostilleusa_ai_14.jpg",
   /**/"/assets/img/projects/projects_apostilleusa_ai_15.jpg",
@@ -1426,7 +1430,11 @@ const STATIC_FILES = [
   /**/"/assets/img/projects/projects_apostilleusa_ai_05.webp",
   /**/"/assets/img/projects/projects_apostilleusa_ai_06.webp",
   /**/"/assets/img/projects/projects_apostilleusa_ai_07.webp",
+  /**/"/assets/img/projects/projects_apostilleusa_ai_08.webp",
+  /**/"/assets/img/projects/projects_apostilleusa_ai_09.webp",
+  /**/"/assets/img/projects/projects_apostilleusa_ai_10.webp",
   /**/"/assets/img/projects/projects_apostilleusa_ai_11.webp",
+  /**/"/assets/img/projects/projects_apostilleusa_ai_12.webp",
   /**/"/assets/img/projects/projects_apostilleusa_ai_13.webp",
   /**/"/assets/img/projects/projects_apostilleusa_ai_14.webp",
   /**/"/assets/img/projects/projects_apostilleusa_ai_15.webp",
